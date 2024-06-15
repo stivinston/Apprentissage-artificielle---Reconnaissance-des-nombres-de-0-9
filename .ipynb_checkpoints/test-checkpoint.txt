@@ -1,0 +1,3357 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   TestMeka_AudioProcessing.ipynb
+	new file:   all_data/.DS_Store
+	new file:   all_data/0/0 Abadouma 1.wav
+	new file:   all_data/0/0 Abadouma 2.wav
+	new file:   all_data/0/0 Abadouma 3.wav
+	new file:   all_data/0/0 Amaelle 1.wav
+	new file:   all_data/0/0 Amaelle 2.wav
+	new file:   all_data/0/0 Amaelle 3.wav
+	new file:   all_data/0/0 Ashley 1.wav
+	new file:   all_data/0/0 Ashley 2.wav
+	new file:   all_data/0/0 Ashley 3.wav
+	new file:   all_data/0/0 Champlain 1.wav
+	new file:   all_data/0/0 Josiane 1.wav
+	new file:   all_data/0/0 Josiane 2.wav
+	new file:   all_data/0/0 Josiane 3.wav
+	new file:   all_data/0/0 Sorelle 1.wav
+	new file:   all_data/0/0 Sorelle 2.wav
+	new file:   all_data/0/0 Sorelle 3.wav
+	new file:   all_data/0/0 anna1.wav
+	new file:   all_data/0/0 anna2.wav
+	new file:   all_data/0/0 anna3.wav
+	new file:   all_data/0/0 champlain 2.wav
+	new file:   all_data/0/0 champlain 3.wav
+	new file:   all_data/0/0 pollah1.wav
+	new file:   all_data/0/0 pollah2.wav
+	new file:   all_data/0/0 pollah3.wav
+	new file:   all_data/0/0A-17-20-7_2024-05-25_094805865.wav
+	new file:   all_data/0/0A-17-20-8_2024-05-25_094828405.wav
+	new file:   all_data/0/0A-17-20-9_2024-05-25_094835479.wav
+	new file:   all_data/0/0A-20-25-10_2024-05-25_094845942.wav
+	new file:   all_data/0/0A-20-25-11_2024-05-25_101120911.wav
+	new file:   all_data/0/0A-20-25-12_2024-05-25_101127267.wav
+	new file:   all_data/0/0A-20-25-13_2024-05-25_101133252.wav
+	new file:   all_data/0/0A-20-25-14_2024-05-25_101138650.wav
+	new file:   all_data/0/0A-20-25-15_2024-05-25_101145733.wav
+	new file:   all_data/0/0A-20-25-16_2024-05-25_101233997.wav
+	new file:   all_data/0/0A-20-25-17_2024-05-25_101334235.wav
+	new file:   all_data/0/0A-20-25-18_2024-05-25_101340402.wav
+	new file:   all_data/0/0A-20-25-19_2024-05-25_101347990.wav
+	new file:   all_data/0/0A-20-25-1_2024-05-25_094546614.wav
+	new file:   all_data/0/0A-20-25-20_2024-05-25_101354360.wav
+	new file:   all_data/0/0A-20-25-21_2024-05-30_190435699.wav
+	new file:   all_data/0/0A-20-25-22_2024-05-30_190445055.wav
+	new file:   all_data/0/0A-20-25-23_2024-05-30_190453252.wav
+	new file:   all_data/0/0A-20-25-24_2024-05-30_190502467.wav
+	new file:   all_data/0/0A-20-25-25_2024-05-30_190509396.wav
+	new file:   all_data/0/0A-20-25-26_2024-05-30_190526337.wav
+	new file:   all_data/0/0A-20-25-27_2024-05-30_190533023.wav
+	new file:   all_data/0/0A-20-25-28_2024-05-30_190540576.wav
+	new file:   all_data/0/0A-20-25-29_2024-05-30_190629148.wav
+	new file:   all_data/0/0A-20-25-2_2024-05-25_094719739.wav
+	new file:   all_data/0/0A-20-25-30_2024-05-30_190636646.wav
+	new file:   all_data/0/0A-20-25-3_2024-05-25_094729783.wav
+	new file:   all_data/0/0A-20-25-4_2024-05-25_094739369.wav
+	new file:   all_data/0/0A-20-25-5_2024-05-25_094746620.wav
+	new file:   all_data/0/0A-20-25-6_2024-05-25_094753556.wav
+	new file:   all_data/0/0E1_2024-05-30_114506168.wav
+	new file:   all_data/0/0E2_2024-05-30_114532643.wav
+	new file:   all_data/0/0E3_2024-05-30_114550428.wav
+	new file:   all_data/0/0F1.wav
+	new file:   all_data/0/0F1_2024-05-30_124223311.wav
+	new file:   all_data/0/0F2.wav
+	new file:   all_data/0/0F2_2024-05-30_124243918.wav
+	new file:   all_data/0/0F3.wav
+	new file:   all_data/0/0F3_2024-05-30_124254212.wav
+	new file:   all_data/0/0J1_2024-05-31_101728744.wav
+	new file:   all_data/0/0J2_2024-05-31_101852365.wav
+	new file:   all_data/0/0J3_2024-05-31_101901693.wav
+	new file:   all_data/0/0K1_2024-05-30_124904181.wav
+	new file:   all_data/0/0K1_2024-05-30_204146619.wav
+	new file:   all_data/0/0K2_2024-05-30_124918950.wav
+	new file:   all_data/0/0K2_2024-05-30_204157555.wav
+	new file:   all_data/0/0K3_2024-05-30_124933517.wav
+	new file:   all_data/0/0K3_2024-05-30_204208592.wav
+	new file:   all_data/0/0L1_2024-05-30_125433866.wav
+	new file:   all_data/0/0L2_2024-05-30_125452262.wav
+	new file:   all_data/0/0L3_2024-05-30_125500336.wav
+	new file:   all_data/0/0N1_2024-05-30_115133623.wav
+	new file:   all_data/0/0N2_2024-05-30_115154275.wav
+	new file:   all_data/0/0N3_2024-05-30_115301227.wav
+	new file:   all_data/0/0S1_2024-05-31_060922823.wav
+	new file:   all_data/0/0S2_2024-05-31_060944461.wav
+	new file:   all_data/0/0S3_2024-05-31_060950979.wav
+	new file:   all_data/0/0T1_2024-05-30_130055094.wav
+	new file:   all_data/0/0T2_2024-05-30_130107644.wav
+	new file:   all_data/0/0T3_2024-05-30_130118902.wav
+	new file:   all_data/0/0_1_2024-05-31_063728113.wav
+	new file:   all_data/0/0_1_2024-05-31_064916119.wav
+	new file:   all_data/0/0_1_2024-05-31_064923198.wav
+	new file:   all_data/0/0_2024-05-30_160701734.wav
+	new file:   all_data/0/0_2024-05-30_160929017.wav
+	new file:   all_data/0/0_2024-05-30_161034482.wav
+	new file:   all_data/0/0_2024-05-30_161222027.wav
+	new file:   all_data/0/0_2024-05-30_161321249.wav
+	new file:   all_data/0/0_2024-05-30_161421390.wav
+	new file:   all_data/0/0_2024-05-30_161544503.wav
+	new file:   all_data/0/0_2024-05-30_161644985.wav
+	new file:   all_data/0/0_2024-05-30_161855655.wav
+	new file:   all_data/0/0_2024-05-30_162036633.wav
+	new file:   all_data/0/0_2024-05-30_162141691.wav
+	new file:   all_data/0/0_2024-05-30_162250881.wav
+	new file:   all_data/0/0_2024-05-30_162428422.wav
+	new file:   all_data/0/0_2024-05-30_162542014.wav
+	new file:   all_data/0/0_2024-05-30_162656421.wav
+	new file:   all_data/0/0_2024-05-30_162846483.wav
+	new file:   all_data/0/0_2024-05-30_163021235.wav
+	new file:   all_data/0/0_2024-05-30_163137284.wav
+	new file:   all_data/0/0_2024-05-30_163255756.wav
+	new file:   all_data/0/0_2024-05-30_163516796.wav
+	new file:   all_data/0/0_2024-05-30_163621302.wav
+	new file:   all_data/0/0_2024-05-30_163805845.wav
+	new file:   all_data/0/0_2024-05-30_163937471.wav
+	new file:   all_data/0/0_2024-05-30_164045666.wav
+	new file:   all_data/0/0_2024-05-30_164234330.wav
+	new file:   all_data/0/0_2024-05-30_164339043.wav
+	new file:   all_data/0/0_2024-05-30_164438920.wav
+	new file:   all_data/0/0_2024-05-30_164550526.wav
+	new file:   all_data/0/0_2024-05-30_164557069.wav
+	new file:   all_data/0/0_2024-05-30_164601159.wav
+	new file:   all_data/0/0_2024-05-31_065540867.wav
+	new file:   all_data/0/0_2024-05-31_065559958.wav
+	new file:   all_data/0/0_2024-05-31_065606875.wav
+	new file:   all_data/0/0_2024-05-31_065612664.wav
+	new file:   all_data/0/0_2024-05-31_065617335.wav
+	new file:   all_data/0/0_2024-05-31_065622590.wav
+	new file:   all_data/0/0_2024-05-31_070251551.wav
+	new file:   all_data/0/0_2024-05-31_070257936.wav
+	new file:   all_data/0/0_2024-05-31_070330630.wav
+	new file:   all_data/0/0_2024-05-31_070742299.wav
+	new file:   all_data/0/0_2024-05-31_070753522.wav
+	new file:   all_data/0/0_2024-05-31_070756433.wav
+	new file:   all_data/0/0_2024-05-31_071136973.wav
+	new file:   all_data/0/0_2024-05-31_071142891.wav
+	new file:   all_data/0/0_2024-05-31_071145951.wav
+	new file:   all_data/0/0_2024-05-31_080822853.wav
+	new file:   all_data/0/0_2024-05-31_080837679.wav
+	new file:   all_data/0/0_2024-05-31_080843067.wav
+	new file:   all_data/0/0_2024-05-31_101810800.wav
+	new file:   all_data/0/0_2024-05-31_101819225.wav
+	new file:   all_data/0/0_2024-05-31_101823217.wav
+	new file:   all_data/0/0_2024-05-31_102457648.wav
+	new file:   all_data/0/0_2024-05-31_102524072.wav
+	new file:   all_data/0/0_2024-05-31_102538471.wav
+	new file:   all_data/0/0_2024-05-31_102830751.wav
+	new file:   all_data/0/0_2024-05-31_102907330.wav
+	new file:   all_data/0/0_2024-05-31_102911978.wav
+	new file:   all_data/0/0_ange_1.wav
+	new file:   all_data/0/0_ange_2.wav
+	new file:   all_data/0/0_ange_3.wav
+	new file:   all_data/0/0_annaelle_1 .wav
+	new file:   all_data/0/0_annaelle_2.wav
+	new file:   all_data/0/0_annaelle_3.wav
+	new file:   all_data/0/0k1_2024-05-30_122956988.wav
+	new file:   all_data/0/0k2_2024-05-30_123033208.wav
+	new file:   all_data/0/0k3_2024-05-30_123042687.wav
+	new file:   all_data/0/Juniorchiffre_01.wav
+	new file:   all_data/0/Juniorchiffre_02.wav
+	new file:   all_data/0/Juniorchiffre_03.wav
+	new file:   all_data/0/NKWChiffre_01.wav
+	new file:   all_data/0/NKWChiffre_02.wav
+	new file:   all_data/0/NKWChiffre_03.wav
+	new file:   all_data/0/Stephanechiffre_01.wav
+	new file:   all_data/0/Stephanechiffre_02.wav
+	new file:   all_data/0/Stephanechiffre_03.wav
+	new file:   all_data/0/chiffre_01.wav
+	new file:   all_data/0/chiffre_02.wav
+	new file:   all_data/0/chiffre_03.wav
+	new file:   all_data/1/1 Abadouma 1.wav
+	new file:   all_data/1/1 Abadouma 2.wav
+	new file:   all_data/1/1 Abadouma 3.wav
+	new file:   all_data/1/1 Amaelle 1.wav
+	new file:   all_data/1/1 Amaelle 2.wav
+	new file:   all_data/1/1 Amaelle 3.wav
+	new file:   all_data/1/1 Champlain 1.wav
+	new file:   all_data/1/1 Josiane 1.wav
+	new file:   all_data/1/1 Josiane 2.wav
+	new file:   all_data/1/1 Josiane 3.wav
+	new file:   all_data/1/1 Sorelle 1.wav
+	new file:   all_data/1/1 Sorelle 2.wav
+	new file:   all_data/1/1 Sorelle 3.wav
+	new file:   all_data/1/1 anna1.wav
+	new file:   all_data/1/1 anna2.wav
+	new file:   all_data/1/1 anna3.wav
+	new file:   all_data/1/1 champlain 2.wav
+	new file:   all_data/1/1 champlain 3.wav
+	new file:   all_data/1/1 pollah1.wav
+	new file:   all_data/1/1 pollah2.wav
+	new file:   all_data/1/1 pollah3.wav
+	new file:   all_data/1/1A-20-25-0_2024-05-30_190657375.wav
+	new file:   all_data/1/1A-20-25-10_2024-05-30_190938007.wav
+	new file:   all_data/1/1A-20-25-2_2024-05-30_190707847.wav
+	new file:   all_data/1/1A-20-25-3_2024-05-30_190724004.wav
+	new file:   all_data/1/1A-20-25-4_2024-05-30_190729891.wav
+	new file:   all_data/1/1A-20-25-5_2024-05-30_190736815.wav
+	new file:   all_data/1/1A-20-25-6_2024-05-30_190840768.wav
+	new file:   all_data/1/1A-20-25-7_2024-05-30_190849132.wav
+	new file:   all_data/1/1A-20-25-8_2024-05-30_190855238.wav
+	new file:   all_data/1/1A-20-25-9_2024-05-30_190902464.wav
+	new file:   all_data/1/1E1_2024-05-30_114631291.wav
+	new file:   all_data/1/1E2_2024-05-30_114649784.wav
+	new file:   all_data/1/1E3_2024-05-30_114657116.wav
+	new file:   all_data/1/1F1.wav
+	new file:   all_data/1/1F1_2024-05-30_124307507.wav
+	new file:   all_data/1/1F2.wav
+	new file:   all_data/1/1F2_2024-05-30_124319821.wav
+	new file:   all_data/1/1F3.wav
+	new file:   all_data/1/1F3_2024-05-30_124327518.wav
+	new file:   all_data/1/1F4.wav
+	new file:   all_data/1/1J1_2024-05-31_101915615.wav
+	new file:   all_data/1/1J2_2024-05-31_101942975.wav
+	new file:   all_data/1/1J3_2024-05-31_101952307.wav
+	new file:   all_data/1/1K1_2024-05-30_124941225.wav
+	new file:   all_data/1/1K1_2024-05-30_212854724.wav
+	new file:   all_data/1/1K2_2024-05-30_124951820.wav
+	new file:   all_data/1/1K2_2024-05-30_212906869.wav
+	new file:   all_data/1/1K3_2024-05-30_124959610.wav
+	new file:   all_data/1/1K3_2024-05-30_212914404.wav
+	new file:   all_data/1/1L1_2024-05-30_125506798.wav
+	new file:   all_data/1/1L2_2024-05-30_125515662.wav
+	new file:   all_data/1/1L3_2024-05-30_125522777.wav
+	new file:   all_data/1/1N1_2024-05-30_115444082.wav
+	new file:   all_data/1/1N2_2024-05-30_115454893.wav
+	new file:   all_data/1/1N3_2024-05-30_115501126.wav
+	new file:   all_data/1/1S1_2024-05-31_060957827.wav
+	new file:   all_data/1/1S2_2024-05-31_061009175.wav
+	new file:   all_data/1/1S3_2024-05-31_061020815.wav
+	new file:   all_data/1/1T1_2024-05-30_130136288.wav
+	new file:   all_data/1/1T2_2024-05-30_130152418.wav
+	new file:   all_data/1/1T3_2024-05-30_130210490.wav
+	new file:   all_data/1/1_1_2024-05-31_064943353.wav
+	new file:   all_data/1/1_1_2024-05-31_064955942.wav
+	new file:   all_data/1/1_1_2024-05-31_065005902.wav
+	new file:   all_data/1/1_2024-05-30_160710633.wav
+	new file:   all_data/1/1_2024-05-30_160935901.wav
+	new file:   all_data/1/1_2024-05-30_161040531.wav
+	new file:   all_data/1/1_2024-05-30_161227922.wav
+	new file:   all_data/1/1_2024-05-30_161326849.wav
+	new file:   all_data/1/1_2024-05-30_161427768.wav
+	new file:   all_data/1/1_2024-05-30_161550183.wav
+	new file:   all_data/1/1_2024-05-30_161733406.wav
+	new file:   all_data/1/1_2024-05-30_161902402.wav
+	new file:   all_data/1/1_2024-05-30_162043273.wav
+	new file:   all_data/1/1_2024-05-30_162148168.wav
+	new file:   all_data/1/1_2024-05-30_162258686.wav
+	new file:   all_data/1/1_2024-05-30_162434384.wav
+	new file:   all_data/1/1_2024-05-30_162556120.wav
+	new file:   all_data/1/1_2024-05-30_162702170.wav
+	new file:   all_data/1/1_2024-05-30_162856705.wav
+	new file:   all_data/1/1_2024-05-30_163027284.wav
+	new file:   all_data/1/1_2024-05-30_163143284.wav
+	new file:   all_data/1/1_2024-05-30_163301535.wav
+	new file:   all_data/1/1_2024-05-30_163522343.wav
+	new file:   all_data/1/1_2024-05-30_163628924.wav
+	new file:   all_data/1/1_2024-05-30_163814546.wav
+	new file:   all_data/1/1_2024-05-30_163946220.wav
+	new file:   all_data/1/1_2024-05-30_164052298.wav
+	new file:   all_data/1/1_2024-05-30_164240539.wav
+	new file:   all_data/1/1_2024-05-30_164344407.wav
+	new file:   all_data/1/1_2024-05-30_164444603.wav
+	new file:   all_data/1/1_2024-05-30_164605518.wav
+	new file:   all_data/1/1_2024-05-30_164611122.wav
+	new file:   all_data/1/1_2024-05-30_164614847.wav
+	new file:   all_data/1/1_2024-05-31_065629758.wav
+	new file:   all_data/1/1_2024-05-31_065636785.wav
+	new file:   all_data/1/1_2024-05-31_065641082.wav
+	new file:   all_data/1/1_2024-05-31_065646005.wav
+	new file:   all_data/1/1_2024-05-31_065649164.wav
+	new file:   all_data/1/1_2024-05-31_065654818.wav
+	new file:   all_data/1/1_2024-05-31_070403839.wav
+	new file:   all_data/1/1_2024-05-31_070409809.wav
+	new file:   all_data/1/1_2024-05-31_070413001.wav
+	new file:   all_data/1/1_2024-05-31_070801505.wav
+	new file:   all_data/1/1_2024-05-31_070810053.wav
+	new file:   all_data/1/1_2024-05-31_070824935.wav
+	new file:   all_data/1/1_2024-05-31_071148944.wav
+	new file:   all_data/1/1_2024-05-31_071205141.wav
+	new file:   all_data/1/1_2024-05-31_071208400.wav
+	new file:   all_data/1/1_2024-05-31_080846841.wav
+	new file:   all_data/1/1_2024-05-31_080855855.wav
+	new file:   all_data/1/1_2024-05-31_080858481.wav
+	new file:   all_data/1/1_2024-05-31_101826907.wav
+	new file:   all_data/1/1_2024-05-31_101834473.wav
+	new file:   all_data/1/1_2024-05-31_101837566.wav
+	new file:   all_data/1/1_2024-05-31_102542064.wav
+	new file:   all_data/1/1_2024-05-31_102552889.wav
+	new file:   all_data/1/1_2024-05-31_102556148.wav
+	new file:   all_data/1/1_2024-05-31_102915718.wav
+	new file:   all_data/1/1_2024-05-31_102932946.wav
+	new file:   all_data/1/1_2024-05-31_102936174.wav
+	new file:   all_data/1/1_2024-05-31_120706772.wav
+	new file:   all_data/1/1_2024-05-31_120712230.wav
+	new file:   all_data/1/1_2024-05-31_120715514.wav
+	new file:   all_data/1/1_2024-05-31_120721934.wav
+	new file:   all_data/1/1_2024-05-31_120724814.wav
+	new file:   all_data/1/1_2024-05-31_120727888.wav
+	new file:   all_data/1/1_2024-05-31_120730926.wav
+	new file:   all_data/1/1_2024-05-31_120733967.wav
+	new file:   all_data/1/1_2024-05-31_120737135.wav
+	new file:   all_data/1/1_2024-05-31_120740180.wav
+	new file:   all_data/1/1_2024-05-31_120743062.wav
+	new file:   all_data/1/1_2024-05-31_120745852.wav
+	new file:   all_data/1/1_2024-05-31_120748720.wav
+	new file:   all_data/1/1_2024-05-31_120751623.wav
+	new file:   all_data/1/1_2024-05-31_120754583.wav
+	new file:   all_data/1/1_2024-05-31_120757913.wav
+	new file:   all_data/1/1_2024-05-31_120800662.wav
+	new file:   all_data/1/1_ange_1.wav
+	new file:   all_data/1/1_ange_2.wav
+	new file:   all_data/1/1_ange_3.wav
+	new file:   all_data/1/1_annaelle_1.wav
+	new file:   all_data/1/1_annaelle_2.wav
+	new file:   all_data/1/1_annaelle_3.wav
+	new file:   all_data/1/1k1_2024-05-30_123051956.wav
+	new file:   all_data/1/1k2_2024-05-30_123104520.wav
+	new file:   all_data/1/1k3_2024-05-30_123112394.wav
+	new file:   all_data/1/Juniorchiffre_11.wav
+	new file:   all_data/1/Juniorchiffre_12.wav
+	new file:   all_data/1/Juniorchiffre_13.wav
+	new file:   all_data/1/NKWChiffre_11.wav
+	new file:   all_data/1/NKWChiffre_12.wav
+	new file:   all_data/1/NKWChiffre_13.wav
+	new file:   all_data/1/Stephanechiffre_11.wav
+	new file:   all_data/1/Stephanechiffre_12.wav
+	new file:   all_data/1/Stephanechiffre_13.wav
+	new file:   all_data/1/chiffre_11.wav
+	new file:   all_data/1/chiffre_12.wav
+	new file:   all_data/1/chiffre_13.wav
+	new file:   all_data/2/2 Abadouma 1.wav
+	new file:   all_data/2/2 Abadouma 2.wav
+	new file:   all_data/2/2 Abadouma 3.wav
+	new file:   all_data/2/2 Amaelle 1.wav
+	new file:   all_data/2/2 Amaelle 2.wav
+	new file:   all_data/2/2 Amaelle 3.wav
+	new file:   all_data/2/2 Ashley 1.wav
+	new file:   all_data/2/2 Ashley 2.wav
+	new file:   all_data/2/2 Ashley 3.wav
+	new file:   all_data/2/2 Josiane 1.wav
+	new file:   all_data/2/2 Josiane 2.wav
+	new file:   all_data/2/2 Josiane 3.wav
+	new file:   all_data/2/2 Sorelle 1.wav
+	new file:   all_data/2/2 Sorelle 2.wav
+	new file:   all_data/2/2 Sorelle 3.wav
+	new file:   all_data/2/2 anna1.wav
+	new file:   all_data/2/2 anna2.wav
+	new file:   all_data/2/2 anna3.wav
+	new file:   all_data/2/2 champlain 1.wav
+	new file:   all_data/2/2 champlain 2 .wav
+	new file:   all_data/2/2 champlain 3.wav
+	new file:   all_data/2/2 pollah1.wav
+	new file:   all_data/2/2 pollah2.wav
+	new file:   all_data/2/2 pollah3.wav
+	new file:   all_data/2/2E1_2024-05-30_114706082.wav
+	new file:   all_data/2/2E2_2024-05-30_114732508.wav
+	new file:   all_data/2/2E3_2024-05-30_114739006.wav
+	new file:   all_data/2/2F1.wav
+	new file:   all_data/2/2F1_2024-05-30_124341343.wav
+	new file:   all_data/2/2F2.wav
+	new file:   all_data/2/2F2_2024-05-30_124351124.wav
+	new file:   all_data/2/2F3.wav
+	new file:   all_data/2/2F3_2024-05-30_124400630.wav
+	new file:   all_data/2/2F4.wav
+	new file:   all_data/2/2J1_2024-05-31_102003607.wav
+	new file:   all_data/2/2J2_2024-05-31_102014430.wav
+	new file:   all_data/2/2J3_2024-05-31_102026050.wav
+	new file:   all_data/2/2K1_2024-05-30_125014599.wav
+	new file:   all_data/2/2K1_2024-05-30_212921888.wav
+	new file:   all_data/2/2K2_2024-05-30_125037041.wav
+	new file:   all_data/2/2K2_2024-05-30_212931513.wav
+	new file:   all_data/2/2K3_2024-05-30_125047305.wav
+	new file:   all_data/2/2K3_2024-05-30_212939708.wav
+	new file:   all_data/2/2L1_2024-05-30_125529297.wav
+	new file:   all_data/2/2L2_2024-05-30_125542721.wav
+	new file:   all_data/2/2L3_2024-05-30_125548885.wav
+	new file:   all_data/2/2N1_2024-05-30_115511945.wav
+	new file:   all_data/2/2N2_2024-05-30_115520954.wav
+	new file:   all_data/2/2N3_2024-05-30_115533815.wav
+	new file:   all_data/2/2S1_2024-05-31_061034078.wav
+	new file:   all_data/2/2S2_2024-05-31_061041805.wav
+	new file:   all_data/2/2S3_2024-05-31_061048136.wav
+	new file:   all_data/2/2T1_2024-05-30_130223704.wav
+	new file:   all_data/2/2T2_2024-05-30_130240031.wav
+	new file:   all_data/2/2T3_2024-05-30_130255132.wav
+	new file:   all_data/2/2_1_2024-05-31_065017061.wav
+	new file:   all_data/2/2_1_2024-05-31_065032127.wav
+	new file:   all_data/2/2_1_2024-05-31_065037348.wav
+	new file:   all_data/2/2_2024-05-30_160717082.wav
+	new file:   all_data/2/2_2024-05-30_160941705.wav
+	new file:   all_data/2/2_2024-05-30_161046254.wav
+	new file:   all_data/2/2_2024-05-30_161233771.wav
+	new file:   all_data/2/2_2024-05-30_161332072.wav
+	new file:   all_data/2/2_2024-05-30_161434514.wav
+	new file:   all_data/2/2_2024-05-30_161555714.wav
+	new file:   all_data/2/2_2024-05-30_161739658.wav
+	new file:   all_data/2/2_2024-05-30_161908813.wav
+	new file:   all_data/2/2_2024-05-30_162049819.wav
+	new file:   all_data/2/2_2024-05-30_162200172.wav
+	new file:   all_data/2/2_2024-05-30_162304463.wav
+	new file:   all_data/2/2_2024-05-30_162440099.wav
+	new file:   all_data/2/2_2024-05-30_162602268.wav
+	new file:   all_data/2/2_2024-05-30_162707823.wav
+	new file:   all_data/2/2_2024-05-30_162902582.wav
+	new file:   all_data/2/2_2024-05-30_163033447.wav
+	new file:   all_data/2/2_2024-05-30_163148837.wav
+	new file:   all_data/2/2_2024-05-30_163308991.wav
+	new file:   all_data/2/2_2024-05-30_163528407.wav
+	new file:   all_data/2/2_2024-05-30_163635551.wav
+	new file:   all_data/2/2_2024-05-30_163821326.wav
+	new file:   all_data/2/2_2024-05-30_163952768.wav
+	new file:   all_data/2/2_2024-05-30_164058408.wav
+	new file:   all_data/2/2_2024-05-30_164245878.wav
+	new file:   all_data/2/2_2024-05-30_164349834.wav
+	new file:   all_data/2/2_2024-05-30_164449797.wav
+	new file:   all_data/2/2_2024-05-30_164631528.wav
+	new file:   all_data/2/2_2024-05-30_164636792.wav
+	new file:   all_data/2/2_2024-05-30_164643591.wav
+	new file:   all_data/2/2_2024-05-31_065700755.wav
+	new file:   all_data/2/2_2024-05-31_065707207.wav
+	new file:   all_data/2/2_2024-05-31_065710599.wav
+	new file:   all_data/2/2_2024-05-31_065714989.wav
+	new file:   all_data/2/2_2024-05-31_065720876.wav
+	new file:   all_data/2/2_2024-05-31_065724984.wav
+	new file:   all_data/2/2_2024-05-31_070416726.wav
+	new file:   all_data/2/2_2024-05-31_070422430.wav
+	new file:   all_data/2/2_2024-05-31_070425157.wav
+	new file:   all_data/2/2_2024-05-31_070828278.wav
+	new file:   all_data/2/2_2024-05-31_070836194.wav
+	new file:   all_data/2/2_2024-05-31_070838970.wav
+	new file:   all_data/2/2_2024-05-31_071211876.wav
+	new file:   all_data/2/2_2024-05-31_071217862.wav
+	new file:   all_data/2/2_2024-05-31_071220890.wav
+	new file:   all_data/2/2_2024-05-31_080904718.wav
+	new file:   all_data/2/2_2024-05-31_080912700.wav
+	new file:   all_data/2/2_2024-05-31_080915477.wav
+	new file:   all_data/2/2_2024-05-31_101950943.wav
+	new file:   all_data/2/2_2024-05-31_101959704.wav
+	new file:   all_data/2/2_2024-05-31_102002776.wav
+	new file:   all_data/2/2_2024-05-31_102559324.wav
+	new file:   all_data/2/2_2024-05-31_102605128.wav
+	new file:   all_data/2/2_2024-05-31_102608404.wav
+	new file:   all_data/2/2_2024-05-31_102826651.wav
+	new file:   all_data/2/2_2024-05-31_102835786.wav
+	new file:   all_data/2/2_2024-05-31_102846811.wav
+	new file:   all_data/2/2_2024-05-31_102940479.wav
+	new file:   all_data/2/2_2024-05-31_102949392.wav
+	new file:   all_data/2/2_2024-05-31_102952884.wav
+	new file:   all_data/2/2_2024-05-31_103159679.wav
+	new file:   all_data/2/2_2024-05-31_103206229.wav
+	new file:   all_data/2/2_2024-05-31_103209362.wav
+	new file:   all_data/2/2_2024-05-31_110207003.wav
+	new file:   all_data/2/2_2024-05-31_110217511.wav
+	new file:   all_data/2/2_2024-05-31_110220331.wav
+	new file:   all_data/2/2_2024-05-31_111525434.wav
+	new file:   all_data/2/2_2024-05-31_111531046.wav
+	new file:   all_data/2/2_2024-05-31_111533956.wav
+	new file:   all_data/2/2_2024-05-31_112111143.wav
+	new file:   all_data/2/2_2024-05-31_112116325.wav
+	new file:   all_data/2/2_2024-05-31_112119190.wav
+	new file:   all_data/2/2_2024-05-31_112328109.wav
+	new file:   all_data/2/2_2024-05-31_112347767.wav
+	new file:   all_data/2/2_2024-05-31_112353707.wav
+	new file:   all_data/2/2_2024-05-31_114222068.wav
+	new file:   all_data/2/2_2024-05-31_114227900.wav
+	new file:   all_data/2/2_2024-05-31_114230741.wav
+	new file:   all_data/2/2_2024-05-31_114432122.wav
+	new file:   all_data/2/2_2024-05-31_114437980.wav
+	new file:   all_data/2/2_2024-05-31_114440767.wav
+	new file:   all_data/2/2_2024-05-31_114730577.wav
+	new file:   all_data/2/2_2024-05-31_114735965.wav
+	new file:   all_data/2/2_2024-05-31_114740127.wav
+	new file:   all_data/2/2_2024-05-31_115009226.wav
+	new file:   all_data/2/2_2024-05-31_115013901.wav
+	new file:   all_data/2/2_2024-05-31_115021341.wav
+	new file:   all_data/2/2_ange_1.wav
+	new file:   all_data/2/2_ange_2.wav
+	new file:   all_data/2/2_ange_3.wav
+	new file:   all_data/2/2_annaelle_1.wav
+	new file:   all_data/2/2_annaelle_2.wav
+	new file:   all_data/2/2_annaelle_3.wav
+	new file:   all_data/2/2k1_2024-05-30_123121228.wav
+	new file:   all_data/2/2k2_2024-05-30_123132335.wav
+	new file:   all_data/2/2k3_2024-05-30_123139996.wav
+	new file:   all_data/2/Juniorchiffre_21.wav
+	new file:   all_data/2/Juniorchiffre_22.wav
+	new file:   all_data/2/Juniorchiffre_23.wav
+	new file:   all_data/2/NKWChiffre_21.wav
+	new file:   all_data/2/NKWChiffre_22.wav
+	new file:   all_data/2/NKWChiffre_23.wav
+	new file:   all_data/2/Stephanechiffre_21.wav
+	new file:   all_data/2/Stephanechiffre_22.wav
+	new file:   all_data/2/Stephanechiffre_23.wav
+	new file:   all_data/2/chiffre_21.wav
+	new file:   all_data/2/chiffre_22.wav
+	new file:   all_data/2/chiffre_23.wav
+	new file:   all_data/3/3 Abadouma 1.wav
+	new file:   all_data/3/3 Abadouma 2.wav
+	new file:   all_data/3/3 Abadouma 3.wav
+	new file:   all_data/3/3 Amaelle 1.wav
+	new file:   all_data/3/3 Amaelle 2.wav
+	new file:   all_data/3/3 Amaelle 3.wav
+	new file:   all_data/3/3 Ashley 1.wav
+	new file:   all_data/3/3 Ashley 2.wav
+	new file:   all_data/3/3 Ashley 3.wav
+	new file:   all_data/3/3 Josiane 1.wav
+	new file:   all_data/3/3 Josiane 2.wav
+	new file:   all_data/3/3 Josiane 3.wav
+	new file:   all_data/3/3 Sorelle 1.wav
+	new file:   all_data/3/3 Sorelle 2.wav
+	new file:   all_data/3/3 Sorelle 3.wav
+	new file:   all_data/3/3 anna1.wav
+	new file:   all_data/3/3 anna2.wav
+	new file:   all_data/3/3 anna3.wav
+	new file:   all_data/3/3 champlain 1.wav
+	new file:   all_data/3/3 champlain 2.wav
+	new file:   all_data/3/3 champlain 3.wav
+	new file:   all_data/3/3 pollah1.wav
+	new file:   all_data/3/3 pollah2.wav
+	new file:   all_data/3/3 pollah3.wav
+	new file:   all_data/3/3E1_2024-05-30_114746861.wav
+	new file:   all_data/3/3E2_2024-05-30_114758943.wav
+	new file:   all_data/3/3E3_2024-05-30_114805463.wav
+	new file:   all_data/3/3F1.wav
+	new file:   all_data/3/3F1_2024-05-30_124548516.wav
+	new file:   all_data/3/3F2.wav
+	new file:   all_data/3/3F2_2024-05-30_124558317.wav
+	new file:   all_data/3/3F3.wav
+	new file:   all_data/3/3F3_2024-05-30_124423861.wav
+	new file:   all_data/3/3F4.wav
+	new file:   all_data/3/3J1_2024-05-31_102034554.wav
+	new file:   all_data/3/3J2_2024-05-31_102046191.wav
+	new file:   all_data/3/3J3_2024-05-31_102055961.wav
+	new file:   all_data/3/3K1_2024-05-30_125052924.wav
+	new file:   all_data/3/3K1_2024-05-30_212951389.wav
+	new file:   all_data/3/3K2_2024-05-30_125105373.wav
+	new file:   all_data/3/3K2_2024-05-30_213001371.wav
+	new file:   all_data/3/3K3_2024-05-30_125110213.wav
+	new file:   all_data/3/3K3_2024-05-30_213010054.wav
+	new file:   all_data/3/3L1_2024-05-30_125555434.wav
+	new file:   all_data/3/3L2_2024-05-30_125603361.wav
+	new file:   all_data/3/3L3_2024-05-30_125609723.wav
+	new file:   all_data/3/3N1_2024-05-30_115634355.wav
+	new file:   all_data/3/3N2_2024-05-30_115642629.wav
+	new file:   all_data/3/3N3_2024-05-30_115650002.wav
+	new file:   all_data/3/3S1_2024-05-31_061102487.wav
+	new file:   all_data/3/3S2_2024-05-31_061110168.wav
+	new file:   all_data/3/3S3_2024-05-31_061117376.wav
+	new file:   all_data/3/3T1_2024-05-30_130305692.wav
+	new file:   all_data/3/3T2_2024-05-30_130316368.wav
+	new file:   all_data/3/3T3_2024-05-30_130324470.wav
+	new file:   all_data/3/3_2024-05-30_160723214.wav
+	new file:   all_data/3/3_2024-05-30_160947736.wav
+	new file:   all_data/3/3_2024-05-30_161052037.wav
+	new file:   all_data/3/3_2024-05-30_161239175.wav
+	new file:   all_data/3/3_2024-05-30_161337756.wav
+	new file:   all_data/3/3_2024-05-30_161440795.wav
+	new file:   all_data/3/3_2024-05-30_161601630.wav
+	new file:   all_data/3/3_2024-05-30_161745577.wav
+	new file:   all_data/3/3_2024-05-30_161915076.wav
+	new file:   all_data/3/3_2024-05-30_162056050.wav
+	new file:   all_data/3/3_2024-05-30_162206135.wav
+	new file:   all_data/3/3_2024-05-30_162309821.wav
+	new file:   all_data/3/3_2024-05-30_162452082.wav
+	new file:   all_data/3/3_2024-05-30_162612525.wav
+	new file:   all_data/3/3_2024-05-30_162713526.wav
+	new file:   all_data/3/3_2024-05-30_162908501.wav
+	new file:   all_data/3/3_2024-05-30_163039411.wav
+	new file:   all_data/3/3_2024-05-30_163156777.wav
+	new file:   all_data/3/3_2024-05-30_163314646.wav
+	new file:   all_data/3/3_2024-05-30_163534376.wav
+	new file:   all_data/3/3_2024-05-30_163641779.wav
+	new file:   all_data/3/3_2024-05-30_163827916.wav
+	new file:   all_data/3/3_2024-05-30_163959529.wav
+	new file:   all_data/3/3_2024-05-30_164105172.wav
+	new file:   all_data/3/3_2024-05-30_164251719.wav
+	new file:   all_data/3/3_2024-05-30_164355278.wav
+	new file:   all_data/3/3_2024-05-30_164455204.wav
+	new file:   all_data/3/3_2024-05-30_164648078.wav
+	new file:   all_data/3/3_2024-05-30_164653897.wav
+	new file:   all_data/3/3_2024-05-30_164657206.wav
+	new file:   all_data/3/3_2024-05-31_065044233.wav
+	new file:   all_data/3/3_2024-05-31_065056689.wav
+	new file:   all_data/3/3_2024-05-31_065101644.wav
+	new file:   all_data/3/3_2024-05-31_065731370.wav
+	new file:   all_data/3/3_2024-05-31_065738653.wav
+	new file:   all_data/3/3_2024-05-31_065742595.wav
+	new file:   all_data/3/3_2024-05-31_065748580.wav
+	new file:   all_data/3/3_2024-05-31_065751973.wav
+	new file:   all_data/3/3_2024-05-31_065755365.wav
+	new file:   all_data/3/3_2024-05-31_070430512.wav
+	new file:   all_data/3/3_2024-05-31_070458648.wav
+	new file:   all_data/3/3_2024-05-31_070502207.wav
+	new file:   all_data/3/3_2024-05-31_070843045.wav
+	new file:   all_data/3/3_2024-05-31_070848848.wav
+	new file:   all_data/3/3_2024-05-31_070851758.wav
+	new file:   all_data/3/3_2024-05-31_071224598.wav
+	new file:   all_data/3/3_2024-05-31_071231632.wav
+	new file:   all_data/3/3_2024-05-31_071234575.wav
+	new file:   all_data/3/3_2024-05-31_080918639.wav
+	new file:   all_data/3/3_2024-05-31_080924573.wav
+	new file:   all_data/3/3_2024-05-31_080927283.wav
+	new file:   all_data/3/3_2024-05-31_102008946.wav
+	new file:   all_data/3/3_2024-05-31_102016162.wav
+	new file:   all_data/3/3_2024-05-31_102019321.wav
+	new file:   all_data/3/3_2024-05-31_102611597.wav
+	new file:   all_data/3/3_2024-05-31_102616769.wav
+	new file:   all_data/3/3_2024-05-31_102619862.wav
+	new file:   all_data/3/3_2024-05-31_102850958.wav
+	new file:   all_data/3/3_2024-05-31_102855878.wav
+	new file:   all_data/3/3_2024-05-31_102858611.wav
+	new file:   all_data/3/3_2024-05-31_103001182.wav
+	new file:   all_data/3/3_2024-05-31_103011976.wav
+	new file:   all_data/3/3_2024-05-31_103015583.wav
+	new file:   all_data/3/3_2024-05-31_103213756.wav
+	new file:   all_data/3/3_2024-05-31_103219507.wav
+	new file:   all_data/3/3_2024-05-31_103222794.wav
+	new file:   all_data/3/3_2024-05-31_110224221.wav
+	new file:   all_data/3/3_2024-05-31_110229478.wav
+	new file:   all_data/3/3_2024-05-31_110232823.wav
+	new file:   all_data/3/3_2024-05-31_111539164.wav
+	new file:   all_data/3/3_2024-05-31_111544356.wav
+	new file:   all_data/3/3_2024-05-31_111547583.wav
+	new file:   all_data/3/3_2024-05-31_112122775.wav
+	new file:   all_data/3/3_2024-05-31_112126941.wav
+	new file:   all_data/3/3_2024-05-31_112129799.wav
+	new file:   all_data/3/3_2024-05-31_112356939.wav
+	new file:   all_data/3/3_2024-05-31_112401709.wav
+	new file:   all_data/3/3_2024-05-31_112408729.wav
+	new file:   all_data/3/3_2024-05-31_114233828.wav
+	new file:   all_data/3/3_2024-05-31_114238240.wav
+	new file:   all_data/3/3_2024-05-31_114251058.wav
+	new file:   all_data/3/3_2024-05-31_114253663.wav
+	new file:   all_data/3/3_2024-05-31_114443499.wav
+	new file:   all_data/3/3_2024-05-31_114448187.wav
+	new file:   all_data/3/3_2024-05-31_114455928.wav
+	new file:   all_data/3/3_2024-05-31_114459075.wav
+	new file:   all_data/3/3_2024-05-31_114744811.wav
+	new file:   all_data/3/3_2024-05-31_114749451.wav
+	new file:   all_data/3/3_2024-05-31_114752452.wav
+	new file:   all_data/3/3_2024-05-31_115024228.wav
+	new file:   all_data/3/3_2024-05-31_115028893.wav
+	new file:   all_data/3/3_2024-05-31_115031486.wav
+	new file:   all_data/3/3_ange_1.wav
+	new file:   all_data/3/3_ange_2.wav
+	new file:   all_data/3/3_ange_3.wav
+	new file:   all_data/3/3_annaelle_1.wav
+	new file:   all_data/3/3_annaelle_2.wav
+	new file:   all_data/3/3_annaelle_3.wav
+	new file:   all_data/3/3k1_2024-05-30_123148616.wav
+	new file:   all_data/3/3k2_2024-05-30_123204011.wav
+	new file:   all_data/3/3k3_2024-05-30_123214608.wav
+	new file:   all_data/3/Juniorchiffre_31.wav
+	new file:   all_data/3/Juniorchiffre_32.wav
+	new file:   all_data/3/Juniorchiffre_33.wav
+	new file:   all_data/3/NKWChiffre_31.wav
+	new file:   all_data/3/NKWChiffre_32.wav
+	new file:   all_data/3/NKWChiffre_33.wav
+	new file:   all_data/3/Stephanechiffre_31.wav
+	new file:   all_data/3/Stephanechiffre_32.wav
+	new file:   all_data/3/Stephanechiffre_33.wav
+	new file:   all_data/3/chiffre_31.wav
+	new file:   all_data/3/chiffre_32.wav
+	new file:   all_data/3/chiffre_33.wav
+	new file:   all_data/4/4 Abadouma 1.wav
+	new file:   all_data/4/4 Abadouma 2.wav
+	new file:   all_data/4/4 Abadouma 3.wav
+	new file:   all_data/4/4 Amaelle 1.wav
+	new file:   all_data/4/4 Amaelle 2.wav
+	new file:   all_data/4/4 Amaelle 3.wav
+	new file:   all_data/4/4 Josiane 1.wav
+	new file:   all_data/4/4 Josiane 2.wav
+	new file:   all_data/4/4 Josiane 3.wav
+	new file:   all_data/4/4 Sorelle 1.wav
+	new file:   all_data/4/4 Sorelle 2.wav
+	new file:   all_data/4/4 Sorelle 3.wav
+	new file:   all_data/4/4 anna1.wav
+	new file:   all_data/4/4 anna2.wav
+	new file:   all_data/4/4 anna3.wav
+	new file:   all_data/4/4 champlain 1.wav
+	new file:   all_data/4/4 champlain 2.wav
+	new file:   all_data/4/4 champlain 3.wav
+	new file:   all_data/4/4 pollah1.wav
+	new file:   all_data/4/4 pollah2.wav
+	new file:   all_data/4/4 pollah3.wav
+	new file:   all_data/4/4E1_2024-05-30_114813948.wav
+	new file:   all_data/4/4E2_2024-05-30_114829334.wav
+	new file:   all_data/4/4E3_2024-05-30_114836366.wav
+	new file:   all_data/4/4F1.wav
+	new file:   all_data/4/4F1_2024-05-30_124605309.wav
+	new file:   all_data/4/4F2.wav
+	new file:   all_data/4/4F2_2024-05-30_124614925.wav
+	new file:   all_data/4/4F3.wav
+	new file:   all_data/4/4F3_2024-05-30_124621443.wav
+	new file:   all_data/4/4F4.wav
+	new file:   all_data/4/4J1_2024-05-31_102106201.wav
+	new file:   all_data/4/4J2_2024-05-31_102117755.wav
+	new file:   all_data/4/4J3_2024-05-31_102134850.wav
+	new file:   all_data/4/4K1_2024-05-30_125115303.wav
+	new file:   all_data/4/4K1_2024-05-30_214018716.wav
+	new file:   all_data/4/4K23_2024-05-30_125128079.wav
+	new file:   all_data/4/4K2_2024-05-30_125123195.wav
+	new file:   all_data/4/4K2_2024-05-30_214031611.wav
+	new file:   all_data/4/4K3_2024-05-30_125150867.wav
+	new file:   all_data/4/4K3_2024-05-30_214038770.wav
+	new file:   all_data/4/4L1_2024-05-30_125617653.wav
+	new file:   all_data/4/4L2_2024-05-30_125629812.wav
+	new file:   all_data/4/4L3_2024-05-30_125637553.wav
+	new file:   all_data/4/4N1_2024-05-30_115701709.wav
+	new file:   all_data/4/4N2_2024-05-30_115708838.wav
+	new file:   all_data/4/4N3_2024-05-30_115715432.wav
+	new file:   all_data/4/4S1_2024-05-31_061122860.wav
+	new file:   all_data/4/4S2_2024-05-31_061130156.wav
+	new file:   all_data/4/4S3_2024-05-31_061137188.wav
+	new file:   all_data/4/4T1_2024-05-30_130342688.wav
+	new file:   all_data/4/4T2_2024-05-30_130415014.wav
+	new file:   all_data/4/4T3_2024-05-30_130422463.wav
+	new file:   all_data/4/4_2024-05-30_160730864.wav
+	new file:   all_data/4/4_2024-05-30_160956819.wav
+	new file:   all_data/4/4_2024-05-30_161057983.wav
+	new file:   all_data/4/4_2024-05-30_161244788.wav
+	new file:   all_data/4/4_2024-05-30_161343656.wav
+	new file:   all_data/4/4_2024-05-30_161446615.wav
+	new file:   all_data/4/4_2024-05-30_161608244.wav
+	new file:   all_data/4/4_2024-05-30_161751920.wav
+	new file:   all_data/4/4_2024-05-30_161921954.wav
+	new file:   all_data/4/4_2024-05-30_162101997.wav
+	new file:   all_data/4/4_2024-05-30_162212531.wav
+	new file:   all_data/4/4_2024-05-30_162323508.wav
+	new file:   all_data/4/4_2024-05-30_162500236.wav
+	new file:   all_data/4/4_2024-05-30_162618920.wav
+	new file:   all_data/4/4_2024-05-30_162719078.wav
+	new file:   all_data/4/4_2024-05-30_162914251.wav
+	new file:   all_data/4/4_2024-05-30_163045497.wav
+	new file:   all_data/4/4_2024-05-30_163202892.wav
+	new file:   all_data/4/4_2024-05-30_163326529.wav
+	new file:   all_data/4/4_2024-05-30_163540440.wav
+	new file:   all_data/4/4_2024-05-30_163647275.wav
+	new file:   all_data/4/4_2024-05-30_163833403.wav
+	new file:   all_data/4/4_2024-05-30_164005429.wav
+	new file:   all_data/4/4_2024-05-30_164111254.wav
+	new file:   all_data/4/4_2024-05-30_164258529.wav
+	new file:   all_data/4/4_2024-05-30_164401348.wav
+	new file:   all_data/4/4_2024-05-30_164501852.wav
+	new file:   all_data/4/4_2024-05-30_164709276.wav
+	new file:   all_data/4/4_2024-05-30_164718812.wav
+	new file:   all_data/4/4_2024-05-30_164722533.wav
+	new file:   all_data/4/4_2024-05-31_065107065.wav
+	new file:   all_data/4/4_2024-05-31_065120469.wav
+	new file:   all_data/4/4_2024-05-31_065130778.wav
+	new file:   all_data/4/4_2024-05-31_065801851.wav
+	new file:   all_data/4/4_2024-05-31_065810182.wav
+	new file:   all_data/4/4_2024-05-31_065817599.wav
+	new file:   all_data/4/4_2024-05-31_065821523.wav
+	new file:   all_data/4/4_2024-05-31_065827859.wav
+	new file:   all_data/4/4_2024-05-31_065831999.wav
+	new file:   all_data/4/4_2024-05-31_070505916.wav
+	new file:   all_data/4/4_2024-05-31_070511519.wav
+	new file:   all_data/4/4_2024-05-31_070515012.wav
+	new file:   all_data/4/4_2024-05-31_070855899.wav
+	new file:   all_data/4/4_2024-05-31_070902568.wav
+	new file:   all_data/4/4_2024-05-31_070907174.wav
+	new file:   all_data/4/4_2024-05-31_071238034.wav
+	new file:   all_data/4/4_2024-05-31_071244752.wav
+	new file:   all_data/4/4_2024-05-31_071247679.wav
+	new file:   all_data/4/4_2024-05-31_080930696.wav
+	new file:   all_data/4/4_2024-05-31_080936230.wav
+	new file:   all_data/4/4_2024-05-31_080939240.wav
+	new file:   all_data/4/4_2024-05-31_102030413.wav
+	new file:   all_data/4/4_2024-05-31_102037347.wav
+	new file:   all_data/4/4_2024-05-31_102041221.wav
+	new file:   all_data/4/4_2024-05-31_102625948.wav
+	new file:   all_data/4/4_2024-05-31_102638270.wav
+	new file:   all_data/4/4_2024-05-31_102641613.wav
+	new file:   all_data/4/4_2024-05-31_102903060.wav
+	new file:   all_data/4/4_2024-05-31_102908155.wav
+	new file:   all_data/4/4_2024-05-31_102917382.wav
+	new file:   all_data/4/4_2024-05-31_103018842.wav
+	new file:   all_data/4/4_2024-05-31_103024795.wav
+	new file:   all_data/4/4_2024-05-31_103028008.wav
+	new file:   all_data/4/4_2024-05-31_103225776.wav
+	new file:   all_data/4/4_2024-05-31_103231194.wav
+	new file:   all_data/4/4_2024-05-31_103234541.wav
+	new file:   all_data/4/4_2024-05-31_110236663.wav
+	new file:   all_data/4/4_2024-05-31_110241842.wav
+	new file:   all_data/4/4_2024-05-31_110247558.wav
+	new file:   all_data/4/4_2024-05-31_111600591.wav
+	new file:   all_data/4/4_2024-05-31_111608392.wav
+	new file:   all_data/4/4_2024-05-31_111613191.wav
+	new file:   all_data/4/4_2024-05-31_112132436.wav
+	new file:   all_data/4/4_2024-05-31_112137880.wav
+	new file:   all_data/4/4_2024-05-31_112140231.wav
+	new file:   all_data/4/4_2024-05-31_112411815.wav
+	new file:   all_data/4/4_2024-05-31_112417910.wav
+	new file:   all_data/4/4_2024-05-31_112420947.wav
+	new file:   all_data/4/4_2024-05-31_114256482.wav
+	new file:   all_data/4/4_2024-05-31_114304276.wav
+	new file:   all_data/4/4_2024-05-31_114306865.wav
+	new file:   all_data/4/4_2024-05-31_114502092.wav
+	new file:   all_data/4/4_2024-05-31_114506643.wav
+	new file:   all_data/4/4_2024-05-31_114509430.wav
+	new file:   all_data/4/4_2024-05-31_114755416.wav
+	new file:   all_data/4/4_2024-05-31_114759953.wav
+	new file:   all_data/4/4_2024-05-31_114802777.wav
+	new file:   all_data/4/4_2024-05-31_115034166.wav
+	new file:   all_data/4/4_2024-05-31_115039019.wav
+	new file:   all_data/4/4_2024-05-31_115042453.wav
+	new file:   all_data/4/4_ange_1.wav
+	new file:   all_data/4/4_ange_2.wav
+	new file:   all_data/4/4_ange_3.wav
+	new file:   all_data/4/4_annaelle_1.wav
+	new file:   all_data/4/4_annaelle_2.wav
+	new file:   all_data/4/4_annaelle_3.wav
+	new file:   all_data/4/4k1_2024-05-30_123224554.wav
+	new file:   all_data/4/4k2_2024-05-30_123242370.wav
+	new file:   all_data/4/4k3_2024-05-30_123252172.wav
+	new file:   all_data/4/Juniorchiffre_41.wav
+	new file:   all_data/4/Juniorchiffre_42.wav
+	new file:   all_data/4/Juniorchiffre_43.wav
+	new file:   all_data/4/NKWChiffre_41.wav
+	new file:   all_data/4/NKWChiffre_42.wav
+	new file:   all_data/4/NKWChiffre_43.wav
+	new file:   all_data/4/Stephanechiffre_41.wav
+	new file:   all_data/4/Stephanechiffre_42.wav
+	new file:   all_data/4/Stephanechiffre_43.wav
+	new file:   all_data/4/chiffre_41.wav
+	new file:   all_data/4/chiffre_42.wav
+	new file:   all_data/4/chiffre_43.wav
+	new file:   all_data/5/5 Abadouma 1.wav
+	new file:   all_data/5/5 Abadouma 2.wav
+	new file:   all_data/5/5 Abadouma 3.wav
+	new file:   all_data/5/5 Amaelle 1.wav
+	new file:   all_data/5/5 Amaelle 2.wav
+	new file:   all_data/5/5 Amaelle 3.wav
+	new file:   all_data/5/5 Ashley 1.wav
+	new file:   all_data/5/5 Ashley 2.wav
+	new file:   all_data/5/5 Ashley 3.wav
+	new file:   all_data/5/5 Josiane 1.wav
+	new file:   all_data/5/5 Josiane 2.wav
+	new file:   all_data/5/5 Josiane 3.wav
+	new file:   all_data/5/5 Sorelle 1.wav
+	new file:   all_data/5/5 Sorelle 2.wav
+	new file:   all_data/5/5 Sorelle 3.wav
+	new file:   all_data/5/5 anna1.wav
+	new file:   all_data/5/5 anna2.wav
+	new file:   all_data/5/5 anna3.wav
+	new file:   all_data/5/5 champlain 1.wav
+	new file:   all_data/5/5 champlain 2.wav
+	new file:   all_data/5/5 champlain 3.wav
+	new file:   all_data/5/5 pollah1.wav
+	new file:   all_data/5/5 pollah2.wav
+	new file:   all_data/5/5 pollah3.wav
+	new file:   all_data/5/5E1_2024-05-30_114854762.wav
+	new file:   all_data/5/5E2_2024-05-30_114905087.wav
+	new file:   all_data/5/5E3_2024-05-30_114911322.wav
+	new file:   all_data/5/5F1.wav
+	new file:   all_data/5/5F1_2024-05-30_124627626.wav
+	new file:   all_data/5/5F2.wav
+	new file:   all_data/5/5F2_2024-05-30_124639497.wav
+	new file:   all_data/5/5F3.wav
+	new file:   all_data/5/5F3_2024-05-30_124646075.wav
+	new file:   all_data/5/5J1_2024-05-31_102142625.wav
+	new file:   all_data/5/5J2_2024-05-31_102200132.wav
+	new file:   all_data/5/5J3_2024-05-31_102209925.wav
+	new file:   all_data/5/5K1_2024-05-30_125158683.wav
+	new file:   all_data/5/5K1_2024-05-30_214045617.wav
+	new file:   all_data/5/5K2_2024-05-30_125207102.wav
+	new file:   all_data/5/5K2_2024-05-30_214057542.wav
+	new file:   all_data/5/5K3_2024-05-30_125211891.wav
+	new file:   all_data/5/5K3_2024-05-30_214104615.wav
+	new file:   all_data/5/5L1_2024-05-30_125644687.wav
+	new file:   all_data/5/5L2_2024-05-30_125655112.wav
+	new file:   all_data/5/5L3_2024-05-30_125701731.wav
+	new file:   all_data/5/5N1_2024-05-30_115723156.wav
+	new file:   all_data/5/5N2_2024-05-30_115731957.wav
+	new file:   all_data/5/5N3_2024-05-30_115738354.wav
+	new file:   all_data/5/5S1_2024-05-31_061146638.wav
+	new file:   all_data/5/5S2_2024-05-31_061153897.wav
+	new file:   all_data/5/5S3_2024-05-31_061159950.wav
+	new file:   all_data/5/5T1_2024-05-30_130428958.wav
+	new file:   all_data/5/5T2_2024-05-30_130454569.wav
+	new file:   all_data/5/5T3_2024-05-30_130500466.wav
+	new file:   all_data/5/5_2024-05-30_160736919.wav
+	new file:   all_data/5/5_2024-05-30_161003047.wav
+	new file:   all_data/5/5_2024-05-30_161104183.wav
+	new file:   all_data/5/5_2024-05-30_161251222.wav
+	new file:   all_data/5/5_2024-05-30_161349009.wav
+	new file:   all_data/5/5_2024-05-30_161452327.wav
+	new file:   all_data/5/5_2024-05-30_161614199.wav
+	new file:   all_data/5/5_2024-05-30_161758120.wav
+	new file:   all_data/5/5_2024-05-30_161804580.wav
+	new file:   all_data/5/5_2024-05-30_161928172.wav
+	new file:   all_data/5/5_2024-05-30_162107899.wav
+	new file:   all_data/5/5_2024-05-30_162218143.wav
+	new file:   all_data/5/5_2024-05-30_162329625.wav
+	new file:   all_data/5/5_2024-05-30_162506482.wav
+	new file:   all_data/5/5_2024-05-30_162624999.wav
+	new file:   all_data/5/5_2024-05-30_162725310.wav
+	new file:   all_data/5/5_2024-05-30_162922124.wav
+	new file:   all_data/5/5_2024-05-30_163051859.wav
+	new file:   all_data/5/5_2024-05-30_163209001.wav
+	new file:   all_data/5/5_2024-05-30_163332602.wav
+	new file:   all_data/5/5_2024-05-30_163546758.wav
+	new file:   all_data/5/5_2024-05-30_163653695.wav
+	new file:   all_data/5/5_2024-05-30_163839834.wav
+	new file:   all_data/5/5_2024-05-30_164011527.wav
+	new file:   all_data/5/5_2024-05-30_164117765.wav
+	new file:   all_data/5/5_2024-05-30_164305366.wav
+	new file:   all_data/5/5_2024-05-30_164406897.wav
+	new file:   all_data/5/5_2024-05-30_164507452.wav
+	new file:   all_data/5/5_2024-05-30_164726222.wav
+	new file:   all_data/5/5_2024-05-30_164732026.wav
+	new file:   all_data/5/5_2024-05-30_164736268.wav
+	new file:   all_data/5/5_2024-05-31_065224824.wav
+	new file:   all_data/5/5_2024-05-31_065247427.wav
+	new file:   all_data/5/5_2024-05-31_065251964.wav
+	new file:   all_data/5/5_2024-05-31_065836606.wav
+	new file:   all_data/5/5_2024-05-31_065843374.wav
+	new file:   all_data/5/5_2024-05-31_065846766.wav
+	new file:   all_data/5/5_2024-05-31_065850558.wav
+	new file:   all_data/5/5_2024-05-31_065856445.wav
+	new file:   all_data/5/5_2024-05-31_065900985.wav
+	new file:   all_data/5/5_2024-05-31_070519252.wav
+	new file:   all_data/5/5_2024-05-31_070533770.wav
+	new file:   all_data/5/5_2024-05-31_070536846.wav
+	new file:   all_data/5/5_2024-05-31_070911797.wav
+	new file:   all_data/5/5_2024-05-31_070917401.wav
+	new file:   all_data/5/5_2024-05-31_070921043.wav
+	new file:   all_data/5/5_2024-05-31_071251255.wav
+	new file:   all_data/5/5_2024-05-31_071257241.wav
+	new file:   all_data/5/5_2024-05-31_071259885.wav
+	new file:   all_data/5/5_2024-05-31_080943497.wav
+	new file:   all_data/5/5_2024-05-31_080949334.wav
+	new file:   all_data/5/5_2024-05-31_080952260.wav
+	new file:   all_data/5/5_2024-05-31_102045429.wav
+	new file:   all_data/5/5_2024-05-31_102052248.wav
+	new file:   all_data/5/5_2024-05-31_102103388.wav
+	new file:   all_data/5/5_2024-05-31_102644673.wav
+	new file:   all_data/5/5_2024-05-31_102651109.wav
+	new file:   all_data/5/5_2024-05-31_102654168.wav
+	new file:   all_data/5/5_2024-05-31_102923795.wav
+	new file:   all_data/5/5_2024-05-31_102929501.wav
+	new file:   all_data/5/5_2024-05-31_102934024.wav
+	new file:   all_data/5/5_2024-05-31_103031564.wav
+	new file:   all_data/5/5_2024-05-31_103037938.wav
+	new file:   all_data/5/5_2024-05-31_103041425.wav
+	new file:   all_data/5/5_2024-05-31_103250019.wav
+	new file:   all_data/5/5_2024-05-31_103256449.wav
+	new file:   all_data/5/5_2024-05-31_103259609.wav
+	new file:   all_data/5/5_2024-05-31_110251781.wav
+	new file:   all_data/5/5_2024-05-31_110256684.wav
+	new file:   all_data/5/5_2024-05-31_110259487.wav
+	new file:   all_data/5/5_2024-05-31_111620658.wav
+	new file:   all_data/5/5_2024-05-31_111626179.wav
+	new file:   all_data/5/5_2024-05-31_111629648.wav
+	new file:   all_data/5/5_2024-05-31_112143000.wav
+	new file:   all_data/5/5_2024-05-31_112147380.wav
+	new file:   all_data/5/5_2024-05-31_112150138.wav
+	new file:   all_data/5/5_2024-05-31_112425234.wav
+	new file:   all_data/5/5_2024-05-31_112430941.wav
+	new file:   all_data/5/5_2024-05-31_112434128.wav
+	new file:   all_data/5/5_2024-05-31_114309423.wav
+	new file:   all_data/5/5_2024-05-31_114314013.wav
+	new file:   all_data/5/5_2024-05-31_114316651.wav
+	new file:   all_data/5/5_2024-05-31_114513017.wav
+	new file:   all_data/5/5_2024-05-31_114517786.wav
+	new file:   all_data/5/5_2024-05-31_114521032.wav
+	new file:   all_data/5/5_2024-05-31_114806995.wav
+	new file:   all_data/5/5_2024-05-31_114813218.wav
+	new file:   all_data/5/5_2024-05-31_114816614.wav
+	new file:   all_data/5/5_2024-05-31_115046449.wav
+	new file:   all_data/5/5_2024-05-31_115051353.wav
+	new file:   all_data/5/5_2024-05-31_115054284.wav
+	new file:   all_data/5/5_ange_1.wav
+	new file:   all_data/5/5_ange_2.wav
+	new file:   all_data/5/5_ange_3.wav
+	new file:   all_data/5/5_annaelle_1.wav
+	new file:   all_data/5/5_annaelle_2.wav
+	new file:   all_data/5/5_annaelle_3.wav
+	new file:   all_data/5/5k1_2024-05-30_123301536.wav
+	new file:   all_data/5/5k2_2024-05-30_123315530.wav
+	new file:   all_data/5/5k3_2024-05-30_123323281.wav
+	new file:   all_data/5/Juniorchiffre_51.wav
+	new file:   all_data/5/Juniorchiffre_52.wav
+	new file:   all_data/5/Juniorchiffre_53.wav
+	new file:   all_data/5/NKWChiffre_51.wav
+	new file:   all_data/5/NKWChiffre_52.wav
+	new file:   all_data/5/NKWChiffre_53.wav
+	new file:   all_data/5/Stephanechiffre_51.wav
+	new file:   all_data/5/Stephanechiffre_52.wav
+	new file:   all_data/5/Stephanechiffre_53.wav
+	new file:   all_data/5/chiffre_51.wav
+	new file:   all_data/5/chiffre_52.wav
+	new file:   all_data/5/chiffre_53.wav
+	new file:   all_data/6/6 Abadouma 1.wav
+	new file:   all_data/6/6 Abadouma 2.wav
+	new file:   all_data/6/6 Abadouma 3.wav
+	new file:   all_data/6/6 Amaelle 1.wav
+	new file:   all_data/6/6 Amaelle 2.wav
+	new file:   all_data/6/6 Amaelle 3.wav
+	new file:   all_data/6/6 Ashley 1.wav
+	new file:   all_data/6/6 Ashley 2.wav
+	new file:   all_data/6/6 Ashley 3.wav
+	new file:   all_data/6/6 Josiane 1.wav
+	new file:   all_data/6/6 Josiane 2.wav
+	new file:   all_data/6/6 Josiane 3.wav
+	new file:   all_data/6/6 Sorelle 1.wav
+	new file:   all_data/6/6 Sorelle 2.wav
+	new file:   all_data/6/6 Sorelle 3.wav
+	new file:   all_data/6/6 anna1.wav
+	new file:   all_data/6/6 anna2.wav
+	new file:   all_data/6/6 anna3.wav
+	new file:   all_data/6/6 champlain 1.wav
+	new file:   all_data/6/6 champlain 2.wav
+	new file:   all_data/6/6 champlain 3.wav
+	new file:   all_data/6/6 pollah1.wav
+	new file:   all_data/6/6 pollah2.wav
+	new file:   all_data/6/6 pollah3.wav
+	new file:   all_data/6/6E1_2024-05-30_114917822.wav
+	new file:   all_data/6/6E2_2024-05-30_114926129.wav
+	new file:   all_data/6/6E3_2024-05-30_114932294.wav
+	new file:   all_data/6/6F1.wav
+	new file:   all_data/6/6F1_2024-05-30_124654335.wav
+	new file:   all_data/6/6F2.wav
+	new file:   all_data/6/6F2_2024-05-30_124707263.wav
+	new file:   all_data/6/6F3.wav
+	new file:   all_data/6/6F3_2024-05-30_124714049.wav
+	new file:   all_data/6/6J1_2024-05-31_102220104.wav
+	new file:   all_data/6/6J2_2024-05-31_102229805.wav
+	new file:   all_data/6/6J3_2024-05-31_102239550.wav
+	new file:   all_data/6/6K1_2024-05-30_125217866.wav
+	new file:   all_data/6/6K1_2024-05-30_214115446.wav
+	new file:   all_data/6/6K2_2024-05-30_125227626.wav
+	new file:   all_data/6/6K2_2024-05-30_214127595.wav
+	new file:   all_data/6/6K3_2024-05-30_125236960.wav
+	new file:   all_data/6/6K3_2024-05-30_214138396.wav
+	new file:   all_data/6/6L1_2024-05-30_125707880.wav
+	new file:   all_data/6/6L2_2024-05-30_125717293.wav
+	new file:   all_data/6/6L3_2024-05-30_125736521.wav
+	new file:   all_data/6/6N1_2024-05-30_115744091.wav
+	new file:   all_data/6/6N2_2024-05-30_115753294.wav
+	new file:   all_data/6/6N3_2024-05-30_115759908.wav
+	new file:   all_data/6/6S1_2024-05-31_061205883.wav
+	new file:   all_data/6/6S2_2024-05-31_061212946.wav
+	new file:   all_data/6/6S3_2024-05-31_061218897.wav
+	new file:   all_data/6/6T1_2024-05-30_130507400.wav
+	new file:   all_data/6/6T2_2024-05-30_130516400.wav
+	new file:   all_data/6/6T3_2024-05-30_130524924.wav
+	new file:   all_data/6/6_2024-05-30_160743912.wav
+	new file:   all_data/6/6_2024-05-30_161010160.wav
+	new file:   all_data/6/6_2024-05-30_161110248.wav
+	new file:   all_data/6/6_2024-05-30_161256955.wav
+	new file:   all_data/6/6_2024-05-30_161354609.wav
+	new file:   all_data/6/6_2024-05-30_161458017.wav
+	new file:   all_data/6/6_2024-05-30_161619960.wav
+	new file:   all_data/6/6_2024-05-30_161828674.wav
+	new file:   all_data/6/6_2024-05-30_161934152.wav
+	new file:   all_data/6/6_2024-05-30_162114696.wav
+	new file:   all_data/6/6_2024-05-30_162223567.wav
+	new file:   all_data/6/6_2024-05-30_162337047.wav
+	new file:   all_data/6/6_2024-05-30_162512898.wav
+	new file:   all_data/6/6_2024-05-30_162631430.wav
+	new file:   all_data/6/6_2024-05-30_162730908.wav
+	new file:   all_data/6/6_2024-05-30_162928852.wav
+	new file:   all_data/6/6_2024-05-30_163057611.wav
+	new file:   all_data/6/6_2024-05-30_163215066.wav
+	new file:   all_data/6/6_2024-05-30_163338098.wav
+	new file:   all_data/6/6_2024-05-30_163553768.wav
+	new file:   all_data/6/6_2024-05-30_163659009.wav
+	new file:   all_data/6/6_2024-05-30_163845816.wav
+	new file:   all_data/6/6_2024-05-30_164017392.wav
+	new file:   all_data/6/6_2024-05-30_164123995.wav
+	new file:   all_data/6/6_2024-05-30_164311337.wav
+	new file:   all_data/6/6_2024-05-30_164412481.wav
+	new file:   all_data/6/6_2024-05-30_164513086.wav
+	new file:   all_data/6/6_2024-05-30_164739668.wav
+	new file:   all_data/6/6_2024-05-30_164746213.wav
+	new file:   all_data/6/6_2024-05-30_164750483.wav
+	new file:   all_data/6/6_2024-05-31_065309280.wav
+	new file:   all_data/6/6_2024-05-31_065319470.wav
+	new file:   all_data/6/6_2024-05-31_065325272.wav
+	new file:   all_data/6/6_2024-05-31_065909149.wav
+	new file:   all_data/6/6_2024-05-31_065915784.wav
+	new file:   all_data/6/6_2024-05-31_065920591.wav
+	new file:   all_data/6/6_2024-05-31_065930884.wav
+	new file:   all_data/6/6_2024-05-31_065934510.wav
+	new file:   all_data/6/6_2024-05-31_065937652.wav
+	new file:   all_data/6/6_2024-05-31_070542252.wav
+	new file:   all_data/6/6_2024-05-31_070545859.wav
+	new file:   all_data/6/6_2024-05-31_070634783.wav
+	new file:   all_data/6/6_2024-05-31_070925050.wav
+	new file:   all_data/6/6_2024-05-31_070930804.wav
+	new file:   all_data/6/6_2024-05-31_070955133.wav
+	new file:   all_data/6/6_2024-05-31_071312058.wav
+	new file:   all_data/6/6_2024-05-31_071318310.wav
+	new file:   all_data/6/6_2024-05-31_071321154.wav
+	new file:   all_data/6/6_2024-05-31_080955969.wav
+	new file:   all_data/6/6_2024-05-31_081001423.wav
+	new file:   all_data/6/6_2024-05-31_081004250.wav
+	new file:   all_data/6/6_2024-05-31_102111620.wav
+	new file:   all_data/6/6_2024-05-31_102344098.wav
+	new file:   all_data/6/6_2024-05-31_102347621.wav
+	new file:   all_data/6/6_2024-05-31_102658159.wav
+	new file:   all_data/6/6_2024-05-31_102704728.wav
+	new file:   all_data/6/6_2024-05-31_102707588.wav
+	new file:   all_data/6/6_2024-05-31_102938040.wav
+	new file:   all_data/6/6_2024-05-31_102945463.wav
+	new file:   all_data/6/6_2024-05-31_102953136.wav
+	new file:   all_data/6/6_2024-05-31_103044602.wav
+	new file:   all_data/6/6_2024-05-31_103055710.wav
+	new file:   all_data/6/6_2024-05-31_103102228.wav
+	new file:   all_data/6/6_2024-05-31_103338203.wav
+	new file:   all_data/6/6_2024-05-31_103342674.wav
+	new file:   all_data/6/6_2024-05-31_103345607.wav
+	new file:   all_data/6/6_2024-05-31_110303229.wav
+	new file:   all_data/6/6_2024-05-31_110310161.wav
+	new file:   all_data/6/6_2024-05-31_110312910.wav
+	new file:   all_data/6/6_2024-05-31_111633640.wav
+	new file:   all_data/6/6_2024-05-31_111639302.wav
+	new file:   all_data/6/6_2024-05-31_111642815.wav
+	new file:   all_data/6/6_2024-05-31_112153260.wav
+	new file:   all_data/6/6_2024-05-31_112202213.wav
+	new file:   all_data/6/6_2024-05-31_112213722.wav
+	new file:   all_data/6/6_2024-05-31_112437938.wav
+	new file:   all_data/6/6_2024-05-31_112442886.wav
+	new file:   all_data/6/6_2024-05-31_112446226.wav
+	new file:   all_data/6/6_2024-05-31_114319280.wav
+	new file:   all_data/6/6_2024-05-31_114324395.wav
+	new file:   all_data/6/6_2024-05-31_114327228.wav
+	new file:   all_data/6/6_2024-05-31_114524137.wav
+	new file:   all_data/6/6_2024-05-31_114531846.wav
+	new file:   all_data/6/6_2024-05-31_114536937.wav
+	new file:   all_data/6/6_2024-05-31_114819955.wav
+	new file:   all_data/6/6_2024-05-31_114825961.wav
+	new file:   all_data/6/6_2024-05-31_114829737.wav
+	new file:   all_data/6/6_2024-05-31_115057332.wav
+	new file:   all_data/6/6_2024-05-31_115102389.wav
+	new file:   all_data/6/6_2024-05-31_115105136.wav
+	new file:   all_data/6/6_ange_1.wav
+	new file:   all_data/6/6_ange_2.wav
+	new file:   all_data/6/6_ange_3.wav
+	new file:   all_data/6/6_annaelle_1.wav
+	new file:   all_data/6/6_annaelle_2.wav
+	new file:   all_data/6/6_annaelle_3.wav
+	new file:   all_data/6/6k1_2024-05-30_123614132.wav
+	new file:   all_data/6/6k2_2024-05-30_123627260.wav
+	new file:   all_data/6/6k3_2024-05-30_123633972.wav
+	new file:   all_data/6/Franckchiffre_63.wav
+	new file:   all_data/6/Juniorchiffre_61.wav
+	new file:   all_data/6/Juniorchiffre_62.wav
+	new file:   all_data/6/Juniorchiffre_63.wav
+	new file:   all_data/6/NKWChiffre_61.wav
+	new file:   all_data/6/NKWChiffre_62.wav
+	new file:   all_data/6/NKWChiffre_63.wav
+	new file:   all_data/6/Stephanechiffre_61.wav
+	new file:   all_data/6/Stephanechiffre_62.wav
+	new file:   all_data/6/Stephanechiffre_63.wav
+	new file:   all_data/6/chiffre_61.wav
+	new file:   all_data/6/chiffre_62.wav
+	new file:   all_data/6/chiffre_63.wav
+	new file:   all_data/7/7 Abadouma 1.wav
+	new file:   all_data/7/7 Abadouma 2.wav
+	new file:   all_data/7/7 Abadouma 3.wav
+	new file:   all_data/7/7 Amaelle 1.wav
+	new file:   all_data/7/7 Amaelle 2.wav
+	new file:   all_data/7/7 Amaelle 3.wav
+	new file:   all_data/7/7 Ashley 1.wav
+	new file:   all_data/7/7 Ashley 2.wav
+	new file:   all_data/7/7 Ashley 3.wav
+	new file:   all_data/7/7 Josiane 1.wav
+	new file:   all_data/7/7 Josiane 2.wav
+	new file:   all_data/7/7 Josiane 3.wav
+	new file:   all_data/7/7 Sorelle 1.wav
+	new file:   all_data/7/7 anna1.wav
+	new file:   all_data/7/7 anna2.wav
+	new file:   all_data/7/7 anna3.wav
+	new file:   all_data/7/7 champlain 1.wav
+	new file:   all_data/7/7 champlain 2.wav
+	new file:   all_data/7/7 champlain 3.wav
+	new file:   all_data/7/7 pollah1.wav
+	new file:   all_data/7/7 pollah2.wav
+	new file:   all_data/7/7 pollah3.wav
+	new file:   all_data/7/7-Sorelle-2.wav
+	new file:   all_data/7/7-Sorelle-3.wav
+	new file:   all_data/7/7E1_2024-05-30_114951469.wav
+	new file:   all_data/7/7E2_2024-05-30_115000969.wav
+	new file:   all_data/7/7E3_2024-05-30_115007155.wav
+	new file:   all_data/7/7F1.wav
+	new file:   all_data/7/7F1_2024-05-30_124722133.wav
+	new file:   all_data/7/7F2.wav
+	new file:   all_data/7/7F2_2024-05-30_124729819.wav
+	new file:   all_data/7/7F3.wav
+	new file:   all_data/7/7F3_2024-05-30_124736105.wav
+	new file:   all_data/7/7F4.wav
+	new file:   all_data/7/7J1_2024-05-31_102247671.wav
+	new file:   all_data/7/7J2_2024-05-31_102257900.wav
+	new file:   all_data/7/7J3_2024-05-31_102307248.wav
+	new file:   all_data/7/7K1_2024-05-30_125243377.wav
+	new file:   all_data/7/7K1_2024-05-30_214206934.wav
+	new file:   all_data/7/7K2_2024-05-30_125256903.wav
+	new file:   all_data/7/7K2_2024-05-30_214223513.wav
+	new file:   all_data/7/7K3_2024-05-30_125302955.wav
+	new file:   all_data/7/7K3_2024-05-30_214415519.wav
+	new file:   all_data/7/7L1_2024-05-30_125744264.wav
+	new file:   all_data/7/7L2_2024-05-30_125752355.wav
+	new file:   all_data/7/7L3_2024-05-30_125758866.wav
+	new file:   all_data/7/7N1_2024-05-30_115806907.wav
+	new file:   all_data/7/7N2_2024-05-30_115815853.wav
+	new file:   all_data/7/7N3_2024-05-30_115822189.wav
+	new file:   all_data/7/7S1_2024-05-31_061224517.wav
+	new file:   all_data/7/7S2_2024-05-31_061231361.wav
+	new file:   all_data/7/7S3_2024-05-31_061236866.wav
+	new file:   all_data/7/7T1_2024-05-30_130541745.wav
+	new file:   all_data/7/7T2_2024-05-30_130549670.wav
+	new file:   all_data/7/7T3_2024-05-30_130556318.wav
+	new file:   all_data/7/7_2024-05-30_160752583.wav
+	new file:   all_data/7/7_2024-05-30_161016091.wav
+	new file:   all_data/7/7_2024-05-30_161116165.wav
+	new file:   all_data/7/7_2024-05-30_161303087.wav
+	new file:   all_data/7/7_2024-05-30_161400623.wav
+	new file:   all_data/7/7_2024-05-30_161503597.wav
+	new file:   all_data/7/7_2024-05-30_161625960.wav
+	new file:   all_data/7/7_2024-05-30_161835708.wav
+	new file:   all_data/7/7_2024-05-30_161952699.wav
+	new file:   all_data/7/7_2024-05-30_162120643.wav
+	new file:   all_data/7/7_2024-05-30_162229284.wav
+	new file:   all_data/7/7_2024-05-30_162342495.wav
+	new file:   all_data/7/7_2024-05-30_162519028.wav
+	new file:   all_data/7/7_2024-05-30_162639124.wav
+	new file:   all_data/7/7_2024-05-30_162736739.wav
+	new file:   all_data/7/7_2024-05-30_162934532.wav
+	new file:   all_data/7/7_2024-05-30_163104020.wav
+	new file:   all_data/7/7_2024-05-30_163221067.wav
+	new file:   all_data/7/7_2024-05-30_163344424.wav
+	new file:   all_data/7/7_2024-05-30_163559948.wav
+	new file:   all_data/7/7_2024-05-30_163714065.wav
+	new file:   all_data/7/7_2024-05-30_163854036.wav
+	new file:   all_data/7/7_2024-05-30_164023644.wav
+	new file:   all_data/7/7_2024-05-30_164129978.wav
+	new file:   all_data/7/7_2024-05-30_164317080.wav
+	new file:   all_data/7/7_2024-05-30_164417965.wav
+	new file:   all_data/7/7_2024-05-30_164518920.wav
+	new file:   all_data/7/7_2024-05-30_164753921.wav
+	new file:   all_data/7/7_2024-05-30_164759652.wav
+	new file:   all_data/7/7_2024-05-30_164802544.wav
+	new file:   all_data/7/7_2024-05-31_065341452.wav
+	new file:   all_data/7/7_2024-05-31_065412035.wav
+	new file:   all_data/7/7_2024-05-31_065426185.wav
+	new file:   all_data/7/7_2024-05-31_065941994.wav
+	new file:   all_data/7/7_2024-05-31_065948561.wav
+	new file:   all_data/7/7_2024-05-31_065952336.wav
+	new file:   all_data/7/7_2024-05-31_065958824.wav
+	new file:   all_data/7/7_2024-05-31_070001715.wav
+	new file:   all_data/7/7_2024-05-31_070005091.wav
+	new file:   all_data/7/7_2024-05-31_070641867.wav
+	new file:   all_data/7/7_2024-05-31_070648486.wav
+	new file:   all_data/7/7_2024-05-31_070651579.wav
+	new file:   all_data/7/7_2024-05-31_070959058.wav
+	new file:   all_data/7/7_2024-05-31_071004678.wav
+	new file:   all_data/7/7_2024-05-31_071007428.wav
+	new file:   all_data/7/7_2024-05-31_071324380.wav
+	new file:   all_data/7/7_2024-05-31_071330201.wav
+	new file:   all_data/7/7_2024-05-31_071332894.wav
+	new file:   all_data/7/7_2024-05-31_081008125.wav
+	new file:   all_data/7/7_2024-05-31_081013347.wav
+	new file:   all_data/7/7_2024-05-31_081016390.wav
+	new file:   all_data/7/7_2024-05-31_102359345.wav
+	new file:   all_data/7/7_2024-05-31_102407110.wav
+	new file:   all_data/7/7_2024-05-31_102415358.wav
+	new file:   all_data/7/7_2024-05-31_102710823.wav
+	new file:   all_data/7/7_2024-05-31_102716618.wav
+	new file:   all_data/7/7_2024-05-31_102720476.wav
+	new file:   all_data/7/7_2024-05-31_102957579.wav
+	new file:   all_data/7/7_2024-05-31_103002640.wav
+	new file:   all_data/7/7_2024-05-31_103006027.wav
+	new file:   all_data/7/7_2024-05-31_103119058.wav
+	new file:   all_data/7/7_2024-05-31_103126158.wav
+	new file:   all_data/7/7_2024-05-31_103130549.wav
+	new file:   all_data/7/7_2024-05-31_103350633.wav
+	new file:   all_data/7/7_2024-05-31_103356280.wav
+	new file:   all_data/7/7_2024-05-31_103359151.wav
+	new file:   all_data/7/7_2024-05-31_110316089.wav
+	new file:   all_data/7/7_2024-05-31_110321345.wav
+	new file:   all_data/7/7_2024-05-31_110324428.wav
+	new file:   all_data/7/7_2024-05-31_111646688.wav
+	new file:   all_data/7/7_2024-05-31_111652743.wav
+	new file:   all_data/7/7_2024-05-31_111655745.wav
+	new file:   all_data/7/7_2024-05-31_112217916.wav
+	new file:   all_data/7/7_2024-05-31_112222888.wav
+	new file:   all_data/7/7_2024-05-31_112226057.wav
+	new file:   all_data/7/7_2024-05-31_112452101.wav
+	new file:   all_data/7/7_2024-05-31_112457089.wav
+	new file:   all_data/7/7_2024-05-31_112500110.wav
+	new file:   all_data/7/7_2024-05-31_114330028.wav
+	new file:   all_data/7/7_2024-05-31_114334376.wav
+	new file:   all_data/7/7_2024-05-31_114336907.wav
+	new file:   all_data/7/7_2024-05-31_114540209.wav
+	new file:   all_data/7/7_2024-05-31_114552142.wav
+	new file:   all_data/7/7_2024-05-31_114555134.wav
+	new file:   all_data/7/7_2024-05-31_114836667.wav
+	new file:   all_data/7/7_2024-05-31_114841647.wav
+	new file:   all_data/7/7_2024-05-31_114847730.wav
+	new file:   all_data/7/7_2024-05-31_114854356.wav
+	new file:   all_data/7/7_2024-05-31_115113078.wav
+	new file:   all_data/7/7_2024-05-31_115118691.wav
+	new file:   all_data/7/7_2024-05-31_115121796.wav
+	new file:   all_data/7/7_ange_1.wav
+	new file:   all_data/7/7_ange_2.wav
+	new file:   all_data/7/7_ange_3.wav
+	new file:   all_data/7/7_annaelle_1.wav
+	new file:   all_data/7/7_annaelle_2.wav
+	new file:   all_data/7/7_annaelle_3.wav
+	new file:   all_data/7/7k1_2024-05-30_123640739.wav
+	new file:   all_data/7/7k2_2024-05-30_123651777.wav
+	new file:   all_data/7/7k3_2024-05-30_123658422.wav
+	new file:   all_data/7/Franckchiffre_71.wav
+	new file:   all_data/7/Franckchiffre_72.wav
+	new file:   all_data/7/Franckchiffre_73.wav
+	new file:   all_data/7/Juniorchiffre_71.wav
+	new file:   all_data/7/Juniorchiffre_72.wav
+	new file:   all_data/7/Juniorchiffre_73.wav
+	new file:   all_data/7/NKWChiffre_71.wav
+	new file:   all_data/7/NKWChiffre_72.wav
+	new file:   all_data/7/NKWChiffre_73.wav
+	new file:   all_data/7/Stephanechiffre_71.wav
+	new file:   all_data/7/Stephanechiffre_72.wav
+	new file:   all_data/7/Stephanechiffre_73.wav
+	new file:   all_data/7/chiffre_71.wav
+	new file:   all_data/7/chiffre_72.wav
+	new file:   all_data/7/chiffre_73.wav
+	new file:   all_data/8/8 Abadouma 1.wav
+	new file:   all_data/8/8 Abadouma 2.wav
+	new file:   all_data/8/8 Abadouma 3.wav
+	new file:   all_data/8/8 Amaelle 1.wav
+	new file:   all_data/8/8 Amaelle 2.wav
+	new file:   all_data/8/8 Amaelle 3.wav
+	new file:   all_data/8/8 Ashley 1.wav
+	new file:   all_data/8/8 Ashley 2.wav
+	new file:   all_data/8/8 Ashley 3.wav
+	new file:   all_data/8/8 Josiane 1.wav
+	new file:   all_data/8/8 Josiane 2.wav
+	new file:   all_data/8/8 Josiane 3.wav
+	new file:   all_data/8/8 anna1.wav
+	new file:   all_data/8/8 anna2.wav
+	new file:   all_data/8/8 anna3.wav
+	new file:   all_data/8/8 champlain 1.wav
+	new file:   all_data/8/8 champlain 2.wav
+	new file:   all_data/8/8 champlain 3.wav
+	new file:   all_data/8/8 pollah1.wav
+	new file:   all_data/8/8 pollah2.wav
+	new file:   all_data/8/8 pollah3.wav
+	new file:   all_data/8/8-Sorelle-1.wav
+	new file:   all_data/8/8-Sorelle-2.wav
+	new file:   all_data/8/8-Sorelle-3.wav
+	new file:   all_data/8/8E1_2024-05-30_115015442.wav
+	new file:   all_data/8/8E2_2024-05-30_115035897.wav
+	new file:   all_data/8/8E3_2024-05-30_115042810.wav
+	new file:   all_data/8/8F1.wav
+	new file:   all_data/8/8F1_2024-05-30_124741910.wav
+	new file:   all_data/8/8F2.wav
+	new file:   all_data/8/8F2_2024-05-30_124751508.wav
+	new file:   all_data/8/8F3.wav
+	new file:   all_data/8/8F3_2024-05-30_124757490.wav
+	new file:   all_data/8/8F4.wav
+	new file:   all_data/8/8J1_2024-05-31_102315552.wav
+	new file:   all_data/8/8J2_2024-05-31_102330043.wav
+	new file:   all_data/8/8J3_2024-05-31_102337384.wav
+	new file:   all_data/8/8K1_2024-05-30_125308109.wav
+	new file:   all_data/8/8K1_2024-05-30_214534519.wav
+	new file:   all_data/8/8K2_2024-05-30_125321920.wav
+	new file:   all_data/8/8K2_2024-05-30_125341943.wav
+	new file:   all_data/8/8K2_2024-05-30_215128606.wav
+	new file:   all_data/8/8K3_2024-05-30_125346235.wav
+	new file:   all_data/8/8K3_2024-05-30_214554083.wav
+	new file:   all_data/8/8L1_2024-05-30_125807008.wav
+	new file:   all_data/8/8L2_2024-05-30_125815795.wav
+	new file:   all_data/8/8L3_2024-05-30_125821980.wav
+	new file:   all_data/8/8N1_2024-05-30_115828537.wav
+	new file:   all_data/8/8N2_2024-05-30_115835713.wav
+	new file:   all_data/8/8N3_2024-05-30_115842792.wav
+	new file:   all_data/8/8S1_2024-05-31_061243000.wav
+	new file:   all_data/8/8S2_2024-05-31_061250358.wav
+	new file:   all_data/8/8S3_2024-05-31_061308208.wav
+	new file:   all_data/8/8T1_2024-05-30_130602783.wav
+	new file:   all_data/8/8T2_2024-05-30_130623399.wav
+	new file:   all_data/8/8T3_2024-05-30_130631092.wav
+	new file:   all_data/8/8_2024-05-30_160804375.wav
+	new file:   all_data/8/8_2024-05-30_161021976.wav
+	new file:   all_data/8/8_2024-05-30_161123143.wav
+	new file:   all_data/8/8_2024-05-30_161309170.wav
+	new file:   all_data/8/8_2024-05-30_161406868.wav
+	new file:   all_data/8/8_2024-05-30_161511113.wav
+	new file:   all_data/8/8_2024-05-30_161631762.wav
+	new file:   all_data/8/8_2024-05-30_161842450.wav
+	new file:   all_data/8/8_2024-05-30_161959026.wav
+	new file:   all_data/8/8_2024-05-30_162126608.wav
+	new file:   all_data/8/8_2024-05-30_162235396.wav
+	new file:   all_data/8/8_2024-05-30_162347917.wav
+	new file:   all_data/8/8_2024-05-30_162525813.wav
+	new file:   all_data/8/8_2024-05-30_162644708.wav
+	new file:   all_data/8/8_2024-05-30_162743521.wav
+	new file:   all_data/8/8_2024-05-30_162940519.wav
+	new file:   all_data/8/8_2024-05-30_163110123.wav
+	new file:   all_data/8/8_2024-05-30_163227036.wav
+	new file:   all_data/8/8_2024-05-30_163350278.wav
+	new file:   all_data/8/8_2024-05-30_163605948.wav
+	new file:   all_data/8/8_2024-05-30_163724022.wav
+	new file:   all_data/8/8_2024-05-30_163900266.wav
+	new file:   all_data/8/8_2024-05-30_164029170.wav
+	new file:   all_data/8/8_2024-05-30_164138363.wav
+	new file:   all_data/8/8_2024-05-30_164323032.wav
+	new file:   all_data/8/8_2024-05-30_164423353.wav
+	new file:   all_data/8/8_2024-05-30_164524416.wav
+	new file:   all_data/8/8_2024-05-30_164808287.wav
+	new file:   all_data/8/8_2024-05-30_164814669.wav
+	new file:   all_data/8/8_2024-05-30_164817797.wav
+	new file:   all_data/8/8_2024-05-31_065437010.wav
+	new file:   all_data/8/8_2024-05-31_065444793.wav
+	new file:   all_data/8/8_2024-05-31_065449383.wav
+	new file:   all_data/8/8_2024-05-31_070016699.wav
+	new file:   all_data/8/8_2024-05-31_070047596.wav
+	new file:   all_data/8/8_2024-05-31_070055528.wav
+	new file:   all_data/8/8_2024-05-31_070101315.wav
+	new file:   all_data/8/8_2024-05-31_070107934.wav
+	new file:   all_data/8/8_2024-05-31_070111924.wav
+	new file:   all_data/8/8_2024-05-31_070655437.wav
+	new file:   all_data/8/8_2024-05-31_070701340.wav
+	new file:   all_data/8/8_2024-05-31_070704366.wav
+	new file:   all_data/8/8_2024-05-31_071013242.wav
+	new file:   all_data/8/8_2024-05-31_071018946.wav
+	new file:   all_data/8/8_2024-05-31_071022039.wav
+	new file:   all_data/8/8_2024-05-31_071345266.wav
+	new file:   all_data/8/8_2024-05-31_071351370.wav
+	new file:   all_data/8/8_2024-05-31_071354080.wav
+	new file:   all_data/8/8_2024-05-31_081020164.wav
+	new file:   all_data/8/8_2024-05-31_081026367.wav
+	new file:   all_data/8/8_2024-05-31_081031572.wav
+	new file:   all_data/8/8_2024-05-31_102418384.wav
+	new file:   all_data/8/8_2024-05-31_102424687.wav
+	new file:   all_data/8/8_2024-05-31_102427797.wav
+	new file:   all_data/8/8_2024-05-31_102724201.wav
+	new file:   all_data/8/8_2024-05-31_102730869.wav
+	new file:   all_data/8/8_2024-05-31_102735359.wav
+	new file:   all_data/8/8_2024-05-31_103012251.wav
+	new file:   all_data/8/8_2024-05-31_103018235.wav
+	new file:   all_data/8/8_2024-05-31_103021241.wav
+	new file:   all_data/8/8_2024-05-31_103139812.wav
+	new file:   all_data/8/8_2024-05-31_103146163.wav
+	new file:   all_data/8/8_2024-05-31_103150071.wav
+	new file:   all_data/8/8_2024-05-31_103419318.wav
+	new file:   all_data/8/8_2024-05-31_103423092.wav
+	new file:   all_data/8/8_2024-05-31_103426751.wav
+	new file:   all_data/8/8_2024-05-31_110331939.wav
+	new file:   all_data/8/8_2024-05-31_110339652.wav
+	new file:   all_data/8/8_2024-05-31_110342748.wav
+	new file:   all_data/8/8_2024-05-31_111659034.wav
+	new file:   all_data/8/8_2024-05-31_111706329.wav
+	new file:   all_data/8/8_2024-05-31_111709620.wav
+	new file:   all_data/8/8_2024-05-31_112229694.wav
+	new file:   all_data/8/8_2024-05-31_112234806.wav
+	new file:   all_data/8/8_2024-05-31_112238103.wav
+	new file:   all_data/8/8_2024-05-31_112503661.wav
+	new file:   all_data/8/8_2024-05-31_112509368.wav
+	new file:   all_data/8/8_2024-05-31_112512754.wav
+	new file:   all_data/8/8_2024-05-31_114341303.wav
+	new file:   all_data/8/8_2024-05-31_114347037.wav
+	new file:   all_data/8/8_2024-05-31_114349809.wav
+	new file:   all_data/8/8_2024-05-31_114558005.wav
+	new file:   all_data/8/8_2024-05-31_114603248.wav
+	new file:   all_data/8/8_2024-05-31_114606863.wav
+	new file:   all_data/8/8_2024-05-31_114858248.wav
+	new file:   all_data/8/8_2024-05-31_114911750.wav
+	new file:   all_data/8/8_2024-05-31_114918610.wav
+	new file:   all_data/8/8_2024-05-31_115126254.wav
+	new file:   all_data/8/8_2024-05-31_115131380.wav
+	new file:   all_data/8/8_2024-05-31_115134600.wav
+	new file:   all_data/8/8_ange_1.wav
+	new file:   all_data/8/8_ange_2.wav
+	new file:   all_data/8/8_ange_3.wav
+	new file:   all_data/8/8_annaelle_1.wav
+	new file:   all_data/8/8_annaelle_2.wav
+	new file:   all_data/8/8_annaelle_3.wav
+	new file:   all_data/8/8k1_2024-05-30_123708020.wav
+	new file:   all_data/8/8k2_2024-05-30_123722871.wav
+	new file:   all_data/8/8k3_2024-05-30_123729377.wav
+	new file:   all_data/8/Franckchiffre_81.wav
+	new file:   all_data/8/Franckchiffre_82.wav
+	new file:   all_data/8/Franckchiffre_83.wav
+	new file:   all_data/8/Juniorchiffre_81.wav
+	new file:   all_data/8/Juniorchiffre_82.wav
+	new file:   all_data/8/Juniorchiffre_83.wav
+	new file:   all_data/8/NKWChiffre_81.wav
+	new file:   all_data/8/NKWChiffre_82.wav
+	new file:   all_data/8/NKWChiffre_83.wav
+	new file:   all_data/8/Stephanechiffre_81.wav
+	new file:   all_data/8/Stephanechiffre_82.wav
+	new file:   all_data/8/Stephanechiffre_83.wav
+	new file:   all_data/8/chiffre_81.wav
+	new file:   all_data/8/chiffre_82.wav
+	new file:   all_data/8/chiffre_83.wav
+	new file:   all_data/9/9 Abadouma 1.wav
+	new file:   all_data/9/9 Abadouma 2.wav
+	new file:   all_data/9/9 Abadouma 3.wav
+	new file:   all_data/9/9 Amaelle 1.wav
+	new file:   all_data/9/9 Amaelle 2.wav
+	new file:   all_data/9/9 Amaelle 3.wav
+	new file:   all_data/9/9 Ashley 1.wav
+	new file:   all_data/9/9 Ashley 2.wav
+	new file:   all_data/9/9 Ashley 3.wav
+	new file:   all_data/9/9 Josiane 1.wav
+	new file:   all_data/9/9 Josiane 2.wav
+	new file:   all_data/9/9 Josiane 3.wav
+	new file:   all_data/9/9 anna1.wav
+	new file:   all_data/9/9 anna2.wav
+	new file:   all_data/9/9 anna3.wav
+	new file:   all_data/9/9 champlain 1.wav
+	new file:   all_data/9/9 champlain 2.wav
+	new file:   all_data/9/9 champlain 3.wav
+	new file:   all_data/9/9 pollah1.wav
+	new file:   all_data/9/9 pollah2.wav
+	new file:   all_data/9/9 pollah3.wav
+	new file:   all_data/9/9-Sorelle-1.wav
+	new file:   all_data/9/9-Sorelle-2.wav
+	new file:   all_data/9/9-Sorelle-3.wav
+	new file:   all_data/9/9E1_2024-05-30_115051595.wav
+	new file:   all_data/9/9E2_2024-05-30_115101642.wav
+	new file:   all_data/9/9E3_2024-05-30_115107259.wav
+	new file:   all_data/9/9F1.wav
+	new file:   all_data/9/9F1_2024-05-30_124816256.wav
+	new file:   all_data/9/9F2.wav
+	new file:   all_data/9/9F2_2024-05-30_124831073.wav
+	new file:   all_data/9/9F3.wav
+	new file:   all_data/9/9F3_2024-05-30_124838319.wav
+	new file:   all_data/9/9F4.wav
+	new file:   all_data/9/9J1_2024-05-31_102345014.wav
+	new file:   all_data/9/9J2_2024-05-31_102354428.wav
+	new file:   all_data/9/9J3_2024-05-31_102400961.wav
+	new file:   all_data/9/9K1_2024-05-30_125351623.wav
+	new file:   all_data/9/9K1_2024-05-30_214601090.wav
+	new file:   all_data/9/9K2_2024-05-30_125400058.wav
+	new file:   all_data/9/9K2_2024-05-30_214618695.wav
+	new file:   all_data/9/9K3_2024-05-30_125423962.wav
+	new file:   all_data/9/9K3_2024-05-30_214625822.wav
+	new file:   all_data/9/9L1_2024-05-30_125829239.wav
+	new file:   all_data/9/9L2_2024-05-30_125838849.wav
+	new file:   all_data/9/9L3_2024-05-30_125844922.wav
+	new file:   all_data/9/9N1_2024-05-30_115853321.wav
+	new file:   all_data/9/9N2_2024-05-30_115900859.wav
+	new file:   all_data/9/9N3_2024-05-30_115906529.wav
+	new file:   all_data/9/9S1_2024-05-31_061319119.wav
+	new file:   all_data/9/9S2_2024-05-31_061326414.wav
+	new file:   all_data/9/9S3_2024-05-31_061334834.wav
+	new file:   all_data/9/9T1_2024-05-30_130638391.wav
+	new file:   all_data/9/9T2_2024-05-30_130648469.wav
+	new file:   all_data/9/9T3_2024-05-30_130656177.wav
+	new file:   all_data/9/9_2024-05-30_160811158.wav
+	new file:   all_data/9/9_2024-05-30_161028689.wav
+	new file:   all_data/9/9_2024-05-30_161134348.wav
+	new file:   all_data/9/9_2024-05-30_161315184.wav
+	new file:   all_data/9/9_2024-05-30_161412673.wav
+	new file:   all_data/9/9_2024-05-30_161518116.wav
+	new file:   all_data/9/9_2024-05-30_161638656.wav
+	new file:   all_data/9/9_2024-05-30_161848899.wav
+	new file:   all_data/9/9_2024-05-30_162007278.wav
+	new file:   all_data/9/9_2024-05-30_162132723.wav
+	new file:   all_data/9/9_2024-05-30_162241488.wav
+	new file:   all_data/9/9_2024-05-30_162353270.wav
+	new file:   all_data/9/9_2024-05-30_162531920.wav
+	new file:   all_data/9/9_2024-05-30_162650507.wav
+	new file:   all_data/9/9_2024-05-30_162750561.wav
+	new file:   all_data/9/9_2024-05-30_162946545.wav
+	new file:   all_data/9/9_2024-05-30_163116538.wav
+	new file:   all_data/9/9_2024-05-30_163233860.wav
+	new file:   all_data/9/9_2024-05-30_163358342.wav
+	new file:   all_data/9/9_2024-05-30_163611728.wav
+	new file:   all_data/9/9_2024-05-30_163729370.wav
+	new file:   all_data/9/9_2024-05-30_163912844.wav
+	new file:   all_data/9/9_2024-05-30_164035688.wav
+	new file:   all_data/9/9_2024-05-30_164144795.wav
+	new file:   all_data/9/9_2024-05-30_164329289.wav
+	new file:   all_data/9/9_2024-05-30_164429503.wav
+	new file:   all_data/9/9_2024-05-30_164529738.wav
+	new file:   all_data/9/9_2024-05-30_164821242.wav
+	new file:   all_data/9/9_2024-05-30_164829396.wav
+	new file:   all_data/9/9_2024-05-30_164836477.wav
+	new file:   all_data/9/9_2024-05-31_065455535.wav
+	new file:   all_data/9/9_2024-05-31_065503185.wav
+	new file:   all_data/9/9_2024-05-31_065508290.wav
+	new file:   all_data/9/9_2024-05-31_070115982.wav
+	new file:   all_data/9/9_2024-05-31_070123732.wav
+	new file:   all_data/9/9_2024-05-31_070130200.wav
+	new file:   all_data/9/9_2024-05-31_070134922.wav
+	new file:   all_data/9/9_2024-05-31_070138816.wav
+	new file:   all_data/9/9_2024-05-31_070142455.wav
+	new file:   all_data/9/9_2024-05-31_070708856.wav
+	new file:   all_data/9/9_2024-05-31_070715109.wav
+	new file:   all_data/9/9_2024-05-31_070718435.wav
+	new file:   all_data/9/9_2024-05-31_071026081.wav
+	new file:   all_data/9/9_2024-05-31_071031568.wav
+	new file:   all_data/9/9_2024-05-31_071035026.wav
+	new file:   all_data/9/9_2024-05-31_071357641.wav
+	new file:   all_data/9/9_2024-05-31_071403093.wav
+	new file:   all_data/9/9_2024-05-31_071405721.wav
+	new file:   all_data/9/9_2024-05-31_081034699.wav
+	new file:   all_data/9/9_2024-05-31_081039754.wav
+	new file:   all_data/9/9_2024-05-31_081042381.wav
+	new file:   all_data/9/9_2024-05-31_102431937.wav
+	new file:   all_data/9/9_2024-05-31_102437475.wav
+	new file:   all_data/9/9_2024-05-31_102440469.wav
+	new file:   all_data/9/9_2024-05-31_102739034.wav
+	new file:   all_data/9/9_2024-05-31_102744722.wav
+	new file:   all_data/9/9_2024-05-31_102748535.wav
+	new file:   all_data/9/9_2024-05-31_103024707.wav
+	new file:   all_data/9/9_2024-05-31_103029852.wav
+	new file:   all_data/9/9_2024-05-31_103033096.wav
+	new file:   all_data/9/9_2024-05-31_103154527.wav
+	new file:   all_data/9/9_2024-05-31_103202526.wav
+	new file:   all_data/9/9_2024-05-31_103207133.wav
+	new file:   all_data/9/9_2024-05-31_103431001.wav
+	new file:   all_data/9/9_2024-05-31_103435818.wav
+	new file:   all_data/9/9_2024-05-31_103439161.wav
+	new file:   all_data/9/9_2024-05-31_110345893.wav
+	new file:   all_data/9/9_2024-05-31_110351006.wav
+	new file:   all_data/9/9_2024-05-31_110354052.wav
+	new file:   all_data/9/9_2024-05-31_111713181.wav
+	new file:   all_data/9/9_2024-05-31_111718696.wav
+	new file:   all_data/9/9_2024-05-31_111721837.wav
+	new file:   all_data/9/9_2024-05-31_112241809.wav
+	new file:   all_data/9/9_2024-05-31_112247238.wav
+	new file:   all_data/9/9_2024-05-31_112250467.wav
+	new file:   all_data/9/9_2024-05-31_112516619.wav
+	new file:   all_data/9/9_2024-05-31_112522192.wav
+	new file:   all_data/9/9_2024-05-31_112525700.wav
+	new file:   all_data/9/9_2024-05-31_114352800.wav
+	new file:   all_data/9/9_2024-05-31_114357153.wav
+	new file:   all_data/9/9_2024-05-31_114359950.wav
+	new file:   all_data/9/9_2024-05-31_114610105.wav
+	new file:   all_data/9/9_2024-05-31_114615313.wav
+	new file:   all_data/9/9_2024-05-31_114618530.wav
+	new file:   all_data/9/9_2024-05-31_114924646.wav
+	new file:   all_data/9/9_2024-05-31_114929741.wav
+	new file:   all_data/9/9_2024-05-31_114932844.wav
+	new file:   all_data/9/9_2024-05-31_115138170.wav
+	new file:   all_data/9/9_2024-05-31_115144273.wav
+	new file:   all_data/9/9_2024-05-31_115147489.wav
+	new file:   all_data/9/9_ange_1.wav
+	new file:   all_data/9/9_ange_2.wav
+	new file:   all_data/9/9_ange_3.wav
+	new file:   all_data/9/9_annaelle_1.wav
+	new file:   all_data/9/9_annaelle_2.wav
+	new file:   all_data/9/9_annaelle_3.wav
+	new file:   all_data/9/9k1_2024-05-30_123736287.wav
+	new file:   all_data/9/9k2_2024-05-30_123744645.wav
+	new file:   all_data/9/9k3_2024-05-30_123752303.wav
+	new file:   all_data/9/Franckchiffre_91.wav
+	new file:   all_data/9/Franckchiffre_92.wav
+	new file:   all_data/9/Franckchiffre_93.wav
+	new file:   all_data/9/Juniorchiffre_91.wav
+	new file:   all_data/9/Juniorchiffre_92.wav
+	new file:   all_data/9/Juniorchiffre_93.wav
+	new file:   all_data/9/NKWChiffre_91.wav
+	new file:   all_data/9/NKWChiffre_92.wav
+	new file:   all_data/9/NKWChiffre_93.wav
+	new file:   all_data/9/Stephanechiffre_91.wav
+	new file:   all_data/9/Stephanechiffre_92.wav
+	new file:   all_data/9/Stephanechiffre_93.wav
+	new file:   all_data/9/chiffre_91.wav
+	new file:   all_data/9/chiffre_92.wav
+	new file:   all_data/9/chiffre_93.wav
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+	modified:   .ipynb_checkpoints/TestMeka_AudioProcessing-checkpoint.ipynb
+	deleted:    0 Josiane 1.m4a
+	deleted:    AUDIO-2024-05-31-21-09-39.m4a
+	deleted:    MEKA/0 Abadouma 1.wav
+	deleted:    MEKA/0 Abadouma 2.wav
+	deleted:    MEKA/0 Abadouma 3.wav
+	deleted:    MEKA/0 Amaelle 1.m4a
+	deleted:    MEKA/0 Amaelle 2.m4a
+	deleted:    MEKA/0 Amaelle 3.m4a
+	deleted:    MEKA/0 Ashley 1.m4a
+	deleted:    MEKA/0 Ashley 2.m4a
+	deleted:    MEKA/0 Ashley 3.m4a
+	deleted:    MEKA/0 Champlain 1.wav
+	deleted:    MEKA/0 Josiane 1.wav
+	deleted:    MEKA/0 Josiane 2.wav
+	deleted:    MEKA/0 Josiane 3.wav
+	deleted:    MEKA/0 Sorelle 1.wav
+	deleted:    MEKA/0 Sorelle 2.wav
+	deleted:    MEKA/0 Sorelle 3.wav
+	deleted:    MEKA/0 anna1.m4a
+	deleted:    MEKA/0 anna2.m4a
+	deleted:    MEKA/0 anna3.m4a
+	deleted:    MEKA/0 champlain 2.wav
+	deleted:    MEKA/0 champlain 3.wav
+	deleted:    MEKA/0 pollah1.m4a
+	deleted:    MEKA/0 pollah2.m4a
+	deleted:    MEKA/0 pollah3.m4a
+	deleted:    MEKA/0A-17-20-7_2024-05-25_094805865.wav
+	deleted:    MEKA/0A-17-20-8_2024-05-25_094828405.wav
+	deleted:    MEKA/0A-17-20-9_2024-05-25_094835479.wav
+	deleted:    MEKA/0F1.wav
+	deleted:    MEKA/0F2.wav
+	deleted:    MEKA/0F3.wav
+	deleted:    MEKA/0_ange_1.wav
+	deleted:    MEKA/0_ange_2.wav
+	deleted:    MEKA/0_ange_3.wav
+	deleted:    MEKA/0_annaelle_1 .wav
+	deleted:    MEKA/0_annaelle_2.wav
+	deleted:    MEKA/0_annaelle_3.wav
+	deleted:    MEKA/1 Abadouma 1.wav
+	deleted:    MEKA/1 Abadouma 2.wav
+	deleted:    MEKA/1 Abadouma 3.wav
+	deleted:    MEKA/1 Amaelle 1.m4a
+	deleted:    MEKA/1 Amaelle 2.m4a
+	deleted:    MEKA/1 Amaelle 3.m4a
+	deleted:    MEKA/1 Ashley 1.m4a
+	deleted:    MEKA/1 Ashley 2.m4a
+	deleted:    MEKA/1 Ashley 3.m4a
+	deleted:    MEKA/1 Champlain 1.wav
+	deleted:    MEKA/1 Josiane 1.wav
+	deleted:    MEKA/1 Josiane 2.wav
+	deleted:    MEKA/1 Josiane 3.wav
+	deleted:    MEKA/1 Sorelle 1.wav
+	deleted:    MEKA/1 Sorelle 2.wav
+	deleted:    MEKA/1 Sorelle 3.wav
+	deleted:    MEKA/1 anna1.m4a
+	deleted:    MEKA/1 anna2.m4a
+	deleted:    MEKA/1 anna3.m4a
+	deleted:    MEKA/1 champlain 2.wav
+	deleted:    MEKA/1 champlain 3.wav
+	deleted:    MEKA/1 pollah1.m4a
+	deleted:    MEKA/1 pollah2.m4a
+	deleted:    MEKA/1 pollah3.m4a
+	deleted:    MEKA/1F1.wav
+	deleted:    MEKA/1F2.wav
+	deleted:    MEKA/1F3.wav
+	deleted:    MEKA/1F4.wav
+	deleted:    MEKA/1_ange_1.wav
+	deleted:    MEKA/1_ange_2.wav
+	deleted:    MEKA/1_ange_3.wav
+	deleted:    MEKA/1_annaelle_1.wav
+	deleted:    MEKA/1_annaelle_2.wav
+	deleted:    MEKA/1_annaelle_3.wav
+	deleted:    MEKA/2 Abadouma 1.wav
+	deleted:    MEKA/2 Abadouma 2.wav
+	deleted:    MEKA/2 Abadouma 3.wav
+	deleted:    MEKA/2 Amaelle 1.m4a
+	deleted:    MEKA/2 Amaelle 2.m4a
+	deleted:    MEKA/2 Amaelle 3.m4a
+	deleted:    MEKA/2 Ashley 1.m4a
+	deleted:    MEKA/2 Ashley 2.m4a
+	deleted:    MEKA/2 Ashley 3.m4a
+	deleted:    MEKA/2 Josiane 1.wav
+	deleted:    MEKA/2 Josiane 2.wav
+	deleted:    MEKA/2 Josiane 3.wav
+	deleted:    MEKA/2 Sorelle 1.wav
+	deleted:    MEKA/2 Sorelle 2.wav
+	deleted:    MEKA/2 Sorelle 3.wav
+	deleted:    MEKA/2 anna1.m4a
+	deleted:    MEKA/2 anna2.m4a
+	deleted:    MEKA/2 anna3.m4a
+	deleted:    MEKA/2 champlain 1.wav
+	deleted:    MEKA/2 champlain 2 .wav
+	deleted:    MEKA/2 champlain 3.wav
+	deleted:    MEKA/2 pollah1.m4a
+	deleted:    MEKA/2 pollah2.m4a
+	deleted:    MEKA/2 pollah3.m4a
+	deleted:    MEKA/2F1.wav
+	deleted:    MEKA/2F2.wav
+	deleted:    MEKA/2F3.wav
+	deleted:    MEKA/2F4.wav
+	deleted:    MEKA/2_ange_1.wav
+	deleted:    MEKA/2_ange_2.wav
+	deleted:    MEKA/2_ange_3.wav
+	deleted:    MEKA/2_annaelle_1.wav
+	deleted:    MEKA/2_annaelle_2.wav
+	deleted:    MEKA/2_annaelle_3.wav
+	deleted:    MEKA/3 Abadouma 1.wav
+	deleted:    MEKA/3 Abadouma 2.wav
+	deleted:    MEKA/3 Abadouma 3.wav
+	deleted:    MEKA/3 Amaelle 1.m4a
+	deleted:    MEKA/3 Amaelle 2.m4a
+	deleted:    MEKA/3 Amaelle 3.m4a
+	deleted:    MEKA/3 Ashley 1.m4a
+	deleted:    MEKA/3 Ashley 2.m4a
+	deleted:    MEKA/3 Ashley 3.m4a
+	deleted:    MEKA/3 Josiane 1.wav
+	deleted:    MEKA/3 Josiane 2.wav
+	deleted:    MEKA/3 Josiane 3.wav
+	deleted:    MEKA/3 Sorelle 1.wav
+	deleted:    MEKA/3 Sorelle 2.wav
+	deleted:    MEKA/3 Sorelle 3.wav
+	deleted:    MEKA/3 anna1.m4a
+	deleted:    MEKA/3 anna2.m4a
+	deleted:    MEKA/3 anna3.m4a
+	deleted:    MEKA/3 champlain 1.wav
+	deleted:    MEKA/3 champlain 2.wav
+	deleted:    MEKA/3 champlain 3.wav
+	deleted:    MEKA/3 pollah1.m4a
+	deleted:    MEKA/3 pollah2.m4a
+	deleted:    MEKA/3 pollah3.m4a
+	deleted:    MEKA/3F1.wav
+	deleted:    MEKA/3F2.wav
+	deleted:    MEKA/3F3.wav
+	deleted:    MEKA/3F4.wav
+	deleted:    MEKA/3_ange_1.wav
+	deleted:    MEKA/3_ange_2.wav
+	deleted:    MEKA/3_ange_3.wav
+	deleted:    MEKA/3_annaelle_1.wav
+	deleted:    MEKA/3_annaelle_2.wav
+	deleted:    MEKA/3_annaelle_3.wav
+	deleted:    MEKA/4 Abadouma 1.wav
+	deleted:    MEKA/4 Abadouma 2.wav
+	deleted:    MEKA/4 Abadouma 3.wav
+	deleted:    MEKA/4 Amaelle 1.m4a
+	deleted:    MEKA/4 Amaelle 2.m4a
+	deleted:    MEKA/4 Amaelle 3.m4a
+	deleted:    MEKA/4 Ashley 1.m4a
+	deleted:    MEKA/4 Ashley 2.m4a
+	deleted:    MEKA/4 Ashley 3.m4a
+	deleted:    MEKA/4 Josiane 1.wav
+	deleted:    MEKA/4 Josiane 2.wav
+	deleted:    MEKA/4 Josiane 3.wav
+	deleted:    MEKA/4 Sorelle 1.wav
+	deleted:    MEKA/4 Sorelle 2.wav
+	deleted:    MEKA/4 Sorelle 3.wav
+	deleted:    MEKA/4 anna1.m4a
+	deleted:    MEKA/4 anna2.m4a
+	deleted:    MEKA/4 anna3.m4a
+	deleted:    MEKA/4 champlain 1.wav
+	deleted:    MEKA/4 champlain 2.wav
+	deleted:    MEKA/4 champlain 3.wav
+	deleted:    MEKA/4 pollah1.m4a
+	deleted:    MEKA/4 pollah2.m4a
+	deleted:    MEKA/4 pollah3.m4a
+	deleted:    MEKA/4F1.wav
+	deleted:    MEKA/4F2.wav
+	deleted:    MEKA/4F3.wav
+	deleted:    MEKA/4F4.wav
+	deleted:    MEKA/4_ange_1.wav
+	deleted:    MEKA/4_ange_2.wav
+	deleted:    MEKA/4_ange_3.wav
+	deleted:    MEKA/4_annaelle_1.wav
+	deleted:    MEKA/4_annaelle_2.wav
+	deleted:    MEKA/4_annaelle_3.wav
+	deleted:    MEKA/5 Abadouma 1.wav
+	deleted:    MEKA/5 Abadouma 2.wav
+	deleted:    MEKA/5 Abadouma 3.wav
+	deleted:    MEKA/5 Amaelle 1.m4a
+	deleted:    MEKA/5 Amaelle 2.m4a
+	deleted:    MEKA/5 Amaelle 3.m4a
+	deleted:    MEKA/5 Ashley 1.m4a
+	deleted:    MEKA/5 Ashley 2.m4a
+	deleted:    MEKA/5 Ashley 3.m4a
+	deleted:    MEKA/5 Josiane 1.wav
+	deleted:    MEKA/5 Josiane 2.wav
+	deleted:    MEKA/5 Josiane 3.wav
+	deleted:    MEKA/5 Sorelle 1.wav
+	deleted:    MEKA/5 Sorelle 2.wav
+	deleted:    MEKA/5 Sorelle 3.wav
+	deleted:    MEKA/5 anna1.m4a
+	deleted:    MEKA/5 anna2.m4a
+	deleted:    MEKA/5 anna3.m4a
+	deleted:    MEKA/5 champlain 1.wav
+	deleted:    MEKA/5 champlain 2.wav
+	deleted:    MEKA/5 champlain 3.wav
+	deleted:    MEKA/5 pollah1.m4a
+	deleted:    MEKA/5 pollah2.m4a
+	deleted:    MEKA/5 pollah3.m4a
+	deleted:    MEKA/5F1.wav
+	deleted:    MEKA/5F2.wav
+	deleted:    MEKA/5F3.wav
+	deleted:    MEKA/5_ange_1.wav
+	deleted:    MEKA/5_ange_2.wav
+	deleted:    MEKA/5_ange_3.wav
+	deleted:    MEKA/5_annaelle_1.wav
+	deleted:    MEKA/5_annaelle_2.wav
+	deleted:    MEKA/5_annaelle_3.wav
+	deleted:    MEKA/6 Abadouma 1.wav
+	deleted:    MEKA/6 Abadouma 2.wav
+	deleted:    MEKA/6 Abadouma 3.wav
+	deleted:    MEKA/6 Amaelle 1.m4a
+	deleted:    MEKA/6 Amaelle 2.m4a
+	deleted:    MEKA/6 Amaelle 3.m4a
+	deleted:    MEKA/6 Ashley 1.m4a
+	deleted:    MEKA/6 Ashley 2.m4a
+	deleted:    MEKA/6 Ashley 3.m4a
+	deleted:    MEKA/6 Josiane 1.wav
+	deleted:    MEKA/6 Josiane 2.wav
+	deleted:    MEKA/6 Josiane 3.wav
+	deleted:    MEKA/6 Sorelle 1.wav
+	deleted:    MEKA/6 Sorelle 2.wav
+	deleted:    MEKA/6 Sorelle 3.wav
+	deleted:    MEKA/6 anna1.m4a
+	deleted:    MEKA/6 anna2.m4a
+	deleted:    MEKA/6 anna3.m4a
+	deleted:    MEKA/6 champlain 1.wav
+	deleted:    MEKA/6 champlain 2.wav
+	deleted:    MEKA/6 champlain 3.wav
+	deleted:    MEKA/6 pollah1.m4a
+	deleted:    MEKA/6 pollah2.m4a
+	deleted:    MEKA/6 pollah3.m4a
+	deleted:    MEKA/6F1.wav
+	deleted:    MEKA/6F2.wav
+	deleted:    MEKA/6F3.wav
+	deleted:    MEKA/6_ange_1.wav
+	deleted:    MEKA/6_ange_2.wav
+	deleted:    MEKA/6_ange_3.wav
+	deleted:    MEKA/6_annaelle_1.wav
+	deleted:    MEKA/6_annaelle_2.wav
+	deleted:    MEKA/6_annaelle_3.wav
+	deleted:    MEKA/7 Abadouma 1.wav
+	deleted:    MEKA/7 Abadouma 2.wav
+	deleted:    MEKA/7 Abadouma 3.wav
+	deleted:    MEKA/7 Amaelle 1.m4a
+	deleted:    MEKA/7 Amaelle 2.m4a
+	deleted:    MEKA/7 Amaelle 3.m4a
+	deleted:    MEKA/7 Ashley 1.m4a
+	deleted:    MEKA/7 Ashley 2.m4a
+	deleted:    MEKA/7 Ashley 3.m4a
+	deleted:    MEKA/7 Josiane 1.wav
+	deleted:    MEKA/7 Josiane 2.wav
+	deleted:    MEKA/7 Josiane 3.wav
+	deleted:    MEKA/7 Sorelle 1.wav
+	deleted:    MEKA/7 anna1.m4a
+	deleted:    MEKA/7 anna2.m4a
+	deleted:    MEKA/7 anna3.m4a
+	deleted:    MEKA/7 champlain 1.wav
+	deleted:    MEKA/7 champlain 2.wav
+	deleted:    MEKA/7 champlain 3.wav
+	deleted:    MEKA/7 pollah1.m4a
+	deleted:    MEKA/7 pollah2.m4a
+	deleted:    MEKA/7 pollah3.m4a
+	deleted:    MEKA/7-Sorelle-2.wav
+	deleted:    MEKA/7-Sorelle-3.wav
+	deleted:    MEKA/7F1.wav
+	deleted:    MEKA/7F2.wav
+	deleted:    MEKA/7F3.wav
+	deleted:    MEKA/7F4.wav
+	deleted:    MEKA/7_ange_1.wav
+	deleted:    MEKA/7_ange_2.wav
+	deleted:    MEKA/7_ange_3.wav
+	deleted:    MEKA/7_annaelle_1.wav
+	deleted:    MEKA/7_annaelle_2.wav
+	deleted:    MEKA/7_annaelle_3.wav
+	deleted:    MEKA/8 Abadouma 1.wav
+	deleted:    MEKA/8 Abadouma 2.wav
+	deleted:    MEKA/8 Abadouma 3.wav
+	deleted:    MEKA/8 Amaelle 1.m4a
+	deleted:    MEKA/8 Amaelle 2.m4a
+	deleted:    MEKA/8 Amaelle 3.m4a
+	deleted:    MEKA/8 Ashley 1.m4a
+	deleted:    MEKA/8 Ashley 2.m4a
+	deleted:    MEKA/8 Ashley 3.m4a
+	deleted:    MEKA/8 Josiane 1.wav
+	deleted:    MEKA/8 Josiane 2.wav
+	deleted:    MEKA/8 Josiane 3.wav
+	deleted:    MEKA/8 anna1.m4a
+	deleted:    MEKA/8 anna2.m4a
+	deleted:    MEKA/8 anna3.m4a
+	deleted:    MEKA/8 champlain 1.wav
+	deleted:    MEKA/8 champlain 2.wav
+	deleted:    MEKA/8 champlain 3.wav
+	deleted:    MEKA/8 pollah1.m4a
+	deleted:    MEKA/8 pollah2.m4a
+	deleted:    MEKA/8 pollah3.m4a
+	deleted:    MEKA/8-Sorelle-1.wav
+	deleted:    MEKA/8-Sorelle-2.wav
+	deleted:    MEKA/8-Sorelle-3.wav
+	deleted:    MEKA/8F1.wav
+	deleted:    MEKA/8F2.wav
+	deleted:    MEKA/8F3.wav
+	deleted:    MEKA/8F4.wav
+	deleted:    MEKA/8_ange_1.wav
+	deleted:    MEKA/8_ange_2.wav
+	deleted:    MEKA/8_ange_3.wav
+	deleted:    MEKA/8_annaelle_1.wav
+	deleted:    MEKA/8_annaelle_2.wav
+	deleted:    MEKA/8_annaelle_3.wav
+	deleted:    MEKA/9 Abadouma 1.wav
+	deleted:    MEKA/9 Abadouma 2.wav
+	deleted:    MEKA/9 Abadouma 3.wav
+	deleted:    MEKA/9 Amaelle 1.m4a
+	deleted:    MEKA/9 Amaelle 2.m4a
+	deleted:    MEKA/9 Amaelle 3.m4a
+	deleted:    MEKA/9 Ashley 1.m4a
+	deleted:    MEKA/9 Ashley 2.m4a
+	deleted:    MEKA/9 Ashley 3.m4a
+	deleted:    MEKA/9 Josiane 1.wav
+	deleted:    MEKA/9 Josiane 2.wav
+	deleted:    MEKA/9 Josiane 3.wav
+	deleted:    MEKA/9 anna1.m4a
+	deleted:    MEKA/9 anna2.m4a
+	deleted:    MEKA/9 anna3.m4a
+	deleted:    MEKA/9 champlain 1.wav
+	deleted:    MEKA/9 champlain 2.wav
+	deleted:    MEKA/9 champlain 3.wav
+	deleted:    MEKA/9 pollah1.m4a
+	deleted:    MEKA/9 pollah2.m4a
+	deleted:    MEKA/9 pollah3.m4a
+	deleted:    MEKA/9-Sorelle-1.wav
+	deleted:    MEKA/9-Sorelle-2.wav
+	deleted:    MEKA/9-Sorelle-3.wav
+	deleted:    MEKA/9F1.wav
+	deleted:    MEKA/9F2.wav
+	deleted:    MEKA/9F3.wav
+	deleted:    MEKA/9F4.wav
+	deleted:    MEKA/9_ange_1.wav
+	deleted:    MEKA/9_ange_2.wav
+	deleted:    MEKA/9_ange_3.wav
+	deleted:    MEKA/9_annaelle_1.wav
+	deleted:    MEKA/9_annaelle_2.wav
+	deleted:    MEKA/9_annaelle_3.wav
+	deleted:    MEKA/chiffre_01.wav
+	deleted:    MEKA/chiffre_02.wav
+	deleted:    MEKA/chiffre_03.wav
+	deleted:    MEKA/chiffre_11.wav
+	deleted:    MEKA/chiffre_12.wav
+	deleted:    MEKA/chiffre_13.wav
+	deleted:    MEKA/chiffre_21.wav
+	deleted:    MEKA/chiffre_22.wav
+	deleted:    MEKA/chiffre_23.wav
+	deleted:    MEKA/chiffre_31.wav
+	deleted:    MEKA/chiffre_32.wav
+	deleted:    MEKA/chiffre_33.wav
+	deleted:    MEKA/chiffre_41.wav
+	deleted:    MEKA/chiffre_42.wav
+	deleted:    MEKA/chiffre_43.wav
+	deleted:    MEKA/chiffre_51.wav
+	deleted:    MEKA/chiffre_52.wav
+	deleted:    MEKA/chiffre_53.wav
+	deleted:    MEKA/chiffre_61.wav
+	deleted:    MEKA/chiffre_62.wav
+	deleted:    MEKA/chiffre_63.wav
+	deleted:    MEKA/chiffre_71.wav
+	deleted:    MEKA/chiffre_72.wav
+	deleted:    MEKA/chiffre_73.wav
+	deleted:    MEKA/chiffre_81.wav
+	deleted:    MEKA/chiffre_82.wav
+	deleted:    MEKA/chiffre_83.wav
+	deleted:    MEKA/chiffre_91.wav
+	deleted:    MEKA/chiffre_92.wav
+	deleted:    MEKA/chiffre_93.wav
+	deleted:    RUDY/Franckchiffre_63.wav
+	deleted:    RUDY/Franckchiffre_71.wav
+	deleted:    RUDY/Franckchiffre_72.wav
+	deleted:    RUDY/Franckchiffre_73.wav
+	deleted:    RUDY/Franckchiffre_81.wav
+	deleted:    RUDY/Franckchiffre_82.wav
+	deleted:    RUDY/Franckchiffre_83.wav
+	deleted:    RUDY/Franckchiffre_91.wav
+	deleted:    RUDY/Franckchiffre_92.wav
+	deleted:    RUDY/Franckchiffre_93.wav
+	deleted:    RUDY/Juniorchiffre_01.wav
+	deleted:    RUDY/Juniorchiffre_02.wav
+	deleted:    RUDY/Juniorchiffre_03.wav
+	deleted:    RUDY/Juniorchiffre_11.wav
+	deleted:    RUDY/Juniorchiffre_12.wav
+	deleted:    RUDY/Juniorchiffre_13.wav
+	deleted:    RUDY/Juniorchiffre_21.wav
+	deleted:    RUDY/Juniorchiffre_22.wav
+	deleted:    RUDY/Juniorchiffre_23.wav
+	deleted:    RUDY/Juniorchiffre_31.wav
+	deleted:    RUDY/Juniorchiffre_32.wav
+	deleted:    RUDY/Juniorchiffre_33.wav
+	deleted:    RUDY/Juniorchiffre_41.wav
+	deleted:    RUDY/Juniorchiffre_42.wav
+	deleted:    RUDY/Juniorchiffre_43.wav
+	deleted:    RUDY/Juniorchiffre_51.wav
+	deleted:    RUDY/Juniorchiffre_52.wav
+	deleted:    RUDY/Juniorchiffre_53.wav
+	deleted:    RUDY/Juniorchiffre_61.wav
+	deleted:    RUDY/Juniorchiffre_62.wav
+	deleted:    RUDY/Juniorchiffre_63.wav
+	deleted:    RUDY/Juniorchiffre_71.wav
+	deleted:    RUDY/Juniorchiffre_72.wav
+	deleted:    RUDY/Juniorchiffre_73.wav
+	deleted:    RUDY/Juniorchiffre_81.wav
+	deleted:    RUDY/Juniorchiffre_82.wav
+	deleted:    RUDY/Juniorchiffre_83.wav
+	deleted:    RUDY/Juniorchiffre_91.wav
+	deleted:    RUDY/Juniorchiffre_92.wav
+	deleted:    RUDY/Juniorchiffre_93.wav
+	deleted:    RUDY/NKWChiffre_01.wav
+	deleted:    RUDY/NKWChiffre_02.wav
+	deleted:    RUDY/NKWChiffre_03.wav
+	deleted:    RUDY/NKWChiffre_11.wav
+	deleted:    RUDY/NKWChiffre_12.wav
+	deleted:    RUDY/NKWChiffre_13.wav
+	deleted:    RUDY/NKWChiffre_21.wav
+	deleted:    RUDY/NKWChiffre_22.wav
+	deleted:    RUDY/NKWChiffre_23.wav
+	deleted:    RUDY/NKWChiffre_31.wav
+	deleted:    RUDY/NKWChiffre_32.wav
+	deleted:    RUDY/NKWChiffre_33.wav
+	deleted:    RUDY/NKWChiffre_41.wav
+	deleted:    RUDY/NKWChiffre_42.wav
+	deleted:    RUDY/NKWChiffre_43.wav
+	deleted:    RUDY/NKWChiffre_51.wav
+	deleted:    RUDY/NKWChiffre_52.wav
+	deleted:    RUDY/NKWChiffre_53.wav
+	deleted:    RUDY/NKWChiffre_61.wav
+	deleted:    RUDY/NKWChiffre_62.wav
+	deleted:    RUDY/NKWChiffre_63.wav
+	deleted:    RUDY/NKWChiffre_71.wav
+	deleted:    RUDY/NKWChiffre_72.wav
+	deleted:    RUDY/NKWChiffre_73.wav
+	deleted:    RUDY/NKWChiffre_81.wav
+	deleted:    RUDY/NKWChiffre_82.wav
+	deleted:    RUDY/NKWChiffre_83.wav
+	deleted:    RUDY/NKWChiffre_91.wav
+	deleted:    RUDY/NKWChiffre_92.wav
+	deleted:    RUDY/NKWChiffre_93.wav
+	deleted:    RUDY/Stephanechiffre_01.wav
+	deleted:    RUDY/Stephanechiffre_02.wav
+	deleted:    RUDY/Stephanechiffre_03.wav
+	deleted:    RUDY/Stephanechiffre_11.wav
+	deleted:    RUDY/Stephanechiffre_12.wav
+	deleted:    RUDY/Stephanechiffre_13.wav
+	deleted:    RUDY/Stephanechiffre_21.wav
+	deleted:    RUDY/Stephanechiffre_22.wav
+	deleted:    RUDY/Stephanechiffre_23.wav
+	deleted:    RUDY/Stephanechiffre_31.wav
+	deleted:    RUDY/Stephanechiffre_32.wav
+	deleted:    RUDY/Stephanechiffre_33.wav
+	deleted:    RUDY/Stephanechiffre_41.wav
+	deleted:    RUDY/Stephanechiffre_42.wav
+	deleted:    RUDY/Stephanechiffre_43.wav
+	deleted:    RUDY/Stephanechiffre_51.wav
+	deleted:    RUDY/Stephanechiffre_52.wav
+	deleted:    RUDY/Stephanechiffre_53.wav
+	deleted:    RUDY/Stephanechiffre_61.wav
+	deleted:    RUDY/Stephanechiffre_62.wav
+	deleted:    RUDY/Stephanechiffre_63.wav
+	deleted:    RUDY/Stephanechiffre_71.wav
+	deleted:    RUDY/Stephanechiffre_72.wav
+	deleted:    RUDY/Stephanechiffre_73.wav
+	deleted:    RUDY/Stephanechiffre_81.wav
+	deleted:    RUDY/Stephanechiffre_82.wav
+	deleted:    RUDY/Stephanechiffre_83.wav
+	deleted:    RUDY/Stephanechiffre_91.wav
+	deleted:    RUDY/Stephanechiffre_92.wav
+	deleted:    RUDY/Stephanechiffre_93.wav
+	deleted:    SOREL/0E1_2024-05-30_114506168.wav
+	deleted:    SOREL/0E2_2024-05-30_114532643.wav
+	deleted:    SOREL/0E3_2024-05-30_114550428.wav
+	deleted:    SOREL/0F1_2024-05-30_124223311.wav
+	deleted:    SOREL/0F2_2024-05-30_124243918.wav
+	deleted:    SOREL/0F3_2024-05-30_124254212.wav
+	deleted:    SOREL/0J1_2024-05-31_101728744.wav
+	deleted:    SOREL/0J2_2024-05-31_101852365.wav
+	deleted:    SOREL/0J3_2024-05-31_101901693.wav
+	deleted:    SOREL/0K1_2024-05-30_124904181.wav
+	deleted:    SOREL/0K1_2024-05-30_204146619.wav
+	deleted:    SOREL/0K2_2024-05-30_124918950.wav
+	deleted:    SOREL/0K2_2024-05-30_204157555.wav
+	deleted:    SOREL/0K3_2024-05-30_124933517.wav
+	deleted:    SOREL/0K3_2024-05-30_204208592.wav
+	deleted:    SOREL/0L1_2024-05-30_125433866.wav
+	deleted:    SOREL/0L2_2024-05-30_125452262.wav
+	deleted:    SOREL/0L3_2024-05-30_125500336.wav
+	deleted:    SOREL/0N1_2024-05-30_115133623.wav
+	deleted:    SOREL/0N2_2024-05-30_115154275.wav
+	deleted:    SOREL/0N3_2024-05-30_115301227.wav
+	deleted:    SOREL/0S1_2024-05-31_060922823.wav
+	deleted:    SOREL/0S2_2024-05-31_060944461.wav
+	deleted:    SOREL/0S3_2024-05-31_060950979.wav
+	deleted:    SOREL/0T1_2024-05-30_130055094.wav
+	deleted:    SOREL/0T2_2024-05-30_130107644.wav
+	deleted:    SOREL/0T3_2024-05-30_130118902.wav
+	deleted:    SOREL/0k1_2024-05-30_122956988.wav
+	deleted:    SOREL/0k2_2024-05-30_123033208.wav
+	deleted:    SOREL/0k3_2024-05-30_123042687.wav
+	deleted:    SOREL/1E1_2024-05-30_114631291.wav
+	deleted:    SOREL/1E2_2024-05-30_114649784.wav
+	deleted:    SOREL/1E3_2024-05-30_114657116.wav
+	deleted:    SOREL/1F1_2024-05-30_124307507.wav
+	deleted:    SOREL/1F2_2024-05-30_124319821.wav
+	deleted:    SOREL/1F3_2024-05-30_124327518.wav
+	deleted:    SOREL/1J1_2024-05-31_101915615.wav
+	deleted:    SOREL/1J2_2024-05-31_101942975.wav
+	deleted:    SOREL/1J3_2024-05-31_101952307.wav
+	deleted:    SOREL/1K1_2024-05-30_124941225.wav
+	deleted:    SOREL/1K1_2024-05-30_212854724.wav
+	deleted:    SOREL/1K2_2024-05-30_124951820.wav
+	deleted:    SOREL/1K2_2024-05-30_212906869.wav
+	deleted:    SOREL/1K3_2024-05-30_124959610.wav
+	deleted:    SOREL/1K3_2024-05-30_212914404.wav
+	deleted:    SOREL/1L1_2024-05-30_125506798.wav
+	deleted:    SOREL/1L2_2024-05-30_125515662.wav
+	deleted:    SOREL/1L3_2024-05-30_125522777.wav
+	deleted:    SOREL/1N1_2024-05-30_115444082.wav
+	deleted:    SOREL/1N2_2024-05-30_115454893.wav
+	deleted:    SOREL/1N3_2024-05-30_115501126.wav
+	deleted:    SOREL/1S1_2024-05-31_060957827.wav
+	deleted:    SOREL/1S2_2024-05-31_061009175.wav
+	deleted:    SOREL/1S3_2024-05-31_061020815.wav
+	deleted:    SOREL/1T1_2024-05-30_130136288.wav
+	deleted:    SOREL/1T2_2024-05-30_130152418.wav
+	deleted:    SOREL/1T3_2024-05-30_130210490.wav
+	deleted:    SOREL/1k1_2024-05-30_123051956.wav
+	deleted:    SOREL/1k2_2024-05-30_123104520.wav
+	deleted:    SOREL/1k3_2024-05-30_123112394.wav
+	deleted:    SOREL/2E1_2024-05-30_114706082.wav
+	deleted:    SOREL/2E2_2024-05-30_114732508.wav
+	deleted:    SOREL/2E3_2024-05-30_114739006.wav
+	deleted:    SOREL/2F1_2024-05-30_124341343.wav
+	deleted:    SOREL/2F2_2024-05-30_124351124.wav
+	deleted:    SOREL/2F3_2024-05-30_124400630.wav
+	deleted:    SOREL/2J1_2024-05-31_102003607.wav
+	deleted:    SOREL/2J2_2024-05-31_102014430.wav
+	deleted:    SOREL/2J3_2024-05-31_102026050.wav
+	deleted:    SOREL/2K1_2024-05-30_125014599.wav
+	deleted:    SOREL/2K1_2024-05-30_212921888.wav
+	deleted:    SOREL/2K2_2024-05-30_125037041.wav
+	deleted:    SOREL/2K2_2024-05-30_212931513.wav
+	deleted:    SOREL/2K3_2024-05-30_125047305.wav
+	deleted:    SOREL/2K3_2024-05-30_212939708.wav
+	deleted:    SOREL/2L1_2024-05-30_125529297.wav
+	deleted:    SOREL/2L2_2024-05-30_125542721.wav
+	deleted:    SOREL/2L3_2024-05-30_125548885.wav
+	deleted:    SOREL/2N1_2024-05-30_115511945.wav
+	deleted:    SOREL/2N2_2024-05-30_115520954.wav
+	deleted:    SOREL/2N3_2024-05-30_115533815.wav
+	deleted:    SOREL/2S1_2024-05-31_061034078.wav
+	deleted:    SOREL/2S2_2024-05-31_061041805.wav
+	deleted:    SOREL/2S3_2024-05-31_061048136.wav
+	deleted:    SOREL/2T1_2024-05-30_130223704.wav
+	deleted:    SOREL/2T2_2024-05-30_130240031.wav
+	deleted:    SOREL/2T3_2024-05-30_130255132.wav
+	deleted:    SOREL/2k1_2024-05-30_123121228.wav
+	deleted:    SOREL/2k2_2024-05-30_123132335.wav
+	deleted:    SOREL/2k3_2024-05-30_123139996.wav
+	deleted:    SOREL/3E1_2024-05-30_114746861.wav
+	deleted:    SOREL/3E2_2024-05-30_114758943.wav
+	deleted:    SOREL/3E3_2024-05-30_114805463.wav
+	deleted:    SOREL/3F1_2024-05-30_124548516.wav
+	deleted:    SOREL/3F2_2024-05-30_124558317.wav
+	deleted:    SOREL/3F3_2024-05-30_124423861.wav
+	deleted:    SOREL/3J1_2024-05-31_102034554.wav
+	deleted:    SOREL/3J2_2024-05-31_102046191.wav
+	deleted:    SOREL/3J3_2024-05-31_102055961.wav
+	deleted:    SOREL/3K1_2024-05-30_125052924.wav
+	deleted:    SOREL/3K1_2024-05-30_212951389.wav
+	deleted:    SOREL/3K2_2024-05-30_125105373.wav
+	deleted:    SOREL/3K2_2024-05-30_213001371.wav
+	deleted:    SOREL/3K3_2024-05-30_125110213.wav
+	deleted:    SOREL/3K3_2024-05-30_213010054.wav
+	deleted:    SOREL/3L1_2024-05-30_125555434.wav
+	deleted:    SOREL/3L2_2024-05-30_125603361.wav
+	deleted:    SOREL/3L3_2024-05-30_125609723.wav
+	deleted:    SOREL/3N1_2024-05-30_115634355.wav
+	deleted:    SOREL/3N2_2024-05-30_115642629.wav
+	deleted:    SOREL/3N3_2024-05-30_115650002.wav
+	deleted:    SOREL/3S1_2024-05-31_061102487.wav
+	deleted:    SOREL/3S2_2024-05-31_061110168.wav
+	deleted:    SOREL/3S3_2024-05-31_061117376.wav
+	deleted:    SOREL/3T1_2024-05-30_130305692.wav
+	deleted:    SOREL/3T2_2024-05-30_130316368.wav
+	deleted:    SOREL/3T3_2024-05-30_130324470.wav
+	deleted:    SOREL/3k1_2024-05-30_123148616.wav
+	deleted:    SOREL/3k2_2024-05-30_123204011.wav
+	deleted:    SOREL/3k3_2024-05-30_123214608.wav
+	deleted:    SOREL/4E1_2024-05-30_114813948.wav
+	deleted:    SOREL/4E2_2024-05-30_114829334.wav
+	deleted:    SOREL/4E3_2024-05-30_114836366.wav
+	deleted:    SOREL/4F1_2024-05-30_124605309.wav
+	deleted:    SOREL/4F2_2024-05-30_124614925.wav
+	deleted:    SOREL/4F3_2024-05-30_124621443.wav
+	deleted:    SOREL/4J1_2024-05-31_102106201.wav
+	deleted:    SOREL/4J2_2024-05-31_102117755.wav
+	deleted:    SOREL/4J3_2024-05-31_102134850.wav
+	deleted:    SOREL/4K1_2024-05-30_125115303.wav
+	deleted:    SOREL/4K1_2024-05-30_214018716.wav
+	deleted:    SOREL/4K23_2024-05-30_125128079.wav
+	deleted:    SOREL/4K2_2024-05-30_125123195.wav
+	deleted:    SOREL/4K2_2024-05-30_214031611.wav
+	deleted:    SOREL/4K3_2024-05-30_125150867.wav
+	deleted:    SOREL/4K3_2024-05-30_214038770.wav
+	deleted:    SOREL/4L1_2024-05-30_125617653.wav
+	deleted:    SOREL/4L2_2024-05-30_125629812.wav
+	deleted:    SOREL/4L3_2024-05-30_125637553.wav
+	deleted:    SOREL/4N1_2024-05-30_115701709.wav
+	deleted:    SOREL/4N2_2024-05-30_115708838.wav
+	deleted:    SOREL/4N3_2024-05-30_115715432.wav
+	deleted:    SOREL/4S1_2024-05-31_061122860.wav
+	deleted:    SOREL/4S2_2024-05-31_061130156.wav
+	deleted:    SOREL/4S3_2024-05-31_061137188.wav
+	deleted:    SOREL/4T1_2024-05-30_130342688.wav
+	deleted:    SOREL/4T2_2024-05-30_130415014.wav
+	deleted:    SOREL/4T3_2024-05-30_130422463.wav
+	deleted:    SOREL/4k1_2024-05-30_123224554.wav
+	deleted:    SOREL/4k2_2024-05-30_123242370.wav
+	deleted:    SOREL/4k3_2024-05-30_123252172.wav
+	deleted:    SOREL/5E1_2024-05-30_114854762.wav
+	deleted:    SOREL/5E2_2024-05-30_114905087.wav
+	deleted:    SOREL/5E3_2024-05-30_114911322.wav
+	deleted:    SOREL/5F1_2024-05-30_124627626.wav
+	deleted:    SOREL/5F2_2024-05-30_124639497.wav
+	deleted:    SOREL/5F3_2024-05-30_124646075.wav
+	deleted:    SOREL/5J1_2024-05-31_102142625.wav
+	deleted:    SOREL/5J2_2024-05-31_102200132.wav
+	deleted:    SOREL/5J3_2024-05-31_102209925.wav
+	deleted:    SOREL/5K1_2024-05-30_125158683.wav
+	deleted:    SOREL/5K1_2024-05-30_214045617.wav
+	deleted:    SOREL/5K2_2024-05-30_125207102.wav
+	deleted:    SOREL/5K2_2024-05-30_214057542.wav
+	deleted:    SOREL/5K3_2024-05-30_125211891.wav
+	deleted:    SOREL/5K3_2024-05-30_214104615.wav
+	deleted:    SOREL/5L1_2024-05-30_125644687.wav
+	deleted:    SOREL/5L2_2024-05-30_125655112.wav
+	deleted:    SOREL/5L3_2024-05-30_125701731.wav
+	deleted:    SOREL/5N1_2024-05-30_115723156.wav
+	deleted:    SOREL/5N2_2024-05-30_115731957.wav
+	deleted:    SOREL/5N3_2024-05-30_115738354.wav
+	deleted:    SOREL/5S1_2024-05-31_061146638.wav
+	deleted:    SOREL/5S2_2024-05-31_061153897.wav
+	deleted:    SOREL/5S3_2024-05-31_061159950.wav
+	deleted:    SOREL/5T1_2024-05-30_130428958.wav
+	deleted:    SOREL/5T2_2024-05-30_130454569.wav
+	deleted:    SOREL/5T3_2024-05-30_130500466.wav
+	deleted:    SOREL/5k1_2024-05-30_123301536.wav
+	deleted:    SOREL/5k2_2024-05-30_123315530.wav
+	deleted:    SOREL/5k3_2024-05-30_123323281.wav
+	deleted:    SOREL/6E1_2024-05-30_114917822.wav
+	deleted:    SOREL/6E2_2024-05-30_114926129.wav
+	deleted:    SOREL/6E3_2024-05-30_114932294.wav
+	deleted:    SOREL/6F1_2024-05-30_124654335.wav
+	deleted:    SOREL/6F2_2024-05-30_124707263.wav
+	deleted:    SOREL/6F3_2024-05-30_124714049.wav
+	deleted:    SOREL/6J1_2024-05-31_102220104.wav
+	deleted:    SOREL/6J2_2024-05-31_102229805.wav
+	deleted:    SOREL/6J3_2024-05-31_102239550.wav
+	deleted:    SOREL/6K1_2024-05-30_125217866.wav
+	deleted:    SOREL/6K1_2024-05-30_214115446.wav
+	deleted:    SOREL/6K2_2024-05-30_125227626.wav
+	deleted:    SOREL/6K2_2024-05-30_214127595.wav
+	deleted:    SOREL/6K3_2024-05-30_125236960.wav
+	deleted:    SOREL/6K3_2024-05-30_214138396.wav
+	deleted:    SOREL/6L1_2024-05-30_125707880.wav
+	deleted:    SOREL/6L2_2024-05-30_125717293.wav
+	deleted:    SOREL/6L3_2024-05-30_125736521.wav
+	deleted:    SOREL/6N1_2024-05-30_115744091.wav
+	deleted:    SOREL/6N2_2024-05-30_115753294.wav
+	deleted:    SOREL/6N3_2024-05-30_115759908.wav
+	deleted:    SOREL/6S1_2024-05-31_061205883.wav
+	deleted:    SOREL/6S2_2024-05-31_061212946.wav
+	deleted:    SOREL/6S3_2024-05-31_061218897.wav
+	deleted:    SOREL/6T1_2024-05-30_130507400.wav
+	deleted:    SOREL/6T2_2024-05-30_130516400.wav
+	deleted:    SOREL/6T3_2024-05-30_130524924.wav
+	deleted:    SOREL/6k1_2024-05-30_123614132.wav
+	deleted:    SOREL/6k2_2024-05-30_123627260.wav
+	deleted:    SOREL/6k3_2024-05-30_123633972.wav
+	deleted:    SOREL/7E1_2024-05-30_114951469.wav
+	deleted:    SOREL/7E2_2024-05-30_115000969.wav
+	deleted:    SOREL/7E3_2024-05-30_115007155.wav
+	deleted:    SOREL/7F1_2024-05-30_124722133.wav
+	deleted:    SOREL/7F2_2024-05-30_124729819.wav
+	deleted:    SOREL/7F3_2024-05-30_124736105.wav
+	deleted:    SOREL/7J1_2024-05-31_102247671.wav
+	deleted:    SOREL/7J2_2024-05-31_102257900.wav
+	deleted:    SOREL/7J3_2024-05-31_102307248.wav
+	deleted:    SOREL/7K1_2024-05-30_125243377.wav
+	deleted:    SOREL/7K1_2024-05-30_214206934.wav
+	deleted:    SOREL/7K2_2024-05-30_125256903.wav
+	deleted:    SOREL/7K2_2024-05-30_214223513.wav
+	deleted:    SOREL/7K3_2024-05-30_125302955.wav
+	deleted:    SOREL/7K3_2024-05-30_214415519.wav
+	deleted:    SOREL/7L1_2024-05-30_125744264.wav
+	deleted:    SOREL/7L2_2024-05-30_125752355.wav
+	deleted:    SOREL/7L3_2024-05-30_125758866.wav
+	deleted:    SOREL/7N1_2024-05-30_115806907.wav
+	deleted:    SOREL/7N2_2024-05-30_115815853.wav
+	deleted:    SOREL/7N3_2024-05-30_115822189.wav
+	deleted:    SOREL/7S1_2024-05-31_061224517.wav
+	deleted:    SOREL/7S2_2024-05-31_061231361.wav
+	deleted:    SOREL/7S3_2024-05-31_061236866.wav
+	deleted:    SOREL/7T1_2024-05-30_130541745.wav
+	deleted:    SOREL/7T2_2024-05-30_130549670.wav
+	deleted:    SOREL/7T3_2024-05-30_130556318.wav
+	deleted:    SOREL/7k1_2024-05-30_123640739.wav
+	deleted:    SOREL/7k2_2024-05-30_123651777.wav
+	deleted:    SOREL/7k3_2024-05-30_123658422.wav
+	deleted:    SOREL/8E1_2024-05-30_115015442.wav
+	deleted:    SOREL/8E2_2024-05-30_115035897.wav
+	deleted:    SOREL/8E3_2024-05-30_115042810.wav
+	deleted:    SOREL/8F1_2024-05-30_124741910.wav
+	deleted:    SOREL/8F2_2024-05-30_124751508.wav
+	deleted:    SOREL/8F3_2024-05-30_124757490.wav
+	deleted:    SOREL/8J1_2024-05-31_102315552.wav
+	deleted:    SOREL/8J2_2024-05-31_102330043.wav
+	deleted:    SOREL/8J3_2024-05-31_102337384.wav
+	deleted:    SOREL/8K1_2024-05-30_125308109.wav
+	deleted:    SOREL/8K1_2024-05-30_214534519.wav
+	deleted:    SOREL/8K2_2024-05-30_125321920.wav
+	deleted:    SOREL/8K2_2024-05-30_125341943.wav
+	deleted:    SOREL/8K2_2024-05-30_215128606.wav
+	deleted:    SOREL/8K3_2024-05-30_125346235.wav
+	deleted:    SOREL/8K3_2024-05-30_214554083.wav
+	deleted:    SOREL/8L1_2024-05-30_125807008.wav
+	deleted:    SOREL/8L2_2024-05-30_125815795.wav
+	deleted:    SOREL/8L3_2024-05-30_125821980.wav
+	deleted:    SOREL/8N1_2024-05-30_115828537.wav
+	deleted:    SOREL/8N2_2024-05-30_115835713.wav
+	deleted:    SOREL/8N3_2024-05-30_115842792.wav
+	deleted:    SOREL/8S1_2024-05-31_061243000.wav
+	deleted:    SOREL/8S2_2024-05-31_061250358.wav
+	deleted:    SOREL/8S3_2024-05-31_061308208.wav
+	deleted:    SOREL/8T1_2024-05-30_130602783.wav
+	deleted:    SOREL/8T2_2024-05-30_130623399.wav
+	deleted:    SOREL/8T3_2024-05-30_130631092.wav
+	deleted:    SOREL/8k1_2024-05-30_123708020.wav
+	deleted:    SOREL/8k2_2024-05-30_123722871.wav
+	deleted:    SOREL/8k3_2024-05-30_123729377.wav
+	deleted:    SOREL/9E1_2024-05-30_115051595.wav
+	deleted:    SOREL/9E2_2024-05-30_115101642.wav
+	deleted:    SOREL/9E3_2024-05-30_115107259.wav
+	deleted:    SOREL/9F1_2024-05-30_124816256.wav
+	deleted:    SOREL/9F2_2024-05-30_124831073.wav
+	deleted:    SOREL/9F3_2024-05-30_124838319.wav
+	deleted:    SOREL/9J1_2024-05-31_102345014.wav
+	deleted:    SOREL/9J2_2024-05-31_102354428.wav
+	deleted:    SOREL/9J3_2024-05-31_102400961.wav
+	deleted:    SOREL/9K1_2024-05-30_125351623.wav
+	deleted:    SOREL/9K1_2024-05-30_214601090.wav
+	deleted:    SOREL/9K2_2024-05-30_125400058.wav
+	deleted:    SOREL/9K2_2024-05-30_214618695.wav
+	deleted:    SOREL/9K3_2024-05-30_125423962.wav
+	deleted:    SOREL/9K3_2024-05-30_214625822.wav
+	deleted:    SOREL/9L1_2024-05-30_125829239.wav
+	deleted:    SOREL/9L2_2024-05-30_125838849.wav
+	deleted:    SOREL/9L3_2024-05-30_125844922.wav
+	deleted:    SOREL/9N1_2024-05-30_115853321.wav
+	deleted:    SOREL/9N2_2024-05-30_115900859.wav
+	deleted:    SOREL/9N3_2024-05-30_115906529.wav
+	deleted:    SOREL/9S1_2024-05-31_061319119.wav
+	deleted:    SOREL/9S2_2024-05-31_061326414.wav
+	deleted:    SOREL/9S3_2024-05-31_061334834.wav
+	deleted:    SOREL/9T1_2024-05-30_130638391.wav
+	deleted:    SOREL/9T2_2024-05-30_130648469.wav
+	deleted:    SOREL/9T3_2024-05-30_130656177.wav
+	deleted:    SOREL/9k1_2024-05-30_123736287.wav
+	deleted:    SOREL/9k2_2024-05-30_123744645.wav
+	deleted:    SOREL/9k3_2024-05-30_123752303.wav
+	deleted:    makou/0_2024-05-30_160701734.wav
+	deleted:    makou/0_2024-05-30_160929017.wav
+	deleted:    makou/0_2024-05-30_161034482.wav
+	deleted:    makou/0_2024-05-30_161222027.wav
+	deleted:    makou/0_2024-05-30_161321249.wav
+	deleted:    makou/0_2024-05-30_161421390.wav
+	deleted:    makou/0_2024-05-30_161544503.wav
+	deleted:    makou/0_2024-05-30_161644985.wav
+	deleted:    makou/0_2024-05-30_161855655.wav
+	deleted:    makou/0_2024-05-30_162036633.wav
+	deleted:    makou/0_2024-05-30_162141691.wav
+	deleted:    makou/0_2024-05-30_162250881.wav
+	deleted:    makou/0_2024-05-30_162428422.wav
+	deleted:    makou/0_2024-05-30_162542014.wav
+	deleted:    makou/0_2024-05-30_162656421.wav
+	deleted:    makou/0_2024-05-30_162846483.wav
+	deleted:    makou/0_2024-05-30_163021235.wav
+	deleted:    makou/0_2024-05-30_163137284.wav
+	deleted:    makou/0_2024-05-30_163255756.wav
+	deleted:    makou/0_2024-05-30_163516796.wav
+	deleted:    makou/0_2024-05-30_163621302.wav
+	deleted:    makou/0_2024-05-30_163805845.wav
+	deleted:    makou/0_2024-05-30_163937471.wav
+	deleted:    makou/0_2024-05-30_164045666.wav
+	deleted:    makou/0_2024-05-30_164234330.wav
+	deleted:    makou/0_2024-05-30_164339043.wav
+	deleted:    makou/0_2024-05-30_164438920.wav
+	deleted:    makou/0_2024-05-30_164550526.wav
+	deleted:    makou/0_2024-05-30_164557069.wav
+	deleted:    makou/0_2024-05-30_164601159.wav
+	deleted:    makou/1_2024-05-30_160710633.wav
+	deleted:    makou/1_2024-05-30_160935901.wav
+	deleted:    makou/1_2024-05-30_161040531.wav
+	deleted:    makou/1_2024-05-30_161227922.wav
+	deleted:    makou/1_2024-05-30_161326849.wav
+	deleted:    makou/1_2024-05-30_161427768.wav
+	deleted:    makou/1_2024-05-30_161550183.wav
+	deleted:    makou/1_2024-05-30_161733406.wav
+	deleted:    makou/1_2024-05-30_161902402.wav
+	deleted:    makou/1_2024-05-30_162043273.wav
+	deleted:    makou/1_2024-05-30_162148168.wav
+	deleted:    makou/1_2024-05-30_162258686.wav
+	deleted:    makou/1_2024-05-30_162434384.wav
+	deleted:    makou/1_2024-05-30_162556120.wav
+	deleted:    makou/1_2024-05-30_162702170.wav
+	deleted:    makou/1_2024-05-30_162856705.wav
+	deleted:    makou/1_2024-05-30_163027284.wav
+	deleted:    makou/1_2024-05-30_163143284.wav
+	deleted:    makou/1_2024-05-30_163301535.wav
+	deleted:    makou/1_2024-05-30_163522343.wav
+	deleted:    makou/1_2024-05-30_163628924.wav
+	deleted:    makou/1_2024-05-30_163814546.wav
+	deleted:    makou/1_2024-05-30_163946220.wav
+	deleted:    makou/1_2024-05-30_164052298.wav
+	deleted:    makou/1_2024-05-30_164240539.wav
+	deleted:    makou/1_2024-05-30_164344407.wav
+	deleted:    makou/1_2024-05-30_164444603.wav
+	deleted:    makou/1_2024-05-30_164605518.wav
+	deleted:    makou/1_2024-05-30_164611122.wav
+	deleted:    makou/1_2024-05-30_164614847.wav
+	deleted:    makou/2_2024-05-30_160717082.wav
+	deleted:    makou/2_2024-05-30_160941705.wav
+	deleted:    makou/2_2024-05-30_161046254.wav
+	deleted:    makou/2_2024-05-30_161233771.wav
+	deleted:    makou/2_2024-05-30_161332072.wav
+	deleted:    makou/2_2024-05-30_161434514.wav
+	deleted:    makou/2_2024-05-30_161555714.wav
+	deleted:    makou/2_2024-05-30_161739658.wav
+	deleted:    makou/2_2024-05-30_161908813.wav
+	deleted:    makou/2_2024-05-30_162049819.wav
+	deleted:    makou/2_2024-05-30_162200172.wav
+	deleted:    makou/2_2024-05-30_162304463.wav
+	deleted:    makou/2_2024-05-30_162440099.wav
+	deleted:    makou/2_2024-05-30_162602268.wav
+	deleted:    makou/2_2024-05-30_162707823.wav
+	deleted:    makou/2_2024-05-30_162902582.wav
+	deleted:    makou/2_2024-05-30_163033447.wav
+	deleted:    makou/2_2024-05-30_163148837.wav
+	deleted:    makou/2_2024-05-30_163308991.wav
+	deleted:    makou/2_2024-05-30_163528407.wav
+	deleted:    makou/2_2024-05-30_163635551.wav
+	deleted:    makou/2_2024-05-30_163821326.wav
+	deleted:    makou/2_2024-05-30_163952768.wav
+	deleted:    makou/2_2024-05-30_164058408.wav
+	deleted:    makou/2_2024-05-30_164245878.wav
+	deleted:    makou/2_2024-05-30_164349834.wav
+	deleted:    makou/2_2024-05-30_164449797.wav
+	deleted:    makou/2_2024-05-30_164631528.wav
+	deleted:    makou/2_2024-05-30_164636792.wav
+	deleted:    makou/2_2024-05-30_164643591.wav
+	deleted:    makou/3_2024-05-30_160723214.wav
+	deleted:    makou/3_2024-05-30_160947736.wav
+	deleted:    makou/3_2024-05-30_161052037.wav
+	deleted:    makou/3_2024-05-30_161239175.wav
+	deleted:    makou/3_2024-05-30_161337756.wav
+	deleted:    makou/3_2024-05-30_161440795.wav
+	deleted:    makou/3_2024-05-30_161601630.wav
+	deleted:    makou/3_2024-05-30_161745577.wav
+	deleted:    makou/3_2024-05-30_161915076.wav
+	deleted:    makou/3_2024-05-30_162056050.wav
+	deleted:    makou/3_2024-05-30_162206135.wav
+	deleted:    makou/3_2024-05-30_162309821.wav
+	deleted:    makou/3_2024-05-30_162452082.wav
+	deleted:    makou/3_2024-05-30_162612525.wav
+	deleted:    makou/3_2024-05-30_162713526.wav
+	deleted:    makou/3_2024-05-30_162908501.wav
+	deleted:    makou/3_2024-05-30_163039411.wav
+	deleted:    makou/3_2024-05-30_163156777.wav
+	deleted:    makou/3_2024-05-30_163314646.wav
+	deleted:    makou/3_2024-05-30_163534376.wav
+	deleted:    makou/3_2024-05-30_163641779.wav
+	deleted:    makou/3_2024-05-30_163827916.wav
+	deleted:    makou/3_2024-05-30_163959529.wav
+	deleted:    makou/3_2024-05-30_164105172.wav
+	deleted:    makou/3_2024-05-30_164251719.wav
+	deleted:    makou/3_2024-05-30_164355278.wav
+	deleted:    makou/3_2024-05-30_164455204.wav
+	deleted:    makou/3_2024-05-30_164648078.wav
+	deleted:    makou/3_2024-05-30_164653897.wav
+	deleted:    makou/3_2024-05-30_164657206.wav
+	deleted:    makou/4_2024-05-30_160730864.wav
+	deleted:    makou/4_2024-05-30_160956819.wav
+	deleted:    makou/4_2024-05-30_161057983.wav
+	deleted:    makou/4_2024-05-30_161244788.wav
+	deleted:    makou/4_2024-05-30_161343656.wav
+	deleted:    makou/4_2024-05-30_161446615.wav
+	deleted:    makou/4_2024-05-30_161608244.wav
+	deleted:    makou/4_2024-05-30_161751920.wav
+	deleted:    makou/4_2024-05-30_161921954.wav
+	deleted:    makou/4_2024-05-30_162101997.wav
+	deleted:    makou/4_2024-05-30_162212531.wav
+	deleted:    makou/4_2024-05-30_162323508.wav
+	deleted:    makou/4_2024-05-30_162500236.wav
+	deleted:    makou/4_2024-05-30_162618920.wav
+	deleted:    makou/4_2024-05-30_162719078.wav
+	deleted:    makou/4_2024-05-30_162914251.wav
+	deleted:    makou/4_2024-05-30_163045497.wav
+	deleted:    makou/4_2024-05-30_163202892.wav
+	deleted:    makou/4_2024-05-30_163326529.wav
+	deleted:    makou/4_2024-05-30_163540440.wav
+	deleted:    makou/4_2024-05-30_163647275.wav
+	deleted:    makou/4_2024-05-30_163833403.wav
+	deleted:    makou/4_2024-05-30_164005429.wav
+	deleted:    makou/4_2024-05-30_164111254.wav
+	deleted:    makou/4_2024-05-30_164258529.wav
+	deleted:    makou/4_2024-05-30_164401348.wav
+	deleted:    makou/4_2024-05-30_164501852.wav
+	deleted:    makou/4_2024-05-30_164709276.wav
+	deleted:    makou/4_2024-05-30_164718812.wav
+	deleted:    makou/4_2024-05-30_164722533.wav
+	deleted:    makou/5_2024-05-30_160736919.wav
+	deleted:    makou/5_2024-05-30_161003047.wav
+	deleted:    makou/5_2024-05-30_161104183.wav
+	deleted:    makou/5_2024-05-30_161251222.wav
+	deleted:    makou/5_2024-05-30_161349009.wav
+	deleted:    makou/5_2024-05-30_161452327.wav
+	deleted:    makou/5_2024-05-30_161614199.wav
+	deleted:    makou/5_2024-05-30_161758120.wav
+	deleted:    makou/5_2024-05-30_161804580.wav
+	deleted:    makou/5_2024-05-30_161928172.wav
+	deleted:    makou/5_2024-05-30_162107899.wav
+	deleted:    makou/5_2024-05-30_162218143.wav
+	deleted:    makou/5_2024-05-30_162329625.wav
+	deleted:    makou/5_2024-05-30_162506482.wav
+	deleted:    makou/5_2024-05-30_162624999.wav
+	deleted:    makou/5_2024-05-30_162725310.wav
+	deleted:    makou/5_2024-05-30_162922124.wav
+	deleted:    makou/5_2024-05-30_163051859.wav
+	deleted:    makou/5_2024-05-30_163209001.wav
+	deleted:    makou/5_2024-05-30_163332602.wav
+	deleted:    makou/5_2024-05-30_163546758.wav
+	deleted:    makou/5_2024-05-30_163653695.wav
+	deleted:    makou/5_2024-05-30_163839834.wav
+	deleted:    makou/5_2024-05-30_164011527.wav
+	deleted:    makou/5_2024-05-30_164117765.wav
+	deleted:    makou/5_2024-05-30_164305366.wav
+	deleted:    makou/5_2024-05-30_164406897.wav
+	deleted:    makou/5_2024-05-30_164507452.wav
+	deleted:    makou/5_2024-05-30_164726222.wav
+	deleted:    makou/5_2024-05-30_164732026.wav
+	deleted:    makou/5_2024-05-30_164736268.wav
+	deleted:    makou/6_2024-05-30_160743912.wav
+	deleted:    makou/6_2024-05-30_161010160.wav
+	deleted:    makou/6_2024-05-30_161110248.wav
+	deleted:    makou/6_2024-05-30_161256955.wav
+	deleted:    makou/6_2024-05-30_161354609.wav
+	deleted:    makou/6_2024-05-30_161458017.wav
+	deleted:    makou/6_2024-05-30_161619960.wav
+	deleted:    makou/6_2024-05-30_161828674.wav
+	deleted:    makou/6_2024-05-30_161934152.wav
+	deleted:    makou/6_2024-05-30_162114696.wav
+	deleted:    makou/6_2024-05-30_162223567.wav
+	deleted:    makou/6_2024-05-30_162337047.wav
+	deleted:    makou/6_2024-05-30_162512898.wav
+	deleted:    makou/6_2024-05-30_162631430.wav
+	deleted:    makou/6_2024-05-30_162730908.wav
+	deleted:    makou/6_2024-05-30_162928852.wav
+	deleted:    makou/6_2024-05-30_163057611.wav
+	deleted:    makou/6_2024-05-30_163215066.wav
+	deleted:    makou/6_2024-05-30_163338098.wav
+	deleted:    makou/6_2024-05-30_163553768.wav
+	deleted:    makou/6_2024-05-30_163659009.wav
+	deleted:    makou/6_2024-05-30_163845816.wav
+	deleted:    makou/6_2024-05-30_164017392.wav
+	deleted:    makou/6_2024-05-30_164123995.wav
+	deleted:    makou/6_2024-05-30_164311337.wav
+	deleted:    makou/6_2024-05-30_164412481.wav
+	deleted:    makou/6_2024-05-30_164513086.wav
+	deleted:    makou/6_2024-05-30_164739668.wav
+	deleted:    makou/6_2024-05-30_164746213.wav
+	deleted:    makou/6_2024-05-30_164750483.wav
+	deleted:    makou/7_2024-05-30_160752583.wav
+	deleted:    makou/7_2024-05-30_161016091.wav
+	deleted:    makou/7_2024-05-30_161116165.wav
+	deleted:    makou/7_2024-05-30_161303087.wav
+	deleted:    makou/7_2024-05-30_161400623.wav
+	deleted:    makou/7_2024-05-30_161503597.wav
+	deleted:    makou/7_2024-05-30_161625960.wav
+	deleted:    makou/7_2024-05-30_161835708.wav
+	deleted:    makou/7_2024-05-30_161952699.wav
+	deleted:    makou/7_2024-05-30_162120643.wav
+	deleted:    makou/7_2024-05-30_162229284.wav
+	deleted:    makou/7_2024-05-30_162342495.wav
+	deleted:    makou/7_2024-05-30_162519028.wav
+	deleted:    makou/7_2024-05-30_162639124.wav
+	deleted:    makou/7_2024-05-30_162736739.wav
+	deleted:    makou/7_2024-05-30_162934532.wav
+	deleted:    makou/7_2024-05-30_163104020.wav
+	deleted:    makou/7_2024-05-30_163221067.wav
+	deleted:    makou/7_2024-05-30_163344424.wav
+	deleted:    makou/7_2024-05-30_163559948.wav
+	deleted:    makou/7_2024-05-30_163714065.wav
+	deleted:    makou/7_2024-05-30_163854036.wav
+	deleted:    makou/7_2024-05-30_164023644.wav
+	deleted:    makou/7_2024-05-30_164129978.wav
+	deleted:    makou/7_2024-05-30_164317080.wav
+	deleted:    makou/7_2024-05-30_164417965.wav
+	deleted:    makou/7_2024-05-30_164518920.wav
+	deleted:    makou/7_2024-05-30_164753921.wav
+	deleted:    makou/7_2024-05-30_164759652.wav
+	deleted:    makou/7_2024-05-30_164802544.wav
+	deleted:    makou/8_2024-05-30_160804375.wav
+	deleted:    makou/8_2024-05-30_161021976.wav
+	deleted:    makou/8_2024-05-30_161123143.wav
+	deleted:    makou/8_2024-05-30_161309170.wav
+	deleted:    makou/8_2024-05-30_161406868.wav
+	deleted:    makou/8_2024-05-30_161511113.wav
+	deleted:    makou/8_2024-05-30_161631762.wav
+	deleted:    makou/8_2024-05-30_161842450.wav
+	deleted:    makou/8_2024-05-30_161959026.wav
+	deleted:    makou/8_2024-05-30_162126608.wav
+	deleted:    makou/8_2024-05-30_162235396.wav
+	deleted:    makou/8_2024-05-30_162347917.wav
+	deleted:    makou/8_2024-05-30_162525813.wav
+	deleted:    makou/8_2024-05-30_162644708.wav
+	deleted:    makou/8_2024-05-30_162743521.wav
+	deleted:    makou/8_2024-05-30_162940519.wav
+	deleted:    makou/8_2024-05-30_163110123.wav
+	deleted:    makou/8_2024-05-30_163227036.wav
+	deleted:    makou/8_2024-05-30_163350278.wav
+	deleted:    makou/8_2024-05-30_163605948.wav
+	deleted:    makou/8_2024-05-30_163724022.wav
+	deleted:    makou/8_2024-05-30_163900266.wav
+	deleted:    makou/8_2024-05-30_164029170.wav
+	deleted:    makou/8_2024-05-30_164138363.wav
+	deleted:    makou/8_2024-05-30_164323032.wav
+	deleted:    makou/8_2024-05-30_164423353.wav
+	deleted:    makou/8_2024-05-30_164524416.wav
+	deleted:    makou/8_2024-05-30_164808287.wav
+	deleted:    makou/8_2024-05-30_164814669.wav
+	deleted:    makou/8_2024-05-30_164817797.wav
+	deleted:    makou/9_2024-05-30_160811158.wav
+	deleted:    makou/9_2024-05-30_161028689.wav
+	deleted:    makou/9_2024-05-30_161134348.wav
+	deleted:    makou/9_2024-05-30_161315184.wav
+	deleted:    makou/9_2024-05-30_161412673.wav
+	deleted:    makou/9_2024-05-30_161518116.wav
+	deleted:    makou/9_2024-05-30_161638656.wav
+	deleted:    makou/9_2024-05-30_161848899.wav
+	deleted:    makou/9_2024-05-30_162007278.wav
+	deleted:    makou/9_2024-05-30_162132723.wav
+	deleted:    makou/9_2024-05-30_162241488.wav
+	deleted:    makou/9_2024-05-30_162353270.wav
+	deleted:    makou/9_2024-05-30_162531920.wav
+	deleted:    makou/9_2024-05-30_162650507.wav
+	deleted:    makou/9_2024-05-30_162750561.wav
+	deleted:    makou/9_2024-05-30_162946545.wav
+	deleted:    makou/9_2024-05-30_163116538.wav
+	deleted:    makou/9_2024-05-30_163233860.wav
+	deleted:    makou/9_2024-05-30_163358342.wav
+	deleted:    makou/9_2024-05-30_163611728.wav
+	deleted:    makou/9_2024-05-30_163729370.wav
+	deleted:    makou/9_2024-05-30_163912844.wav
+	deleted:    makou/9_2024-05-30_164035688.wav
+	deleted:    makou/9_2024-05-30_164144795.wav
+	deleted:    makou/9_2024-05-30_164329289.wav
+	deleted:    makou/9_2024-05-30_164429503.wav
+	deleted:    makou/9_2024-05-30_164529738.wav
+	deleted:    makou/9_2024-05-30_164821242.wav
+	deleted:    makou/9_2024-05-30_164829396.wav
+	deleted:    makou/9_2024-05-30_164836477.wav
+	deleted:    stivins/0A-17-20-7_2024-05-25_094805865.wav
+	deleted:    stivins/0A-17-20-8_2024-05-25_094828405.wav
+	deleted:    stivins/0A-17-20-9_2024-05-25_094835479.wav
+	deleted:    stivins/0A-20-25-10_2024-05-25_094845942.wav
+	deleted:    stivins/0A-20-25-11_2024-05-25_101120911.wav
+	deleted:    stivins/0A-20-25-12_2024-05-25_101127267.wav
+	deleted:    stivins/0A-20-25-13_2024-05-25_101133252.wav
+	deleted:    stivins/0A-20-25-14_2024-05-25_101138650.wav
+	deleted:    stivins/0A-20-25-15_2024-05-25_101145733.wav
+	deleted:    stivins/0A-20-25-16_2024-05-25_101233997.wav
+	deleted:    stivins/0A-20-25-17_2024-05-25_101334235.wav
+	deleted:    stivins/0A-20-25-18_2024-05-25_101340402.wav
+	deleted:    stivins/0A-20-25-19_2024-05-25_101347990.wav
+	deleted:    stivins/0A-20-25-1_2024-05-25_094546614.wav
+	deleted:    stivins/0A-20-25-20_2024-05-25_101354360.wav
+	deleted:    stivins/0A-20-25-21_2024-05-30_190435699.wav
+	deleted:    stivins/0A-20-25-22_2024-05-30_190445055.wav
+	deleted:    stivins/0A-20-25-23_2024-05-30_190453252.wav
+	deleted:    stivins/0A-20-25-24_2024-05-30_190502467.wav
+	deleted:    stivins/0A-20-25-25_2024-05-30_190509396.wav
+	deleted:    stivins/0A-20-25-26_2024-05-30_190526337.wav
+	deleted:    stivins/0A-20-25-27_2024-05-30_190533023.wav
+	deleted:    stivins/0A-20-25-28_2024-05-30_190540576.wav
+	deleted:    stivins/0A-20-25-29_2024-05-30_190629148.wav
+	deleted:    stivins/0A-20-25-2_2024-05-25_094719739.wav
+	deleted:    stivins/0A-20-25-30_2024-05-30_190636646.wav
+	deleted:    stivins/0A-20-25-3_2024-05-25_094729783.wav
+	deleted:    stivins/0A-20-25-4_2024-05-25_094739369.wav
+	deleted:    stivins/0A-20-25-5_2024-05-25_094746620.wav
+	deleted:    stivins/0A-20-25-6_2024-05-25_094753556.wav
+	deleted:    stivins/1A-20-25-0_2024-05-30_190657375.wav
+	deleted:    stivins/1A-20-25-10_2024-05-30_190938007.wav
+	deleted:    stivins/1A-20-25-2_2024-05-30_190707847.wav
+	deleted:    stivins/1A-20-25-3_2024-05-30_190724004.wav
+	deleted:    stivins/1A-20-25-4_2024-05-30_190729891.wav
+	deleted:    stivins/1A-20-25-5_2024-05-30_190736815.wav
+	deleted:    stivins/1A-20-25-6_2024-05-30_190840768.wav
+	deleted:    stivins/1A-20-25-7_2024-05-30_190849132.wav
+	deleted:    stivins/1A-20-25-8_2024-05-30_190855238.wav
+	deleted:    stivins/1A-20-25-9_2024-05-30_190902464.wav
+	deleted:    stivins/1_2024-05-31_120706772.wav
+	deleted:    stivins/1_2024-05-31_120712230.wav
+	deleted:    stivins/1_2024-05-31_120715514.wav
+	deleted:    stivins/1_2024-05-31_120721934.wav
+	deleted:    stivins/1_2024-05-31_120724814.wav
+	deleted:    stivins/1_2024-05-31_120727888.wav
+	deleted:    stivins/1_2024-05-31_120730926.wav
+	deleted:    stivins/1_2024-05-31_120733967.wav
+	deleted:    stivins/1_2024-05-31_120737135.wav
+	deleted:    stivins/1_2024-05-31_120740180.wav
+	deleted:    stivins/1_2024-05-31_120743062.wav
+	deleted:    stivins/1_2024-05-31_120745852.wav
+	deleted:    stivins/1_2024-05-31_120748720.wav
+	deleted:    stivins/1_2024-05-31_120751623.wav
+	deleted:    stivins/1_2024-05-31_120754583.wav
+	deleted:    stivins/1_2024-05-31_120757913.wav
+	deleted:    stivins/1_2024-05-31_120800662.wav
+	deleted:    stivins/2_2024-05-31_102826651.wav
+	deleted:    stivins/2_2024-05-31_102835786.wav
+	deleted:    stivins/2_2024-05-31_102846811.wav
+	deleted:    stivins/2_2024-05-31_103159679.wav
+	deleted:    stivins/2_2024-05-31_103206229.wav
+	deleted:    stivins/2_2024-05-31_103209362.wav
+	deleted:    stivins/2_2024-05-31_110207003.wav
+	deleted:    stivins/2_2024-05-31_110217511.wav
+	deleted:    stivins/2_2024-05-31_110220331.wav
+	deleted:    stivins/2_2024-05-31_111525434.wav
+	deleted:    stivins/2_2024-05-31_111531046.wav
+	deleted:    stivins/2_2024-05-31_111533956.wav
+	deleted:    stivins/2_2024-05-31_112111143.wav
+	deleted:    stivins/2_2024-05-31_112116325.wav
+	deleted:    stivins/2_2024-05-31_112119190.wav
+	deleted:    stivins/2_2024-05-31_112328109.wav
+	deleted:    stivins/2_2024-05-31_112347767.wav
+	deleted:    stivins/2_2024-05-31_112353707.wav
+	deleted:    stivins/2_2024-05-31_114222068.wav
+	deleted:    stivins/2_2024-05-31_114227900.wav
+	deleted:    stivins/2_2024-05-31_114230741.wav
+	deleted:    stivins/2_2024-05-31_114432122.wav
+	deleted:    stivins/2_2024-05-31_114437980.wav
+	deleted:    stivins/2_2024-05-31_114440767.wav
+	deleted:    stivins/2_2024-05-31_114730577.wav
+	deleted:    stivins/2_2024-05-31_114735965.wav
+	deleted:    stivins/2_2024-05-31_114740127.wav
+	deleted:    stivins/2_2024-05-31_115009226.wav
+	deleted:    stivins/2_2024-05-31_115013901.wav
+	deleted:    stivins/2_2024-05-31_115021341.wav
+	deleted:    stivins/3_2024-05-31_102850958.wav
+	deleted:    stivins/3_2024-05-31_102855878.wav
+	deleted:    stivins/3_2024-05-31_102858611.wav
+	deleted:    stivins/3_2024-05-31_103213756.wav
+	deleted:    stivins/3_2024-05-31_103219507.wav
+	deleted:    stivins/3_2024-05-31_103222794.wav
+	deleted:    stivins/3_2024-05-31_110224221.wav
+	deleted:    stivins/3_2024-05-31_110229478.wav
+	deleted:    stivins/3_2024-05-31_110232823.wav
+	deleted:    stivins/3_2024-05-31_111539164.wav
+	deleted:    stivins/3_2024-05-31_111544356.wav
+	deleted:    stivins/3_2024-05-31_111547583.wav
+	deleted:    stivins/3_2024-05-31_112122775.wav
+	deleted:    stivins/3_2024-05-31_112126941.wav
+	deleted:    stivins/3_2024-05-31_112129799.wav
+	deleted:    stivins/3_2024-05-31_112356939.wav
+	deleted:    stivins/3_2024-05-31_112401709.wav
+	deleted:    stivins/3_2024-05-31_112408729.wav
+	deleted:    stivins/3_2024-05-31_114233828.wav
+	deleted:    stivins/3_2024-05-31_114238240.wav
+	deleted:    stivins/3_2024-05-31_114251058.wav
+	deleted:    stivins/3_2024-05-31_114253663.wav
+	deleted:    stivins/3_2024-05-31_114443499.wav
+	deleted:    stivins/3_2024-05-31_114448187.wav
+	deleted:    stivins/3_2024-05-31_114455928.wav
+	deleted:    stivins/3_2024-05-31_114459075.wav
+	deleted:    stivins/3_2024-05-31_114744811.wav
+	deleted:    stivins/3_2024-05-31_114749451.wav
+	deleted:    stivins/3_2024-05-31_114752452.wav
+	deleted:    stivins/3_2024-05-31_115024228.wav
+	deleted:    stivins/3_2024-05-31_115028893.wav
+	deleted:    stivins/3_2024-05-31_115031486.wav
+	deleted:    stivins/4_2024-05-31_102903060.wav
+	deleted:    stivins/4_2024-05-31_102908155.wav
+	deleted:    stivins/4_2024-05-31_102917382.wav
+	deleted:    stivins/4_2024-05-31_103225776.wav
+	deleted:    stivins/4_2024-05-31_103231194.wav
+	deleted:    stivins/4_2024-05-31_103234541.wav
+	deleted:    stivins/4_2024-05-31_110236663.wav
+	deleted:    stivins/4_2024-05-31_110241842.wav
+	deleted:    stivins/4_2024-05-31_110247558.wav
+	deleted:    stivins/4_2024-05-31_111600591.wav
+	deleted:    stivins/4_2024-05-31_111608392.wav
+	deleted:    stivins/4_2024-05-31_111613191.wav
+	deleted:    stivins/4_2024-05-31_112132436.wav
+	deleted:    stivins/4_2024-05-31_112137880.wav
+	deleted:    stivins/4_2024-05-31_112140231.wav
+	deleted:    stivins/4_2024-05-31_112411815.wav
+	deleted:    stivins/4_2024-05-31_112417910.wav
+	deleted:    stivins/4_2024-05-31_112420947.wav
+	deleted:    stivins/4_2024-05-31_114256482.wav
+	deleted:    stivins/4_2024-05-31_114304276.wav
+	deleted:    stivins/4_2024-05-31_114306865.wav
+	deleted:    stivins/4_2024-05-31_114502092.wav
+	deleted:    stivins/4_2024-05-31_114506643.wav
+	deleted:    stivins/4_2024-05-31_114509430.wav
+	deleted:    stivins/4_2024-05-31_114755416.wav
+	deleted:    stivins/4_2024-05-31_114759953.wav
+	deleted:    stivins/4_2024-05-31_114802777.wav
+	deleted:    stivins/4_2024-05-31_115034166.wav
+	deleted:    stivins/4_2024-05-31_115039019.wav
+	deleted:    stivins/4_2024-05-31_115042453.wav
+	deleted:    stivins/5_2024-05-31_102923795.wav
+	deleted:    stivins/5_2024-05-31_102929501.wav
+	deleted:    stivins/5_2024-05-31_102934024.wav
+	deleted:    stivins/5_2024-05-31_103250019.wav
+	deleted:    stivins/5_2024-05-31_103256449.wav
+	deleted:    stivins/5_2024-05-31_103259609.wav
+	deleted:    stivins/5_2024-05-31_110251781.wav
+	deleted:    stivins/5_2024-05-31_110256684.wav
+	deleted:    stivins/5_2024-05-31_110259487.wav
+	deleted:    stivins/5_2024-05-31_111620658.wav
+	deleted:    stivins/5_2024-05-31_111626179.wav
+	deleted:    stivins/5_2024-05-31_111629648.wav
+	deleted:    stivins/5_2024-05-31_112143000.wav
+	deleted:    stivins/5_2024-05-31_112147380.wav
+	deleted:    stivins/5_2024-05-31_112150138.wav
+	deleted:    stivins/5_2024-05-31_112425234.wav
+	deleted:    stivins/5_2024-05-31_112430941.wav
+	deleted:    stivins/5_2024-05-31_112434128.wav
+	deleted:    stivins/5_2024-05-31_114309423.wav
+	deleted:    stivins/5_2024-05-31_114314013.wav
+	deleted:    stivins/5_2024-05-31_114316651.wav
+	deleted:    stivins/5_2024-05-31_114513017.wav
+	deleted:    stivins/5_2024-05-31_114517786.wav
+	deleted:    stivins/5_2024-05-31_114521032.wav
+	deleted:    stivins/5_2024-05-31_114806995.wav
+	deleted:    stivins/5_2024-05-31_114813218.wav
+	deleted:    stivins/5_2024-05-31_114816614.wav
+	deleted:    stivins/5_2024-05-31_115046449.wav
+	deleted:    stivins/5_2024-05-31_115051353.wav
+	deleted:    stivins/5_2024-05-31_115054284.wav
+	deleted:    stivins/6_2024-05-31_102938040.wav
+	deleted:    stivins/6_2024-05-31_102945463.wav
+	deleted:    stivins/6_2024-05-31_102953136.wav
+	deleted:    stivins/6_2024-05-31_103338203.wav
+	deleted:    stivins/6_2024-05-31_103342674.wav
+	deleted:    stivins/6_2024-05-31_103345607.wav
+	deleted:    stivins/6_2024-05-31_110303229.wav
+	deleted:    stivins/6_2024-05-31_110310161.wav
+	deleted:    stivins/6_2024-05-31_110312910.wav
+	deleted:    stivins/6_2024-05-31_111633640.wav
+	deleted:    stivins/6_2024-05-31_111639302.wav
+	deleted:    stivins/6_2024-05-31_111642815.wav
+	deleted:    stivins/6_2024-05-31_112153260.wav
+	deleted:    stivins/6_2024-05-31_112202213.wav
+	deleted:    stivins/6_2024-05-31_112213722.wav
+	deleted:    stivins/6_2024-05-31_112437938.wav
+	deleted:    stivins/6_2024-05-31_112442886.wav
+	deleted:    stivins/6_2024-05-31_112446226.wav
+	deleted:    stivins/6_2024-05-31_114319280.wav
+	deleted:    stivins/6_2024-05-31_114324395.wav
+	deleted:    stivins/6_2024-05-31_114327228.wav
+	deleted:    stivins/6_2024-05-31_114524137.wav
+	deleted:    stivins/6_2024-05-31_114531846.wav
+	deleted:    stivins/6_2024-05-31_114536937.wav
+	deleted:    stivins/6_2024-05-31_114819955.wav
+	deleted:    stivins/6_2024-05-31_114825961.wav
+	deleted:    stivins/6_2024-05-31_114829737.wav
+	deleted:    stivins/6_2024-05-31_115057332.wav
+	deleted:    stivins/6_2024-05-31_115102389.wav
+	deleted:    stivins/6_2024-05-31_115105136.wav
+	deleted:    stivins/7_2024-05-31_102957579.wav
+	deleted:    stivins/7_2024-05-31_103002640.wav
+	deleted:    stivins/7_2024-05-31_103006027.wav
+	deleted:    stivins/7_2024-05-31_103350633.wav
+	deleted:    stivins/7_2024-05-31_103356280.wav
+	deleted:    stivins/7_2024-05-31_103359151.wav
+	deleted:    stivins/7_2024-05-31_110316089.wav
+	deleted:    stivins/7_2024-05-31_110321345.wav
+	deleted:    stivins/7_2024-05-31_110324428.wav
+	deleted:    stivins/7_2024-05-31_111646688.wav
+	deleted:    stivins/7_2024-05-31_111652743.wav
+	deleted:    stivins/7_2024-05-31_111655745.wav
+	deleted:    stivins/7_2024-05-31_112217916.wav
+	deleted:    stivins/7_2024-05-31_112222888.wav
+	deleted:    stivins/7_2024-05-31_112226057.wav
+	deleted:    stivins/7_2024-05-31_112452101.wav
+	deleted:    stivins/7_2024-05-31_112457089.wav
+	deleted:    stivins/7_2024-05-31_112500110.wav
+	deleted:    stivins/7_2024-05-31_114330028.wav
+	deleted:    stivins/7_2024-05-31_114334376.wav
+	deleted:    stivins/7_2024-05-31_114336907.wav
+	deleted:    stivins/7_2024-05-31_114540209.wav
+	deleted:    stivins/7_2024-05-31_114552142.wav
+	deleted:    stivins/7_2024-05-31_114555134.wav
+	deleted:    stivins/7_2024-05-31_114836667.wav
+	deleted:    stivins/7_2024-05-31_114841647.wav
+	deleted:    stivins/7_2024-05-31_114847730.wav
+	deleted:    stivins/7_2024-05-31_114854356.wav
+	deleted:    stivins/7_2024-05-31_115113078.wav
+	deleted:    stivins/7_2024-05-31_115118691.wav
+	deleted:    stivins/7_2024-05-31_115121796.wav
+	deleted:    stivins/8_2024-05-31_103012251.wav
+	deleted:    stivins/8_2024-05-31_103018235.wav
+	deleted:    stivins/8_2024-05-31_103021241.wav
+	deleted:    stivins/8_2024-05-31_103419318.wav
+	deleted:    stivins/8_2024-05-31_103423092.wav
+	deleted:    stivins/8_2024-05-31_103426751.wav
+	deleted:    stivins/8_2024-05-31_110331939.wav
+	deleted:    stivins/8_2024-05-31_110339652.wav
+	deleted:    stivins/8_2024-05-31_110342748.wav
+	deleted:    stivins/8_2024-05-31_111659034.wav
+	deleted:    stivins/8_2024-05-31_111706329.wav
+	deleted:    stivins/8_2024-05-31_111709620.wav
+	deleted:    stivins/8_2024-05-31_112229694.wav
+	deleted:    stivins/8_2024-05-31_112234806.wav
+	deleted:    stivins/8_2024-05-31_112238103.wav
+	deleted:    stivins/8_2024-05-31_112503661.wav
+	deleted:    stivins/8_2024-05-31_112509368.wav
+	deleted:    stivins/8_2024-05-31_112512754.wav
+	deleted:    stivins/8_2024-05-31_114341303.wav
+	deleted:    stivins/8_2024-05-31_114347037.wav
+	deleted:    stivins/8_2024-05-31_114349809.wav
+	deleted:    stivins/8_2024-05-31_114558005.wav
+	deleted:    stivins/8_2024-05-31_114603248.wav
+	deleted:    stivins/8_2024-05-31_114606863.wav
+	deleted:    stivins/8_2024-05-31_114858248.wav
+	deleted:    stivins/8_2024-05-31_114911750.wav
+	deleted:    stivins/8_2024-05-31_114918610.wav
+	deleted:    stivins/8_2024-05-31_115126254.wav
+	deleted:    stivins/8_2024-05-31_115131380.wav
+	deleted:    stivins/8_2024-05-31_115134600.wav
+	deleted:    stivins/9_2024-05-31_103024707.wav
+	deleted:    stivins/9_2024-05-31_103029852.wav
+	deleted:    stivins/9_2024-05-31_103033096.wav
+	deleted:    stivins/9_2024-05-31_103431001.wav
+	deleted:    stivins/9_2024-05-31_103435818.wav
+	deleted:    stivins/9_2024-05-31_103439161.wav
+	deleted:    stivins/9_2024-05-31_110345893.wav
+	deleted:    stivins/9_2024-05-31_110351006.wav
+	deleted:    stivins/9_2024-05-31_110354052.wav
+	deleted:    stivins/9_2024-05-31_111713181.wav
+	deleted:    stivins/9_2024-05-31_111718696.wav
+	deleted:    stivins/9_2024-05-31_111721837.wav
+	deleted:    stivins/9_2024-05-31_112241809.wav
+	deleted:    stivins/9_2024-05-31_112247238.wav
+	deleted:    stivins/9_2024-05-31_112250467.wav
+	deleted:    stivins/9_2024-05-31_112516619.wav
+	deleted:    stivins/9_2024-05-31_112522192.wav
+	deleted:    stivins/9_2024-05-31_112525700.wav
+	deleted:    stivins/9_2024-05-31_114352800.wav
+	deleted:    stivins/9_2024-05-31_114357153.wav
+	deleted:    stivins/9_2024-05-31_114359950.wav
+	deleted:    stivins/9_2024-05-31_114610105.wav
+	deleted:    stivins/9_2024-05-31_114615313.wav
+	deleted:    stivins/9_2024-05-31_114618530.wav
+	deleted:    stivins/9_2024-05-31_114924646.wav
+	deleted:    stivins/9_2024-05-31_114929741.wav
+	deleted:    stivins/9_2024-05-31_114932844.wav
+	deleted:    stivins/9_2024-05-31_115138170.wav
+	deleted:    stivins/9_2024-05-31_115144273.wav
+	deleted:    stivins/9_2024-05-31_115147489.wav
+	deleted:    voukeng/0_1_2024-05-31_063728113.wav
+	deleted:    voukeng/0_1_2024-05-31_064916119.wav
+	deleted:    voukeng/0_1_2024-05-31_064923198.wav
+	deleted:    voukeng/0_2024-05-31_065540867.wav
+	deleted:    voukeng/0_2024-05-31_065559958.wav
+	deleted:    voukeng/0_2024-05-31_065606875.wav
+	deleted:    voukeng/0_2024-05-31_065612664.wav
+	deleted:    voukeng/0_2024-05-31_065617335.wav
+	deleted:    voukeng/0_2024-05-31_065622590.wav
+	deleted:    voukeng/0_2024-05-31_070251551.wav
+	deleted:    voukeng/0_2024-05-31_070257936.wav
+	deleted:    voukeng/0_2024-05-31_070330630.wav
+	deleted:    voukeng/0_2024-05-31_070742299.wav
+	deleted:    voukeng/0_2024-05-31_070753522.wav
+	deleted:    voukeng/0_2024-05-31_070756433.wav
+	deleted:    voukeng/0_2024-05-31_071136973.wav
+	deleted:    voukeng/0_2024-05-31_071142891.wav
+	deleted:    voukeng/0_2024-05-31_071145951.wav
+	deleted:    voukeng/0_2024-05-31_080822853.wav
+	deleted:    voukeng/0_2024-05-31_080837679.wav
+	deleted:    voukeng/0_2024-05-31_080843067.wav
+	deleted:    voukeng/0_2024-05-31_101810800.wav
+	deleted:    voukeng/0_2024-05-31_101819225.wav
+	deleted:    voukeng/0_2024-05-31_101823217.wav
+	deleted:    voukeng/0_2024-05-31_102457648.wav
+	deleted:    voukeng/0_2024-05-31_102524072.wav
+	deleted:    voukeng/0_2024-05-31_102538471.wav
+	deleted:    voukeng/0_2024-05-31_102830751.wav
+	deleted:    voukeng/0_2024-05-31_102907330.wav
+	deleted:    voukeng/0_2024-05-31_102911978.wav
+	deleted:    voukeng/1_1_2024-05-31_064943353.wav
+	deleted:    voukeng/1_1_2024-05-31_064955942.wav
+	deleted:    voukeng/1_1_2024-05-31_065005902.wav
+	deleted:    voukeng/1_2024-05-31_065629758.wav
+	deleted:    voukeng/1_2024-05-31_065636785.wav
+	deleted:    voukeng/1_2024-05-31_065641082.wav
+	deleted:    voukeng/1_2024-05-31_065646005.wav
+	deleted:    voukeng/1_2024-05-31_065649164.wav
+	deleted:    voukeng/1_2024-05-31_065654818.wav
+	deleted:    voukeng/1_2024-05-31_070403839.wav
+	deleted:    voukeng/1_2024-05-31_070409809.wav
+	deleted:    voukeng/1_2024-05-31_070413001.wav
+	deleted:    voukeng/1_2024-05-31_070801505.wav
+	deleted:    voukeng/1_2024-05-31_070810053.wav
+	deleted:    voukeng/1_2024-05-31_070824935.wav
+	deleted:    voukeng/1_2024-05-31_071148944.wav
+	deleted:    voukeng/1_2024-05-31_071205141.wav
+	deleted:    voukeng/1_2024-05-31_071208400.wav
+	deleted:    voukeng/1_2024-05-31_080846841.wav
+	deleted:    voukeng/1_2024-05-31_080855855.wav
+	deleted:    voukeng/1_2024-05-31_080858481.wav
+	deleted:    voukeng/1_2024-05-31_101826907.wav
+	deleted:    voukeng/1_2024-05-31_101834473.wav
+	deleted:    voukeng/1_2024-05-31_101837566.wav
+	deleted:    voukeng/1_2024-05-31_102542064.wav
+	deleted:    voukeng/1_2024-05-31_102552889.wav
+	deleted:    voukeng/1_2024-05-31_102556148.wav
+	deleted:    voukeng/1_2024-05-31_102915718.wav
+	deleted:    voukeng/1_2024-05-31_102932946.wav
+	deleted:    voukeng/1_2024-05-31_102936174.wav
+	deleted:    voukeng/2_1_2024-05-31_065017061.wav
+	deleted:    voukeng/2_1_2024-05-31_065032127.wav
+	deleted:    voukeng/2_1_2024-05-31_065037348.wav
+	deleted:    voukeng/2_2024-05-31_065700755.wav
+	deleted:    voukeng/2_2024-05-31_065707207.wav
+	deleted:    voukeng/2_2024-05-31_065710599.wav
+	deleted:    voukeng/2_2024-05-31_065714989.wav
+	deleted:    voukeng/2_2024-05-31_065720876.wav
+	deleted:    voukeng/2_2024-05-31_065724984.wav
+	deleted:    voukeng/2_2024-05-31_070416726.wav
+	deleted:    voukeng/2_2024-05-31_070422430.wav
+	deleted:    voukeng/2_2024-05-31_070425157.wav
+	deleted:    voukeng/2_2024-05-31_070828278.wav
+	deleted:    voukeng/2_2024-05-31_070836194.wav
+	deleted:    voukeng/2_2024-05-31_070838970.wav
+	deleted:    voukeng/2_2024-05-31_071211876.wav
+	deleted:    voukeng/2_2024-05-31_071217862.wav
+	deleted:    voukeng/2_2024-05-31_071220890.wav
+	deleted:    voukeng/2_2024-05-31_080904718.wav
+	deleted:    voukeng/2_2024-05-31_080912700.wav
+	deleted:    voukeng/2_2024-05-31_080915477.wav
+	deleted:    voukeng/2_2024-05-31_101950943.wav
+	deleted:    voukeng/2_2024-05-31_101959704.wav
+	deleted:    voukeng/2_2024-05-31_102002776.wav
+	deleted:    voukeng/2_2024-05-31_102559324.wav
+	deleted:    voukeng/2_2024-05-31_102605128.wav
+	deleted:    voukeng/2_2024-05-31_102608404.wav
+	deleted:    voukeng/2_2024-05-31_102940479.wav
+	deleted:    voukeng/2_2024-05-31_102949392.wav
+	deleted:    voukeng/2_2024-05-31_102952884.wav
+	deleted:    voukeng/3_2024-05-31_065044233.wav
+	deleted:    voukeng/3_2024-05-31_065056689.wav
+	deleted:    voukeng/3_2024-05-31_065101644.wav
+	deleted:    voukeng/3_2024-05-31_065731370.wav
+	deleted:    voukeng/3_2024-05-31_065738653.wav
+	deleted:    voukeng/3_2024-05-31_065742595.wav
+	deleted:    voukeng/3_2024-05-31_065748580.wav
+	deleted:    voukeng/3_2024-05-31_065751973.wav
+	deleted:    voukeng/3_2024-05-31_065755365.wav
+	deleted:    voukeng/3_2024-05-31_070430512.wav
+	deleted:    voukeng/3_2024-05-31_070458648.wav
+	deleted:    voukeng/3_2024-05-31_070502207.wav
+	deleted:    voukeng/3_2024-05-31_070843045.wav
+	deleted:    voukeng/3_2024-05-31_070848848.wav
+	deleted:    voukeng/3_2024-05-31_070851758.wav
+	deleted:    voukeng/3_2024-05-31_071224598.wav
+	deleted:    voukeng/3_2024-05-31_071231632.wav
+	deleted:    voukeng/3_2024-05-31_071234575.wav
+	deleted:    voukeng/3_2024-05-31_080918639.wav
+	deleted:    voukeng/3_2024-05-31_080924573.wav
+	deleted:    voukeng/3_2024-05-31_080927283.wav
+	deleted:    voukeng/3_2024-05-31_102008946.wav
+	deleted:    voukeng/3_2024-05-31_102016162.wav
+	deleted:    voukeng/3_2024-05-31_102019321.wav
+	deleted:    voukeng/3_2024-05-31_102611597.wav
+	deleted:    voukeng/3_2024-05-31_102616769.wav
+	deleted:    voukeng/3_2024-05-31_102619862.wav
+	deleted:    voukeng/3_2024-05-31_103001182.wav
+	deleted:    voukeng/3_2024-05-31_103011976.wav
+	deleted:    voukeng/3_2024-05-31_103015583.wav
+	deleted:    voukeng/4_2024-05-31_065107065.wav
+	deleted:    voukeng/4_2024-05-31_065120469.wav
+	deleted:    voukeng/4_2024-05-31_065130778.wav
+	deleted:    voukeng/4_2024-05-31_065801851.wav
+	deleted:    voukeng/4_2024-05-31_065810182.wav
+	deleted:    voukeng/4_2024-05-31_065817599.wav
+	deleted:    voukeng/4_2024-05-31_065821523.wav
+	deleted:    voukeng/4_2024-05-31_065827859.wav
+	deleted:    voukeng/4_2024-05-31_065831999.wav
+	deleted:    voukeng/4_2024-05-31_070505916.wav
+	deleted:    voukeng/4_2024-05-31_070511519.wav
+	deleted:    voukeng/4_2024-05-31_070515012.wav
+	deleted:    voukeng/4_2024-05-31_070855899.wav
+	deleted:    voukeng/4_2024-05-31_070902568.wav
+	deleted:    voukeng/4_2024-05-31_070907174.wav
+	deleted:    voukeng/4_2024-05-31_071238034.wav
+	deleted:    voukeng/4_2024-05-31_071244752.wav
+	deleted:    voukeng/4_2024-05-31_071247679.wav
+	deleted:    voukeng/4_2024-05-31_080930696.wav
+	deleted:    voukeng/4_2024-05-31_080936230.wav
+	deleted:    voukeng/4_2024-05-31_080939240.wav
+	deleted:    voukeng/4_2024-05-31_102030413.wav
+	deleted:    voukeng/4_2024-05-31_102037347.wav
+	deleted:    voukeng/4_2024-05-31_102041221.wav
+	deleted:    voukeng/4_2024-05-31_102625948.wav
+	deleted:    voukeng/4_2024-05-31_102638270.wav
+	deleted:    voukeng/4_2024-05-31_102641613.wav
+	deleted:    voukeng/4_2024-05-31_103018842.wav
+	deleted:    voukeng/4_2024-05-31_103024795.wav
+	deleted:    voukeng/4_2024-05-31_103028008.wav
+	deleted:    voukeng/5_2024-05-31_065224824.wav
+	deleted:    voukeng/5_2024-05-31_065247427.wav
+	deleted:    voukeng/5_2024-05-31_065251964.wav
+	deleted:    voukeng/5_2024-05-31_065836606.wav
+	deleted:    voukeng/5_2024-05-31_065843374.wav
+	deleted:    voukeng/5_2024-05-31_065846766.wav
+	deleted:    voukeng/5_2024-05-31_065850558.wav
+	deleted:    voukeng/5_2024-05-31_065856445.wav
+	deleted:    voukeng/5_2024-05-31_065900985.wav
+	deleted:    voukeng/5_2024-05-31_070519252.wav
+	deleted:    voukeng/5_2024-05-31_070533770.wav
+	deleted:    voukeng/5_2024-05-31_070536846.wav
+	deleted:    voukeng/5_2024-05-31_070911797.wav
+	deleted:    voukeng/5_2024-05-31_070917401.wav
+	deleted:    voukeng/5_2024-05-31_070921043.wav
+	deleted:    voukeng/5_2024-05-31_071251255.wav
+	deleted:    voukeng/5_2024-05-31_071257241.wav
+	deleted:    voukeng/5_2024-05-31_071259885.wav
+	deleted:    voukeng/5_2024-05-31_080943497.wav
+	deleted:    voukeng/5_2024-05-31_080949334.wav
+	deleted:    voukeng/5_2024-05-31_080952260.wav
+	deleted:    voukeng/5_2024-05-31_102045429.wav
+	deleted:    voukeng/5_2024-05-31_102052248.wav
+	deleted:    voukeng/5_2024-05-31_102103388.wav
+	deleted:    voukeng/5_2024-05-31_102644673.wav
+	deleted:    voukeng/5_2024-05-31_102651109.wav
+	deleted:    voukeng/5_2024-05-31_102654168.wav
+	deleted:    voukeng/5_2024-05-31_103031564.wav
+	deleted:    voukeng/5_2024-05-31_103037938.wav
+	deleted:    voukeng/5_2024-05-31_103041425.wav
+	deleted:    voukeng/6_2024-05-31_065309280.wav
+	deleted:    voukeng/6_2024-05-31_065319470.wav
+	deleted:    voukeng/6_2024-05-31_065325272.wav
+	deleted:    voukeng/6_2024-05-31_065909149.wav
+	deleted:    voukeng/6_2024-05-31_065915784.wav
+	deleted:    voukeng/6_2024-05-31_065920591.wav
+	deleted:    voukeng/6_2024-05-31_065930884.wav
+	deleted:    voukeng/6_2024-05-31_065934510.wav
+	deleted:    voukeng/6_2024-05-31_065937652.wav
+	deleted:    voukeng/6_2024-05-31_070542252.wav
+	deleted:    voukeng/6_2024-05-31_070545859.wav
+	deleted:    voukeng/6_2024-05-31_070634783.wav
+	deleted:    voukeng/6_2024-05-31_070925050.wav
+	deleted:    voukeng/6_2024-05-31_070930804.wav
+	deleted:    voukeng/6_2024-05-31_070955133.wav
+	deleted:    voukeng/6_2024-05-31_071312058.wav
+	deleted:    voukeng/6_2024-05-31_071318310.wav
+	deleted:    voukeng/6_2024-05-31_071321154.wav
+	deleted:    voukeng/6_2024-05-31_080955969.wav
+	deleted:    voukeng/6_2024-05-31_081001423.wav
+	deleted:    voukeng/6_2024-05-31_081004250.wav
+	deleted:    voukeng/6_2024-05-31_102111620.wav
+	deleted:    voukeng/6_2024-05-31_102344098.wav
+	deleted:    voukeng/6_2024-05-31_102347621.wav
+	deleted:    voukeng/6_2024-05-31_102658159.wav
+	deleted:    voukeng/6_2024-05-31_102704728.wav
+	deleted:    voukeng/6_2024-05-31_102707588.wav
+	deleted:    voukeng/6_2024-05-31_103044602.wav
+	deleted:    voukeng/6_2024-05-31_103055710.wav
+	deleted:    voukeng/6_2024-05-31_103102228.wav
+	deleted:    voukeng/7_2024-05-31_065341452.wav
+	deleted:    voukeng/7_2024-05-31_065412035.wav
+	deleted:    voukeng/7_2024-05-31_065426185.wav
+	deleted:    voukeng/7_2024-05-31_065941994.wav
+	deleted:    voukeng/7_2024-05-31_065948561.wav
+	deleted:    voukeng/7_2024-05-31_065952336.wav
+	deleted:    voukeng/7_2024-05-31_065958824.wav
+	deleted:    voukeng/7_2024-05-31_070001715.wav
+	deleted:    voukeng/7_2024-05-31_070005091.wav
+	deleted:    voukeng/7_2024-05-31_070641867.wav
+	deleted:    voukeng/7_2024-05-31_070648486.wav
+	deleted:    voukeng/7_2024-05-31_070651579.wav
+	deleted:    voukeng/7_2024-05-31_070959058.wav
+	deleted:    voukeng/7_2024-05-31_071004678.wav
+	deleted:    voukeng/7_2024-05-31_071007428.wav
+	deleted:    voukeng/7_2024-05-31_071324380.wav
+	deleted:    voukeng/7_2024-05-31_071330201.wav
+	deleted:    voukeng/7_2024-05-31_071332894.wav
+	deleted:    voukeng/7_2024-05-31_081008125.wav
+	deleted:    voukeng/7_2024-05-31_081013347.wav
+	deleted:    voukeng/7_2024-05-31_081016390.wav
+	deleted:    voukeng/7_2024-05-31_102359345.wav
+	deleted:    voukeng/7_2024-05-31_102407110.wav
+	deleted:    voukeng/7_2024-05-31_102415358.wav
+	deleted:    voukeng/7_2024-05-31_102710823.wav
+	deleted:    voukeng/7_2024-05-31_102716618.wav
+	deleted:    voukeng/7_2024-05-31_102720476.wav
+	deleted:    voukeng/7_2024-05-31_103119058.wav
+	deleted:    voukeng/7_2024-05-31_103126158.wav
+	deleted:    voukeng/7_2024-05-31_103130549.wav
+	deleted:    voukeng/8_2024-05-31_065437010.wav
+	deleted:    voukeng/8_2024-05-31_065444793.wav
+	deleted:    voukeng/8_2024-05-31_065449383.wav
+	deleted:    voukeng/8_2024-05-31_070016699.wav
+	deleted:    voukeng/8_2024-05-31_070047596.wav
+	deleted:    voukeng/8_2024-05-31_070055528.wav
+	deleted:    voukeng/8_2024-05-31_070101315.wav
+	deleted:    voukeng/8_2024-05-31_070107934.wav
+	deleted:    voukeng/8_2024-05-31_070111924.wav
+	deleted:    voukeng/8_2024-05-31_070655437.wav
+	deleted:    voukeng/8_2024-05-31_070701340.wav
+	deleted:    voukeng/8_2024-05-31_070704366.wav
+	deleted:    voukeng/8_2024-05-31_071013242.wav
+	deleted:    voukeng/8_2024-05-31_071018946.wav
+	deleted:    voukeng/8_2024-05-31_071022039.wav
+	deleted:    voukeng/8_2024-05-31_071345266.wav
+	deleted:    voukeng/8_2024-05-31_071351370.wav
+	deleted:    voukeng/8_2024-05-31_071354080.wav
+	deleted:    voukeng/8_2024-05-31_081020164.wav
+	deleted:    voukeng/8_2024-05-31_081026367.wav
+	deleted:    voukeng/8_2024-05-31_081031572.wav
+	deleted:    voukeng/8_2024-05-31_102418384.wav
+	deleted:    voukeng/8_2024-05-31_102424687.wav
+	deleted:    voukeng/8_2024-05-31_102427797.wav
+	deleted:    voukeng/8_2024-05-31_102724201.wav
+	deleted:    voukeng/8_2024-05-31_102730869.wav
+	deleted:    voukeng/8_2024-05-31_102735359.wav
+	deleted:    voukeng/8_2024-05-31_103139812.wav
+	deleted:    voukeng/8_2024-05-31_103146163.wav
+	deleted:    voukeng/8_2024-05-31_103150071.wav
+	deleted:    voukeng/9_2024-05-31_065455535.wav
+	deleted:    voukeng/9_2024-05-31_065503185.wav
+	deleted:    voukeng/9_2024-05-31_065508290.wav
+	deleted:    voukeng/9_2024-05-31_070115982.wav
+	deleted:    voukeng/9_2024-05-31_070123732.wav
+	deleted:    voukeng/9_2024-05-31_070130200.wav
+	deleted:    voukeng/9_2024-05-31_070134922.wav
+	deleted:    voukeng/9_2024-05-31_070138816.wav
+	deleted:    voukeng/9_2024-05-31_070142455.wav
+	deleted:    voukeng/9_2024-05-31_070708856.wav
+	deleted:    voukeng/9_2024-05-31_070715109.wav
+	deleted:    voukeng/9_2024-05-31_070718435.wav
+	deleted:    voukeng/9_2024-05-31_071026081.wav
+	deleted:    voukeng/9_2024-05-31_071031568.wav
+	deleted:    voukeng/9_2024-05-31_071035026.wav
+	deleted:    voukeng/9_2024-05-31_071357641.wav
+	deleted:    voukeng/9_2024-05-31_071403093.wav
+	deleted:    voukeng/9_2024-05-31_071405721.wav
+	deleted:    voukeng/9_2024-05-31_081034699.wav
+	deleted:    voukeng/9_2024-05-31_081039754.wav
+	deleted:    voukeng/9_2024-05-31_081042381.wav
+	deleted:    voukeng/9_2024-05-31_102431937.wav
+	deleted:    voukeng/9_2024-05-31_102437475.wav
+	deleted:    voukeng/9_2024-05-31_102440469.wav
+	deleted:    voukeng/9_2024-05-31_102739034.wav
+	deleted:    voukeng/9_2024-05-31_102744722.wav
+	deleted:    voukeng/9_2024-05-31_102748535.wav
+	deleted:    voukeng/9_2024-05-31_103154527.wav
+	deleted:    voukeng/9_2024-05-31_103202526.wav
+	deleted:    voukeng/9_2024-05-31_103207133.wav
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	test.txt
+
