@@ -8,7 +8,7 @@ _source tp_INF3721_G2/bin/activate_
 _pip install -r requirements.txt_
 
 - Démarrez l'API avec la commande : \
-_uvicorn main:app --reload_
+_uvicorn main:app --reload <--port numero_port>_
 
 # Installation via Docker
 
@@ -23,4 +23,6 @@ _docker run -d --name tp_INF3721_G2 -p 8000:80 fastapi-keras-app_
 Ouvrez votre navigateur et entrez l'adresse **http://127.0.0.1:8000/docs** \
 pour accéder à la documentation de l'API. Vous y trouverez les détails sur \
 les appels de notre API de reconnaissance des chiffres à partir de leur audios.\
-**NB :** Si le port 8000 est occupé, vous pouvez le changer avec un autre port libre de votre système.
+
+**NB :** Si le port 8000 est occupé, vous pouvez le changer avec un autre port libre\
+de votre système
