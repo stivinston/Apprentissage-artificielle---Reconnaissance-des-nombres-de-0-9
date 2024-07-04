@@ -1,4 +1,4 @@
-# Installation directement sur la machine 
+# Installation via environnement python  
 
 - Creer un environnement python et activez le avec les commandes : \
 _python -m venv venv_
