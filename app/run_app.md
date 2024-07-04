@@ -1,7 +1,7 @@
 # Installation via environnement python  
 
 - Creer un environnement python et activez le avec les commandes : \
-_python -m venv tp_INF3721_G2_
+_python -m venv tp_INF3721_G2_\
 _source tp_INF3721_G2/bin/activate_
 
 - Installer les dépendances de l'application : \
