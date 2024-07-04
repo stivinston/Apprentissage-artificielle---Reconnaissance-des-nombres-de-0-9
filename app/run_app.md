@@ -8,7 +8,7 @@ _source tp_INF3721_G2/bin/activate_
 _pip install -r requirements.txt_
 
 - Démarrez l'API avec la commande : \
-_uvicorn main:app --reload <--port numero_port>_
+_uvicorn main:app --reload_
 
 # Installation via Docker
 
@@ -25,4 +25,6 @@ pour accéder à la documentation de l'API. Vous y trouverez les détails sur \
 les appels de notre API de reconnaissance des chiffres à partir de leur audios.\
 
 **NB :** Si le port 8000 est occupé, vous pouvez le changer avec un autre port libre\
-de votre système
+de votre système (numero_port) :
+- Ajouter **--port numero_port** a la commande qui lance l'API dans la version python-env ;
+- Changer le **8000:80** par **numero_port:80**  dans la version avec docker.
