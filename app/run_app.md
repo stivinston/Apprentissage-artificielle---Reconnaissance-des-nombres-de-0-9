@@ -1,7 +1,7 @@
 # Installation via environnement python  
 
 - Creer un environnement python et activez le avec les commandes : \
-_python -m venv venv_
+_python -m venv tp_INF3721_G2_
 
 - Installer les dépendances de l'application : \
 _pip install -r requirements.txt_
@@ -13,10 +13,10 @@ _uvicorn main:app --reload_
 
 Se placer dans le dossier de l'application et executer les commandes suivantes :
 - Construire l'image Docker\
-_docker build -t fastapi-keras-app ._
+_docker build -t tp_INF3721_G2 ._
 
 - Exécuter le conteneur Docker\
-_docker run -d --name fastapi-keras-container -p 8000:80 fastapi-keras-app_
+_docker run -d --name tp_INF3721_G2 -p 8000:80 fastapi-keras-app_
 
 # Utilisation 
 Ouvrez votre navigateur et entrez l'adresse **http://127.0.0.1:8000/docs** \
