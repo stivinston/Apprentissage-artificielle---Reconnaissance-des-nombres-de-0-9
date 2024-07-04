@@ -36,9 +36,6 @@ def processing(filepath):
     clean_audio=extract_silence_StartEnd(audio, sample_rate)
     mfcc = librosa.feature.mfcc(y=clean_audio, sr=sample_rate, n_mfcc=N_MFCC)
     X=np.mean(mfcc, axis=1)
-    print("*"*10)
-    print(f"\n\n{X.shape}\n\n")
-    print("*"*10)
     #Normalisation minmax
     X = MinMaxScale(X, MIN, MAX)
     return X
